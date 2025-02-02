@@ -4,11 +4,11 @@ import numpy
 import pymysql
 
 DB_HOST = "localhost"
-DB_USER = "phpmyadmin"
-DB_PASSWORD = "StrongP@ssw0rd123!"
+DB_USER = "root"
+DB_PASSWORD = "2001620lzzA"
 DB_NAME = "stock"
 
-def download_stock(ticker, period, interval):
+def download_stock(ticker, period="1mo", interval="1h"):
 	stock_data = yf.download(tickers= ticker, period= period, interval= interval)
 	return stock_data
 def connect_db():
@@ -28,6 +28,18 @@ def insert_data(ticker, data):
 	conn.close()
 	print(f"Data for {ticker} saved successfully")
 
-ticker = input("stock: ")
-stock_data = download_stock(ticker, input("period: "), input("interval: "))
-insert_data(ticker, stock_data)
+# ticker = input("stock: ")
+# stock_data = download_stock(ticker, input("period: "), input("interval: "))
+# insert_data(ticker, stock_data)
+
+
+if __name__ == '__main__':
+
+	with open('initial_portfolio.txt', 'r') as file:
+		stocks = file.read().split(',')
+
+		for stock in stocks:
+			stock_data = download_stock(stock)
+			insert_data(stock, stock_data)
+
+
