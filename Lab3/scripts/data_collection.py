@@ -8,7 +8,7 @@ DB_USER = "root"
 DB_PASSWORD = "2001620lzzA"
 DB_NAME = "stock"
 
-def download_stock(ticker, period="1mo", interval="1h"):
+def download_stock(ticker, period="5mo", interval="1h"):
 	stock_data = yf.download(tickers= ticker, period= period, interval= interval)
 	return stock_data
 def connect_db():
