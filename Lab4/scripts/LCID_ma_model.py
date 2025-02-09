@@ -58,14 +58,12 @@ plt.plot(test.index, actual_test_price, label='Actual price', color='orange')
 plt.plot(test.index, predicted_price, label='Predicted price', color='red')
 plt.legend()
 plt.savefig("../data/LCID/ma_model.png")
-
-print("plots are saved")
 plt.close()
 
 
 # evaluate the model
 rmse = np.sqrt(mean_squared_error(actual_test_price, predicted_price))
-print(f"RMSE: {rmse}")
+
 
 # strategy: if daily return > 0 buy else hold
 s_data = pd.concat([actual_test_price, predicted_price], axis = 1)
@@ -79,8 +77,8 @@ s_data["cumulative_market_return"] = (1 + s_data["actual_return"]).cumprod() -1
 
 s_return = s_data["cumulative_strategy_return"].iloc[-1] * 100
 m_return = s_data["cumulative_market_return"].iloc[-1] * 100
-print(s_data[["actual_return", "signal", "strategy_return"]])
-print(s_data[s_data["signal"] == 1].count())
+
+print(f"RMSE: {rmse}")
 print(f"s_return on LCID: {s_return}", "%")
 print(f"m_return on LCID: {m_return}", "%")
 
