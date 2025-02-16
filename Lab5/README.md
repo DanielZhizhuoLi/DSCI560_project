@@ -1,37 +1,45 @@
-# Stock Price Analysis and Algorithmic Trading
+# Reddit Post Scraper
 
 ## Setup
 
-Installation
+### Installation
 
-```pip install pandas numpy yfinance pymysal statsmodels matplotlib sqlalchemy pandas_ta plot_acf sklearn tensorflow```
+```pip install pandas, numpy, python-dotenv, praw, pymql, matplotlib, nltk, gensim, json, scikit-learn, time, schedule```
 
-Create Mysql Database in mysql
+### Create Mysql Database in mysql
 
-```CREATE DATABASE processed_stock_data```
+```CREATE DATABASE reddit```
 
-Make sure table exists
+### Make sure table exists
+
+Create posts table to store raw data
 
 ```
-    CREATE TABLE IF NOT EXISTS processed_stock_data (
-        id INT AUTO_INCREMENT PRIMARY KEY,
-        stock VARCHAR(20) NOT NULL,
-        datetime DATETIME NOT NULL,
-        close DECIMAL(10,2) NOT NULL,
-        daily_return DECIMAL(15,8),
-        SMA_10 DECIMAL(10,2),
-        EMA_10 DECIMAL(10,2),
-        volatility DECIMAL(15,8),
-        RSI DECIMAL(10,2)
+CREATE TABLE IF NOT EXISTS posts (
+    id VARCHAR(20) PRIMARY KEY,
+    content TEXT
+);
+```
+
+
+
+Create processed_data to store vectors
+
+```
+CREATE TABLE IF NOT EXISTS processed_data (
+    id VARCHAR(20) PRIMARY KEY,
+    content TEXT,
+    vector JSON
 );
 ```
 
 ## Data Collection / Storage
-In data_collection.py, we collect a list of stocks in our portfolio (AAPL, TSLA, NVDA, LCID) using yfinance API calls by inputing the stock ticker, period, and interval. 
-We collected the data from 2024-09-01 to 2024-11-30, interval = 1h.
-After getting the raw data, we clean up missing values to make sure no error message is raised when storing data into mysql localhost.
-We later connect our mysql localhost using pymysql, query the desired format and store it in the stock table
+In auto_web_scraping.py, we collect a number of hot posts in "/tech" subreddit and scrape as many as we can. 
+We rest the script to not exceed the limit of requesting in Reddit API, 100 request over a minute.
+After scraping, we store the raw data in the post table in reddit database.
+
 
 ## Data Preprocessing
-In data_preprocessing.py, we deal with missing values using interpolation fill, we then transform data by converting timestamps and calculating 
-key financial metrics including Daily Returns, SMA(10day), EMA(10day), Volatility, RSI after that we put the processed data in to mysql.
+In data_cleaning.py, we first removed the stopwords and punctuations. Later, we vectorized the text in each posts.
+Lastly use the doc2vec model to embed the vector into a numeric representation, length of 50.
+After all the data preprocessing, we can pass the data to KMeans cluster to classify the posts into groups.
