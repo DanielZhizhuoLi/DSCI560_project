@@ -49,7 +49,6 @@ scaler = StandardScaler()
 x_scaled = scaler.fit_transform(x)
 
 
-doc_vectors = np.array([np.array(json.lodas(vec) for vec in df['vector'])])
 kmeans = KMeans(n_clusters = 2, random_state = 42)
 kmeans.fit(x_scaled)
 
@@ -63,26 +62,26 @@ plt.scatter(x_pca[:, 0], x_pca[:,1], c=kmeans.labels_, cmap = 'viridis', s = 50,
 
 #plot centroids
 centroids_pca = pca.transform(centroids)
-plt.scatter(centroids_pca[:,0], centroids_pca[:,1], c='red', s=200, marker= 'x', label='Centroids')
+plt.scatter(centroids_pca[:,0], centroids_pca[:,1], c='red', s=200, marker= 'o', label='Centroids')
+
+plt.title("KMeans Clusters and Centroids")
+plt.legend()
+plt.savefig("../data/kmeans_and_centroids.png")
+plt.close()
+print("fig is saved")
 
 # identify the points around centroids
-closes_docs = []
+closest_docs = []
 for i, centroid in enumerate(centroids):
-	distance = np.linalg.norm(doc_vectors - centroid, axis = 1)
-	closest_idx = np.aragmin(distance)
+	distance = np.linalg.norm(x_scaled - centroid, axis = 1)
+	closest_idx = np.argmin(distance)
 	closest_docs.append({
 		'cluster': i,
 		'id': df.iloc[closest_idx]['id'],
 	'content': df.iloc[closest_idx]['content']})
 
-for doc in close_docs:
+for doc in closest_docs:
 	print(f"cluster {doc['cluster']}:")
 	print(f"closest document ID: {doc['id']}")
 	print(f"content {doc['content']}")
-	print()
 
-plt.scatter(doc_vectors[:,0], doc_vectors[:, 1], c=labels, cmap='viridis')
-plt.scatter(centroids[:0], cnetroids[:,1], s =300, c='red', marker='x')
-plt.title("KMeans Clusters and Centroids")
-plt.savefig("../data/kmeans_and_centroids.png")
-plt.close()
