@@ -1,5 +1,18 @@
 import re
 from collections import Counter
+import os
+import pymysql
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support import expected_conditions as EC
+import time
+import json
+
+
 
 def extract_well_info(txt):
 	api_pattern = re.compile(r'\b\d{2}-\d{3}-\d{5}\b')
@@ -13,7 +26,8 @@ def extract_well_info(txt):
 		well_name = find_most_common_substring(well_match)
 	else:
 		well_name = 'Not Found'
-	return well_name, api
+	cleaned_name = re.split(r"\s*Before\s*", well_name, maxsplit=1)[0]
+	return cleaned_name, api
 
 def find_most_common_substring(well_names):
 	all_substrings = []
@@ -26,63 +40,149 @@ def find_most_common_substring(well_names):
 	most_common_substring = sorted_substrings[0][0] if sorted_substrings else "Not Found"
 	return most_common_substring
 
-def extract_stimulation_data(txt):
-	txt = txt.replace("!", "|").replace("\n", " ").strip()
-	header_pattern = re.compile(r"""
-        Date\s+Stimulated\s*\|?\s*Stimulated\s+Formation\s*\|?\s*Top\s*\(Ft\)\s*\|?\s*Bottom\s*\(Ft\)\s*\|?
-        Stimulation\s+Stages\s*\|?\s*Volume\s*\|?\s*Volume\s+Units\s*\|?\s*Type\s+Treatment\s*\|?\s*Acid\s*%\s*\|?
-        Lbs\s+Proppant\s*\|?\s*Maximum\s+Treatment\s+Pressure\s*\(PSI\)\s*\|?\s*Maximum\s+Treatment\s+Rate\s*\(BBLS/Min\)
-    """, re.VERBOSE)
 
-    	# Check if the header exists in the document
-	if not re.search(header_pattern, txt):
-		print("No matching column headers found. Skipping table extraction.")
-		return []
-	table_pattern = re.compile(r"""
-        (\d{2}/\d{2}/\d{4})                # Date
-        \s+([A-Za-z\s\d]+)                 # Stimulated Formation
-        \s*(\d*)                           # Top (optional)
-        \s*(\d*)                           # Bottom (optional)
-        \s*(\d*)                           # Stimulation Stages (optional)
-        \s*(\d*)                           # Volume (optional)
-        \s*([A-Za-z]+)?                    # Volume Units (optional)
-        \s*([A-Za-z\s]+)?                  # Type Treatment (optional)
-        \s*(\d*)                           # Acid % (optional)
-        \s*(\d*)                           # Lbs Proppant (optional)
-        \s*(\d+(\.\d+)?)?                  # Maximum Treatment Pressure (optional)
-        \s*(\d+(\.\d+)?)?                  # Maximum Treatment Rate (optional)
-        \s*([\w\s#\-,\.]*)?                # Details (optional, multiline)
-	""", re.VERBOSE)
-	table_rows = table_pattern.findall(txt)
-	if not table_rows:
-		print("No table row found")
-	stimulation_data = []
-	for row in table_rows:
-		stimulation_row = {
-		"Date Stimulated": row[1] if len(row) > 1 and row[1] else None,
-		"Stimulated Formation": row[2] if len(row) > 2 and row[2] else None,
-		"Top (Ft)": row[3] if len(row) > 3 and row[3] else None,
-		"Bottom (Ft)": row[4] if len(row) > 4 and row[4] else None,
-		"Stimulation Stages": row[5] if len(row) > 5 and row[5] else None,
-		"Volume": row[6] if len(row) > 6 and row[6] else None,
-		"Volume Units": row[7] if len(row) > 7 and row[7] else None,
-		"Type Treatment": row[8] if len(row) > 8 and row[8] else None,
-		"Acid %": row[9] if len(row) > 9 and row[9] else None,
-		"Lbs Proppant": row[10] if len(row) > 10 and row[10] else None,
-		"Maximum Treatment Pressure (PSI)": row[11] if len(row) > 11 and row[11] else None,
-		"Maximum Treatment Rate (BBLS/Min)": row[12] if len(row) > 12 and row[12] else None,
-		"Details": row[13] if len(row) > 13 and row[13] else None
-		}
-		stimulation_data.append(stimulation_row)
-	return stimulation_data
+DB_HOST = "localhost"
+DB_USER = "phpmyadmin"
+DB_PASSWORD = "StrongPassw0rd123!"
+DB_NAME = "well"
+
+def scrape_well_data(well_name, api):
+	service = Service("/home/tsung-ting-lee/Downloads/chromedriver-linux64/chromedriver")
+	driver = webdriver.Chrome(service=service)
+	data = {
+	"block_stats": [],
+	"well_status": None,
+	"well_type": None,
+	"closest_city": None
+	 }
+	try:
+		url = "https://www.drillingedge.com/search"
+		driver.get(url)
+		time.sleep(2)
+		# found the column and input well name
+		well_input = driver.find_element(By.NAME, "well_name")
+		well_input.send_keys(well_name)
+
+		# found the column and input api
+		api_input = driver.find_element(By.NAME, "api_no")
+		api_input.send_keys(api)
+
+		api_input.send_keys(Keys.RETURN)
+
+		try:
+			# Wait for the results
+			WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.table_wrapper")))
+			table = driver.find_element(By.CSS_SELECTOR, "div.table_wrapper table.table.wide-table.interest_table")
+			link_element = table.find_element(By.TAG_NAME, "a")
+			href = link_element.get_attribute("href")
 
 
-with open("../data/extracted_data/ocr_W25159.txt", 'r', encoding='utf-8') as f:
-	text = f.read()
+			# direct to the new page
+			driver.get(href)
+			WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+			data = {}
 
-	well_name, api = extract_well_info(text)
-	tables = extract_stimulation_data(text)
-	print(well_name)
-	print(api)
-	for table in tables:
-		print(table)
+			block_stats = driver.find_elements(By.CLASS_NAME, "block_stat")
+			data["block_stats"] = []
+			for block_stat in block_stats:
+				try:
+					number = block_stat.find_element(By.CLASS_NAME, "dropcap").text
+					content = block_stat.text.replace(number, "").strip()
+					data["block_stats"].append({
+						"number": number,
+						"content": content})
+				except:
+					print("block stats not found")
+				try:
+					well_status = driver.find_element(By.XPATH, "//th[contains(text(), 'Well Status')]/following-sibling::td").text
+					data["well_status"] = well_status
+				except:
+					print("Well status not found.")
+				try:
+					well_type = driver.find_element(By.XPATH, "//th[contains(text(), 'Well Type')]/following-sibling::td").text
+					data["well_type"] = well_type
+				except:
+					print("Well type not found.")
+				try:
+					closest_city = driver.find_element(By.XPATH, "//th[contains(text(), 'Closest City')]/following-sibling::td").text
+					data["closest_city"] = closest_city
+				except:
+					print("Closest city not found.")
+		except TimeoutException:
+			print(f"No result for {well_name} and {api}")
+			return data
+	except Exception as e:
+		print(f"an error occur: {e}")
+		return data
+	finally:
+		driver.quit()
+	print(data)
+	return data
+
+def connect_db():
+	return pymysql.connect(host = DB_HOST, user= DB_USER, password=DB_PASSWORD, database=DB_NAME)
+
+def check_duplicates(cursor, well_name, api):
+    sql = "SELECT * FROM well WHERE name = %s AND api = %s"
+    cursor.execute(sql, (well_name, api))
+    return cursor.fetchone() is not None
+
+
+def insert_data(data):
+	conn = connect_db()
+	cursor = conn.cursor()
+	cursor.execute('''
+    CREATE TABLE IF NOT EXISTS well (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        name VARCHAR(30),
+	API CHAR(12),
+	block_stats JSON,
+	well_status VARCHAR(10),
+	well_type VARCHAR(20),
+	closest_city VARCHAR(30),
+	filename VARCHAR(6) 
+	);
+	''')
+
+	for record in data:
+		well_name = record.get("well_name")
+		api = record.get("api")
+		block_stats = json.dumps(record.get("block_stats"))
+		well_status = record.get("well_status")
+		well_type = record.get("well_type")
+		closest_city = record.get("closest_city")
+		filename = record.get("filename")
+		if not check_duplicates(cursor, well_name, api):
+			sql = """INSERT INTO well (name, API, block_stats, well_status, well_type, closest_city, filename)
+				VALUE(%s, %s, %s, %s, %s, %s, %s)"""
+			values = (well_name, api, block_stats, well_status, well_type, closest_city, filename)
+			cursor.execute(sql, values)
+			print(f"insert record")
+		else:
+			print("duplicated record")
+	conn.commit()
+	cursor.close()
+	conn.close()
+	print(f"Data saved successfully")
+
+data = []
+input_folder = "../data/extracted_data"
+for filename in os.listdir(input_folder):
+	input_path = os.path.join(input_folder, filename)
+	with open(input_path, 'r', encoding='utf-8') as f:
+		text = f.read()
+
+		well_name, api = extract_well_info(text)
+		print(well_name)
+		print(api)
+
+		scraped_data = scrape_well_data(well_name, api)
+		output_filename = os.path.split(filename)[0]
+		record = {
+			"well_name": well_name,
+			"api": api,
+			"filename": output_filename,
+			**scraped_data}
+		data.append(record)
+
+insert_data(data)
