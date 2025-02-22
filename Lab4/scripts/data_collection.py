@@ -8,9 +8,9 @@ DB_USER = "root"
 DB_PASSWORD = "2001620lzzA"
 DB_NAME = "stock"
 
-def download_stock(ticker, period="5mo", interval="1h"):
-	stock_data = yf.download(tickers= ticker, period= period, interval= interval)
-	return stock_data
+def download_stock(ticker, start="2023-01-01", end="2025-01-01", interval="1d"):
+    stock_data = yf.download(tickers=ticker, start=start, end=end, interval=interval)
+    return stock_data
 def connect_db():
 	return pymysql.connect(host = DB_HOST, user= DB_USER, password=DB_PASSWORD, database=DB_NAME)
 

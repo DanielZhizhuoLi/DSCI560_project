@@ -117,7 +117,7 @@ df.loc[df.index[-len(predicted_diff_pct):], "predicted_diff_pct"] = predicted_di
 print("Predictions Completed.")
 
 
-THRESHOLD = 2 * 0.02775
+THRESHOLD = 2 * 0.036
 
 def calculate_trade_percentage(predicted_value):
     if predicted_value > THRESHOLD:
@@ -152,7 +152,7 @@ conn = pymysql.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD, databas
 cursor = conn.cursor()
 
 cursor.execute("""
-    CREATE TABLE IF NOT EXISTS predicted_stock_data (
+    CREATE TABLE IF NOT EXISTS given_period_stock_data (
         id INT AUTO_INCREMENT PRIMARY KEY,
         stock VARCHAR(20) NOT NULL,
         datetime DATETIME NOT NULL,
@@ -164,7 +164,7 @@ cursor.execute("""
 """)
 
 insert_query = """
-    INSERT INTO predicted_stock_data (stock, datetime, close, predicted_diff_pct, trade_percentage, trade_signal)
+    INSERT INTO given_period_stock_data (stock, datetime, close, predicted_diff_pct, trade_percentage, trade_signal)
     VALUES (%s, %s, %s, %s, %s, %s)
 """
 
