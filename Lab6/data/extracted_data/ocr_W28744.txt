@@ -1,0 +1,1159 @@
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+ase \ OIL AND GAS DIVISION Recei.ved Well File No.
+Yas S75) 600 EAST BOULEVARD DEPT 405 28744
+S@xenk” = BISMARCK, ND 58505-0840 MAR 18 2016
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. ND Oil & Gas Division
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+O Notice of Intent Approximate Start Date O Drilling Prognosis oO Spill Report
+oO Redrilling or Repair oO Shooting
+Report of Work Done Date Work Completed (1) Casing or Liner (J Acidizing
+Saptember'43, 2015 L] Plug Well (] Fracture Treatment
+oO Notice of Intent to Begin a Workover Project that may Qualify oO Supplemental History Change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. oO + ‘Wiaband oO Real fi
+Approximate Start Date emporarily jandon eclamation
+LL) Other Well is now on pump
+Well Name and Number 24-HOUR PRODUCTION RATE
+Wade Federla 5300 41-30 9B Before After
+Footages : Qtr-Qtr Section ‘Township Range Oil Bbls |Oil Bbis
+811 F SL 280 F W_L| LOT4 30 153 N 100 W Water Bbls |Water Bblis
+Field Pool County Gas MCF |Gas MCF
+Baker Bakken Williams
+Name of Contractor(s)
+Address City State Zip Code
+DETAILS OF WORK
+Effective 09/13/2015 the above referenced well is on pump.
+End of Tubing: 2-7/8" L-80 tubing @ 10040.83'
+Pump: ESP @ 9853.11'
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9436 FOR STATE USE ONLY
+Address
+Oo Approved
+1001 Fannin, Suite 1500
+City State Zip Code
+Houston TX 77002
+Signature Printed Name
+Jennifer Swenson
+Title Date
+Regulatory Specialist March 17, 2016
+JARED THUNE
+Email Address
+jswenson@oasispetroleum.com Engineering fechnician
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Designate Type of Completion
+1£1 Oil Well D EOR Well D Recompletion D Deepened Well D Extended Horizontal Leg
+D Gas Well D SWD Well D Water Supply Well D Other:
+Well Name and Number Spacing Unit Description
+Wade Federal 5300 41-30 9B Sec. 29/30/31/32 T153N R100W
+Operator Telephone Number Field
+Oasis Petroleum North America (281) 404-9591 Baker
+Address Pool
+1001 Fannin, Suite 1500 Bakken
+City State Zip Code Permit Type
+Houston TX 77002 D Wildcat 1£1 Development D Extension
+LOCATION OF WELL
+At Surface Qtr-Qtr I Section I Township rsI Range County
+w
+811 F S L 280 F WL LOT4 30 153 N 100 Williams
+Spud Date I Date TD Reached Drilling Contractor and Rig Number Elevation (Ft) Graded Elevation (Ft)
+Seotember 2014 December 8 2014 Patterson 488 2070 2045
+Type of Electric and Other Logs Run (See Instructions)
+MWD/GR from KOP to TD· CBL from int. TD to surface
+CASING & TUBULARS RECORD (Report all s set in well)
+String Top Set Depth Set Hole Size Weight Anchor Set Packer Set Sacks Top of
+Well Bore Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) (MD Ft) Cement Cement
+Surface Hole Surface 13 3/8 0 2110 54.5 1178 0
+Vertical Hole Intermediate 9 5/8 0 6034 40 1168 2100
+Vertical Hole Intermediate 7 0 11552 32 250 8360
+Lateral1 Liner 41/2 10136 20625 13.5 516 10136
+Lateral1 Liner 41/2 0 10136 13.5 0
+PERFORATION & OPEN HOLE INTERVALS
+Open Hole/Perforated Top of
+Well Bore TD Kick-off
+Completion Interval (MD,Ft) Casing Date Perfd Date Isolation Sacks
+Well Bore Drillers Depth Point
+Type Window or Drilled Isolated Method Cement
+(MD Ft) Top Bottom (MD Ft) (MD Ft)
+Lateral1 20650 Perforations 11552 20265 10200
+PRODUCTION I
+Current Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) Name of Zone (If Different from Pool Name)
+Lateral 1- 11552' to 20625'
+Date Well Completed (SEE INSTRUCTIONS) Producing Method Pumping-Size & Type of Pump IWell Status (Producing or Shut-In)
+June 13, 2015 Flowing Producing
+Date of Test IHours Tested Choke Size Oil (Bbls) I Gas (MCF) 1water (Bbls) I Oil Gravity-AP! (Corr.) 'Disposition of Gas
+06/30/2015 24 26 . 164 Production for Test 3109 102 2982 ° Sold
+Flowing Tubing Pressure (PSI) Flowing Casing Pressure (PSI) I Calculated 'Oil (Bbls) 'Gas (MCF) 'Water (Bbls) 'Gas-Oil Ratio
+1500 2800 24-Hour Rate 3109 102 2982 33
+·-
+Page 3
+SFN 2468 (04-2010)
+We II S1 pec"1fj1 c s timu I a t1. ons
+Date Stimulated I Stimulated Formation I Top (Ft) I Bottom (Ft)IStimulation Stages I Volume !Volume Units
+Bakken 11552 20265 50 171968 Barrels
+Type Treatment IAcid % I Lbs Proppant I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Sand Frac 9289252 9310 37.0
+Details
+40/70 White: 1188022
+20/40 White: 6518120
+20/40 RC: 1395110
+100 Mesh: 188000
+Date Stimulated !Stimulated Formation I Top (Ft) I Bottom (Ft)IStimulation Stages I Volume !Volume Units
+Type Treatment IAcid % I Lbs Proppant I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+Date Stimulated !Stimulated Formation I Top (Ft) I Bottom (Ft) I Stimulation Stages I Volume !Volume Units
+Type Treatment IAcid % I Lbs Proppant · I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+Date Stimulated !Stimulated Formation I Top (Ft) I Bottom (Ft) I Stimulation Stages I Volume !Volume Units
+Type Treatment IAcid % I Lbs Proppant I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+I I
+Date Stimulated !Stimulated Formation Top (Ft) Bottom (Ft) I Stimulation Stages I Volume !Volume Units
+I
+Type Treatment IAcid % I Lbs Proppant Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+ADDITIONAL INFORMATION AND/OR LIST OF ATIACHMENTS
+Frac string was pulled after frac.
+I hereby swear or affirm that the information Email Address Date
+provided is true, complete and correct as
+jswenson@oasispetroleum.com 07/10/2015
+determined from all available records.
+Printed Name
+Sig/2.--- 'Title
+Jennifer Swenson Regulatory Specialist
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION !Well File No.
+600 EAST BOULEVARD DEPT 405 28744
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+D Notice of Intent Approximate Start Date D Spill Report
+Ma 1, 2015 0
+I Redrilling or Repair Shooting
+0 0
+Report of Work Done Date Work Completed Casing or Liner Acidizing
+0 0
+PlugWell Fracture Treatment
+0 0 0
+Notice of Intent to Begin a Workover Project that may Qualify Supplemental History Change Production Method
+I
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. 0 0
+Temporarily Abandon Reclamation
+Approximate Start Date
+D
+Other Change well status to CONFIDENTIAL
+Well Name and Number 24-HOUR PRODUCTION RATE
+Wade Federal 5300 41-30 9B I I Before After
+Footages IQtr-Qtr Section I Township Range Oil Bbls Oil Bbls
+s w
+811 F L 280 F W L LOT4 30 153 N 100 Water Bbls Water Bbls
+Field I Pool I County Gas MCF Gas MCF
+Baker BAKKEN McKenzie
+Name of Contractor(s)
+Address I State IZip Code
+DETAILS OF WORK
+Effective immediately, we request CONFIDENTIAL STATUS for the above referenced well.
+This well has not been completed.
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9436 FOR STATE USE ONLY
+Address 0
+Received
+1001 Fannin, Suite 1500
+City State Zip Code
+Houston TX 77002
+Printed Name
+Jennifer Swenson
+Date
+A ril 30, 2015
+EngI n eer ing Technician
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION Well File No.
+600 EAST BOULEVARD DEPT 405 - 28976
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+'
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+0 Notice of Intent Approximate Start Date D Spill Report
+September 14, 2014
+D
+I Shooting
+D D
+Report of Work Done Date Work Completed Casing or Liner Acidizing
+D Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaInt to NDCC Section 57-51.1-03.
+D Temporarily Abandon 0 Reclamation
+Approximate Start Date
+D Other offsite pit
+Well Name and Number 24-HOUR PRODUCTION RATE
+Wade Federal 5300 21-30 12T Before After
+Footages 'Qtr-Qtr 'Section 'Township 'Range Oil Bbls Oil Bbls
+1640 F N L 270 F W L SWNW 30 153 N 100 w Water Bbls Water Bbls
+Field 'Pool 'County Gas MCF Gas MCF
+Baker Bakken McKenzie
+Name of Contractor(s)
+Address
+'State
+DETAILS OF WORK
+Oasis Petroleum North America LLC respectfully requests to use an offsite pit for this well. The f !lowing wells will
+also use this pit:
+Wade Federal 5300 31-30 2B &
+Wade Federal 5300 41-30 3T2 - &
+55;
+Wade Federal 5300 41-30 4T - <D 2:Hlf
+Wade Federal 5300 41-30 5T2 - d- Ti-{
+Wade Federal 5300 41-30 6B -\ 4-d-- -
+Wade Federal 5300 41-30 7T - '8 6 7 _ Tt-\
+Wade Federal 5300 41-30 8T2 - (7.i S
+Wade Federal 5300 41-30 9B .- ?lllf
+Wade Federal 5300 21-30 13B-O.<tiq{<6
+-a.iq77
+Wade Federal 5300 21-30 14T2 -
+Attached are the plats for the offsite pit location.
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9589
+FOR STATE USE ONLY
+Address
+J 1001 Fannin, Suite 1500 D Received []J Approved
+fI ' City State Zip Code Date
+f Houston TX 77002
+©
+Printed Name By
+Son· a Rolfes
+Date
+Au ust 20, 2014 Title
+Fmail Address
+OFFSITE PIT LOCATION PLAT
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 28, WADE FEDERAL 5300 41-30 3T2,
+r WADE FEDERAL 5300 41-30 4T, WADE FEDERAL 5300 41-30 5T2, WADE FEDERAL 5300 41-30 68,
+WADE FEDERAL 5300 41-30 7T, WADE FEDERAL 5300 41-30 8T2, & WADE FEDERAL 5300 41-30 98"
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA EDGE OF
+FOUND STONE FOUND STONE
+W/ REBAR\ (
+AZ 90'03'03" ' AZ 90'00'00" 1207' GLO
+W/ REBAR\
+1507' (GLO) \ \
+1
+CX)
+m
+CX) LOT 1
+N --+ : -- +- L- OTS
+(.()
+N
+r· '\ \
+g\
+L{)
+N
+p
+0 LOT2
+N / \\\\ rn':P
+FOUND STONE <(
+I
+W/ 2" AC"......,
+LS 2884 o---- \ I\ \
+--.t ORIGINA LLY ISSUED AND SEALED \
+CX)
+,....._ + .
+LOT3
+0
+(.() L6T 7 \ \ \ \\ \
+N \ \\\\1\
+STORED AT THE OFFICES OF
+I ' \\\'
+OFFSITE PIT LOCATION
+--+-- -...... \ \I
+N
+L{) I SE CORNER OF PIT \\
+n LATITUDE 48'02'25 .89"N
+p LONGITUDE 103'36'00 .24"W
+I LOT 8 ",
+0 1000 lo GPS SURVEY DATUM: NAD 83 AZ 359'55'00"
+528.00'
+FOUND STONE LOT 4 FOUND STONE
+W/ 2" AC"......, W/ REBAR
+..
++
+I -
+MONUMENT - RECOVERED FOUND REBAR wI 0 1000
+VICINITY MAP R - 2" AC LS 2884
+MONUMENT - NOT RECOVERED L
+1'' = 1000'
+STAKED ON 4/30/14
+VERTICAL CONTROL DATUM WAS BASED UPON
+CONTROL POINT 705 WITH AN ELEVATION OF 2158.3'
+THIS SURVEY AND PLAT IS BEING PROVIDED AT THE
+REQUEST OF ERIC BA YES OF OASIS PETROLEUM. I
+CERTIFY THAT THIS PLAT CORRECTLY REPRESENTS
+WORK BY ME OR UNDER MY
+SUPERVl"-vN '.-JD IS TRUE AND CORRECT TO THE
+BEST O'.' MY -.JOWLEDGE AND BELIEF.
+DARYL D. KASEMAN LS-3880
+@ 2014, INTERSTATEE NGINEERING,I NC. - -
+..
+m .... ,_,_
+Inc. OFFSITE PIT LOCATION Pl.AT
+1/3
+INTERSTATE 425EastMalnStnlet SECTION30,T153N,R100W
+Sidney, Montana 59270
+ENGINEER/NG .....
+SUNDRY NOTICl ,ND REPORTS ON WELLS - FORM
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION '5
+Well 5 5
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SU Bl.UT THE ORIGINALI A ND ONE COPY.
+D Notice Of Intent Approximate Start Date D Spill Report
+D
+Redrilling or Repair Shooting
+I
+D Report Of Work Done Date Work Completed L.! Casing or Liner Acidizing
+D Plug Well Fracture Treatment
+D D
+Notice of Intent to Begin a Workover Project that may Qualify Supplemental History Change Production Method
+I
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. D D
+Temporarily Abandon Reclamation
+Approximate Start Date
+D
+other
+Well Name and Number 24-HOUR PRODUCTION RATE
+Wade Federal 5300 41-30 4T -+ Before After
+Footages IQtr-Qtr I Section I Township I Range Oil Bbls Oil Bbls
+1263 F s L 240 F w L SWSW 30 I1 53 N 100 w Water Bbls Water Bbls
+Field 'Pool County Gas MCF Gas MCF
+Bakken McKenzie
+Name of Contractor(s)
+Address 'State 'Zip Code
+DETAILS OF WORK
+Oasis Petroleum respectfully requests to use an offsite pit for the wells listed below. We are requesting to use an
+offiste pit because a pit wont fit on location with a rig anchor and the land adjacent is too rough. Attached are the
+plats.
+Wade Federal 5300 31-30 2B .. a 8 5S'i
+Wade Federal 5300 41-30 3T2 - d855S
+Wade Federal 5300 41-30 4T • 39
+a
+Wade Federal 5300 41-30 5T2 - g'65(o
+Wade Federal 5300 41-30 6B d 8 'f 5
+Wade Federal 5300 41-30 7T ·• 'db>55 l
+Wade Federal 5300 41-30 8T2 - 'dez?55 8
+Wade Federal 5300 41-30 9B - 'd 81«.tl.{
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9491 FOR STATE USE ONLY
+Address D
+Approved
+1001 Fannin, Suite 1500
+State Zip Code Date
+TX 77002
+Printed Name By
+Brandi Ter
+Title
+OFFSITE PIT LOCATION PLAT
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"AS-STAKED OFFSITE PIT FOR WADE FEDERAL 5300 31-30 28, WADE FEDERAL 5300 41-30 3T2,
+WADE FEDERAL 5300 41-30 4T, WADE FEDERAL 5300 41-30 5T2, WADE FEDERAL 5300 41-30 68,
+WADE FEDERAL 5300 41-30 7T, WADE FEDERAL 5300 41-30 8T2, & WADE FEDERAL 5300 41-30 98"
+625 FEET FROM SOUTH LINE AND 1000 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA EDGE OF
+FOUHD STONE FOUND STONE
+W/REBAR\ (
+'/'I/ REBAR\ AZ 90'03'03" ' AZ 90'00'00" 1207' GLO
+1507' (GLO) \ \
+O'.) \
+Ol
+O'.) LOT 1
+N : LOTS \
+<.O --+- - - -
+N
++
+( \\
+i
+LOT 6 / \ \ \\ \
+0 LOT2
++-
+N / \\\\ rn::O
+\
+FOUND STONE <( \
+\.
+W/ 2"
+LS 2884 <>---- 30 \ I\ \
+THIS DOCUMENT WAS
+ORIGINALLY ISSUED AND SEALED \
+I
+BY DARYL D. KASEMAN, PLS,
+l'- LOT3 REGISTRATION NUMBER 3880 1
+N0 c. D I OON R IGIN4 A/ L3 0 D/ O1 C4 U MA EN ND T ST H AE R E L6T
+\
+7 \ \\\ \\
+\
+1\\
+\
+STORED AT THE OFFICES OF
+__ ENGrEERING,
+OFFSITE PIT LOCATION --+--
+N
+lf) I SE CORNER OF PIT
+LATITUDE 48'02'25.89"N
+"
+I LONGITUDE 103'36'00 .24"W
+LOT 8 "-
+GPS SURVEY DATUM: NAO 83 AZ 359·55•00"
+528.00'
+FOUND STONE ':;;! LOT 4 i(l FOUND STONE
+'°
+W/ 2" /W/ REBAR
+..
+RECOVERED FOUND REBAR W/ O 1000
+2" AC LS 2884
+1" 1000'
+THIS SURVEY AND PLAT IS BEING PROVIDED AT THE
+REQUEST OF ERIC BAYES OF OASIS PETROLEUM. I
+CERTIFY THAT THIS PLAT CORRECTLY REPRESENTS
+WORK MED BY ME OR UNDER MY
+SUPERVl'il,1JN \JD IS TRUE AND CORRECT TO THE
+BEST 0, ,, MY AND BELIEF.
+""'
+. ·-,
+• - < DARYL D. KASEMAN LS-3880
+@) 2014, INTERSTATE ENGINEERING , INC.
+Interstate Engineering, Inc.
+1/3 [I P.O. Box 648 OFFSITE PIT LOCATION PLAT Oate Sy Description
+INTERSTATE 425 East Main Street SECTION 30, T153N, R100W
+Sidney, Montana 59270
+MCKENZIE COUNTY, NORTH DAKOTA
+ENGINEERING 0rawna, ___..•.=·"·-"·. ._ 1em;eciNo.• 51,....,.1.09
+SHEET NO. ___, _.. .. _ _, __" .."..". .... __
+9251 E 104th Ave.
+Commerce City, CO 80640
+(303) 439-5500
+DDDDiiiirrrreeeeccccttttiiiioooonnnnaaaallll SSSSuuuurrrrvvvveeeeyyyy CCCCeeeerrrrttttiiiiffffiiiiccccaaaattttiiiioooonnnn FFFFoooorrrrmmmm
+Wade Federal 5300 41-30 #9B Original
+Oasis Petroleum Hole 8-Jan-2015
+Company Well Name Final report Date
+ND, McKenzie County 33-053-06051
+PathFinder Job Number County / State API Number
+N 48° 2' 27.67000" W 103° 36' 10.82000" 811 ft FSL & 280 ft FWL
+N 48.04101944 W 103.60300556 Sec 30 Twn 153 N Rng 100 W
+Surface Latitude Surface Logitude Surface Section - Township - Range
+NAD83 North Dakota State Plane, NZ, Feet Patterson 488 KB 32ft @ 2077.00 ft / GL: 2045.00 ft MSL
+Datum & Coordinate System Rig Contractor Height Reference
+Survey Depth 108.00 to 20577.00
+Depth From Depth To
+Measurement While Drilling
+Type of Survey
+Survey Depth 20577.00 to 20650.00
+Depth From Depth To
+Straight line projection to Bit/TD
+Type of Survey
+Site Supervisors - B. Feddersen - FE1
+Directional Driller 1 MWD Surveyor 1
+- J. Holt - FE
+Directional Driller 2 MWD Surveyor 2
+The data submitted in this report conforms to the standards and procedures as set
+forth by Schlumberger. This report represents a true and correct directional wellbore
+survey based on original survey data obtained at the well site.
+Matt VanderSchaaf 1/8/2015
+Matt VanderSchaaf Date
+PathFinder Well Planner III
+Wade Federal 5300 41-30 #9B MWD 0' to 20650' Definitive Survey Geodetic
+Report
+(Def Survey)
+Report Date: January 08, 2015 - 01:18 PM Survey / DLS Computation: Minimum Curvature / Lubinski
+Client: Oasis Petroleum Vertical Section Azimuth: 94.623 ° (True North)
+Field: ND, McKenzie County (NAD 83 NZ) Oasis 2014 Vertical Section Origin: 0.000 ft, 0.000 ft
+Oasis 30-153N-100W (Wade Federal 5300 41-30 6-9 Pad) - Patterson
+Structure / Slot: TVD Reference Datum: KB 32ft
+488 / Wade Federal 5300 41-30 #9B
+Well: Wade Federal 5300 41-30 #9B TVD Reference Elevation: 2077.000 ft above MSL
+Borehole: Original Hole Seabed / Ground Elevation: 2045.000 ft above MSL
+UWI / API#: Unknown / Unknown Magnetic Declination: 8.394 °
+Survey Name: Wade Federal 5300 41-30 #9B MWD 0' to 20650' Definitive Total Gravity Field Strength: 1000.0448mgn (9.80665 Based)
+Survey Date: December 10, 2014 Gravity Model: GARM
+Tort / AHD / DDI / ERD Ratio: 291.739 ° / 10262.666 ft / 6.757 / 0.949 Total Magnetic Field Strength: 56235.543 nT
+Coordinate Reference System: NAD83 North Dakota State Plane, Northern Zone, Feet Magnetic Dip Angle: 72.903 °
+Location Lat / Long: N 48° 2' 27.67000", W 103° 36' 10.82000" Declination Date: December 10, 2014
+Location Grid N/E Y/X: N 395022.017 ft, E 1209639.562 ft Magnetic Declination Model: BGGM 2014
+CRS Grid Convergence Angle: -2.3091 ° North Reference: True North
+Grid Scale Factor: 0.99993613 Grid Convergence Used: 0.0000 °
+Total Corr Mag North->True
+Version / Patch: 2.8.572.0 8.3939 °
+North:
+Local Coord Referenced To: Well Head
+MD Incl Azim True TVD VSEC NS EW DLS Northing Easting Latitude Longitude
+Comments
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (ft) (ft) (N/S ° ' ") (E/W ° ' ")
+Surface 0.00 0.00 180.00 0.00 0.00 0.00 0.00 N/A 395022.02 1209639.56 N 48 2 27.67W 103 36 10.82
+Begin MWD
+108.00 0.62 354.65 108.00 -0.10 0.58 -0.05 0.57 395022.60 1209639.53 N 48 2 27.68W 103 36 10.82
+Survey
+203.00 0.35 144.37 203.00 0.00 0.86 0.07 0.99 395022.87 1209639.66 N 48 2 27.68W 103 36 10.82
+294.00 0.62 206.80 293.99 -0.01 0.19 0.01 0.61 395022.21 1209639.58 N 48 2 27.67W 103 36 10.82
+386.00 0.79 162.10 385.99 0.05 -0.86 -0.02 0.61 395021.16 1209639.51 N 48 2 27.66W 103 36 10.82
+476.00 0.97 160.44 475.98 0.60 -2.16 0.42 0.20 395019.84 1209639.90 N 48 2 27.65W 103 36 10.81
+566.00 0.88 183.12 565.97 0.93 -3.57 0.64 0.42 395018.42 1209640.06 N 48 2 27.63W 103 36 10.81
+657.00 0.97 175.69 656.95 1.06 -5.04 0.66 0.16 395016.96 1209640.02 N 48 2 27.62W 103 36 10.81
+747.00 1.06 328.36 746.95 0.69 -5.09 0.28 2.19 395016.92 1209639.64 N 48 2 27.62W 103 36 10.82
+838.00 1.41 331.83 837.93 -0.41 -3.38 -0.69 0.39 395018.66 1209638.74 N 48 2 27.64W 103 36 10.83
+928.00 0.35 228.74 927.92 -1.21 -2.59 -1.42 1.70 395019.49 1209638.04 N 48 2 27.64W 103 36 10.84
+1019.00 0.97 232.92 1018.91 -1.97 -3.24 -2.24 0.68 395018.87 1209637.19 N 48 2 27.64W 103 36 10.85
+1109.00 0.88 215.20 1108.90 -2.89 -4.26 -3.25 0.33 395017.89 1209636.15 N 48 2 27.63W 103 36 10.87
+1200.00 1.06 225.82 1199.89 -3.80 -5.42 -4.25 0.28 395016.77 1209635.09 N 48 2 27.62W 103 36 10.88
+1290.00 1.49 1.32 1289.88 -4.42 -4.83 -4.83 2.63 395017.39 1209634.55 N 48 2 27.62W 103 36 10.89
+1395.00 0.79 348.30 1394.86 -4.70 -2.76 -4.94 0.71 395019.46 1209634.52 N 48 2 27.64W 103 36 10.89
+1490.00 0.62 6.01 1489.85 -4.87 -1.60 -5.02 0.29 395020.62 1209634.48 N 48 2 27.65W 103 36 10.89
+1585.00 0.44 335.88 1584.84 -5.04 -0.76 -5.11 0.34 395021.46 1209634.42 N 48 2 27.66W 103 36 10.90
+1680.00 0.62 26.88 1679.84 -5.02 0.03 -5.03 0.51 395022.25 1209634.54 N 48 2 27.67W 103 36 10.89
+1775.00 0.70 18.71 1774.83 -4.68 1.04 -4.61 0.13 395023.24 1209635.00 N 48 2 27.68W 103 36 10.89
+1870.00 0.26 353.94 1869.83 -4.58 1.80 -4.45 0.50 395024.00 1209635.19 N 48 2 27.69W 103 36 10.89
+1966.00 0.62 76.38 1965.83 -4.13 2.14 -3.97 0.67 395024.32 1209635.68 N 48 2 27.69W 103 36 10.88
+2061.00 0.53 8.39 2060.82 -3.61 2.70 -3.40 0.68 395024.85 1209636.27 N 48 2 27.70W 103 36 10.87
+9 5/8" Casing
+2110.00 0.42 11.31 2109.82 -3.57 3.10 -3.34 0.23 395025.25 1209636.35 N 48 2 27.70 W 103 36 10.87
+Point
+2183.00 0.26 20.21 2182.82 -3.50 3.52 -3.23 0.23 395025.66 1209636.48 N 48 2 27.70W 103 36 10.87
+2278.00 0.35 3.87 2277.82 -3.44 4.01 -3.13 0.13 395026.15 1209636.59 N 48 2 27.71W 103 36 10.87
+2372.00 0.44 345.60 2371.82 -3.57 4.64 -3.20 0.16 395026.79 1209636.55 N 48 2 27.72W 103 36 10.87
+2467.00 0.53 100.79 2466.82 -3.25 4.92 -2.86 0.86 395027.04 1209636.90 N 48 2 27.72W 103 36 10.86
+2561.00 0.79 102.40 2560.81 -2.17 4.69 -1.80 0.28 395026.78 1209637.95 N 48 2 27.72W 103 36 10.85
+2656.00 0.88 110.06 2655.80 -0.82 4.30 -0.48 0.15 395026.34 1209639.26 N 48 2 27.71W 103 36 10.83
+2751.00 0.79 104.25 2750.79 0.53 3.89 0.84 0.13 395025.87 1209640.56 N 48 2 27.71W 103 36 10.81
+2847.00 0.53 107.76 2846.78 1.61 3.59 1.91 0.27 395025.53 1209641.61 N 48 2 27.71W 103 36 10.79
+2942.00 0.44 93.92 2941.78 2.40 3.44 2.69 0.15 395025.34 1209642.39 N 48 2 27.70W 103 36 10.78
+3037.00 0.97 168.14 3036.77 3.00 2.62 3.22 1.00 395024.51 1209642.88 N 48 2 27.70W 103 36 10.77
+3132.00 1.06 170.44 3131.76 3.44 0.97 3.53 0.10 395022.84 1209643.13 N 48 2 27.68W 103 36 10.77
+3227.00 0.62 213.45 3226.75 3.41 -0.33 3.39 0.78 395021.56 1209642.94 N 48 2 27.67W 103 36 10.77
+3322.00 0.62 211.52 3321.74 2.93 -1.19 2.84 0.02 395020.71 1209642.35 N 48 2 27.66W 103 36 10.78
+3417.00 0.62 225.75 3416.74 2.36 -1.99 2.20 0.16 395019.94 1209641.68 N 48 2 27.65W 103 36 10.79
+3512.00 0.70 217.39 3511.73 1.71 -2.81 1.48 0.13 395019.15 1209640.93 N 48 2 27.64W 103 36 10.80
+3607.00 0.62 227.02 3606.73 1.04 -3.62 0.76 0.14 395018.37 1209640.17 N 48 2 27.63W 103 36 10.81
+3702.00 0.70 216.87 3701.72 0.39 -4.44 0.03 0.15 395017.58 1209639.41 N 48 2 27.63W 103 36 10.82
+3797.00 0.62 234.53 3796.71 -0.31 -5.20 -0.74 0.23 395016.85 1209638.62 N 48 2 27.62W 103 36 10.83
+3892.00 0.18 274.45 3891.71 -0.86 -5.48 -1.30 0.52 395016.59 1209638.04 N 48 2 27.62W 103 36 10.84
+3987.00 0.35 299.02 3986.71 -1.27 -5.33 -1.71 0.21 395016.76 1209637.64 N 48 2 27.62W 103 36 10.85
+4082.00 0.09 94.55 4081.71 -1.46 -5.20 -1.89 0.46 395016.90 1209637.47 N 48 2 27.62W 103 36 10.85
+4177.00 0.44 85.19 4176.71 -1.03 -5.17 -1.45 0.37 395016.91 1209637.91 N 48 2 27.62W 103 36 10.84
+4272.00 0.53 89.11 4271.70 -0.23 -5.14 -0.64 0.10 395016.91 1209638.71 N 48 2 27.62W 103 36 10.83
+4367.00 0.44 107.33 4366.70 0.56 -5.24 0.14 0.19 395016.78 1209639.49 N 48 2 27.62W 103 36 10.82
+4462.00 0.53 94.71 4461.70 1.36 -5.38 0.93 0.15 395016.60 1209640.27 N 48 2 27.62W 103 36 10.81
+4558.00 0.70 111.42 4557.69 2.37 -5.63 1.92 0.26 395016.31 1209641.25 N 48 2 27.61W 103 36 10.79
+4652.00 0.79 118.50 4651.68 3.51 -6.15 3.02 0.14 395015.75 1209642.33 N 48 2 27.61W 103 36 10.78
+4747.00 0.35 141.90 4746.68 4.30 -6.69 3.78 0.51 395015.18 1209643.07 N 48 2 27.60W 103 36 10.76
+4842.00 0.62 177.39 4841.68 4.56 -7.43 3.98 0.41 395014.43 1209643.24 N 48 2 27.60W 103 36 10.76
+4937.00 0.70 168.89 4936.67 4.79 -8.52 4.11 0.13 395013.34 1209643.33 N 48 2 27.59W 103 36 10.76
+5032.00 0.88 162.36 5031.66 5.22 -9.78 4.45 0.21 395012.07 1209643.61 N 48 2 27.57W 103 36 10.75
+5127.00 1.23 151.98 5126.65 6.05 -11.38 5.15 0.42 395010.44 1209644.25 N 48 2 27.56W 103 36 10.74
+5222.00 1.23 170.34 5221.62 6.85 -13.28 5.80 0.41 395008.51 1209644.82 N 48 2 27.54W 103 36 10.73
+5317.00 1.06 263.97 5316.61 6.24 -14.38 5.09 1.76 395007.45 1209644.07 N 48 2 27.53W 103 36 10.75
+5413.00 0.62 300.59 5412.60 4.90 -14.21 3.76 0.70 395007.67 1209642.75 N 48 2 27.53W 103 36 10.76
+5507.00 0.53 305.10 5506.60 4.07 -13.70 2.97 0.11 395008.21 1209641.98 N 48 2 27.53W 103 36 10.78
+5602.00 0.44 314.85 5601.59 3.41 -13.19 2.35 0.13 395008.74 1209641.38 N 48 2 27.54W 103 36 10.79
+5697.00 0.35 327.41 5696.59 2.95 -12.69 1.94 0.13 395009.26 1209640.99 N 48 2 27.54W 103 36 10.79
+5792.00 0.18 347.03 5791.59 2.73 -12.30 1.75 0.20 395009.66 1209640.81 N 48 2 27.55W 103 36 10.79
+5887.00 0.00 243.83 5886.59 2.69 -12.15 1.71 0.19 395009.81 1209640.79 N 48 2 27.55W 103 36 10.79
+5982.00 0.09 56.00 5981.59 2.75 -12.11 1.78 0.09 395009.85 1209640.85 N 48 2 27.55W 103 36 10.79
+6073.00 0.09 345.03 6072.59 2.78 -12.00 1.82 0.11 395009.95 1209640.89 N 48 2 27.55W 103 36 10.79
+6168.00 0.79 180.22 6167.59 2.80 -12.58 1.80 0.92 395009.37 1209640.85 N 48 2 27.55W 103 36 10.79
+6264.00 0.79 178.03 6263.58 2.93 -13.91 1.82 0.03 395008.05 1209640.82 N 48 2 27.53W 103 36 10.79
+6359.00 0.62 137.18 6358.57 3.38 -14.94 2.19 0.54 395007.00 1209641.15 N 48 2 27.52W 103 36 10.79
+6454.00 0.70 118.36 6453.56 4.29 -15.59 3.05 0.24 395006.32 1209641.98 N 48 2 27.52W 103 36 10.78
+6549.00 0.70 136.50 6548.56 5.26 -16.29 3.96 0.23 395005.58 1209642.86 N 48 2 27.51W 103 36 10.76
+6644.00 0.62 145.71 6643.55 6.01 -17.13 4.65 0.14 395004.71 1209643.51 N 48 2 27.50W 103 36 10.75
+6739.00 0.44 156.29 6738.55 6.51 -17.89 5.08 0.21 395003.94 1209643.92 N 48 2 27.49W 103 36 10.75
+6834.00 0.62 150.39 6833.54 6.97 -18.67 5.48 0.20 395003.14 1209644.29 N 48 2 27.49W 103 36 10.74
+6929.00 0.70 179.05 6928.54 7.32 -19.70 5.75 0.35 395002.10 1209644.51 N 48 2 27.48W 103 36 10.74
+7024.00 0.79 182.06 7023.53 7.40 -20.94 5.73 0.10 395000.87 1209644.45 N 48 2 27.46W 103 36 10.74
+Drilling Office 2.8.572.0 ...Wade Federal 5300 41-30 #9B\Original Hole\Wade Federal 5300 41-30 #9B MWD 0' to 20650' Definitive 1/8/2015 1:19 PM Page 1 of 4
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4 g JO '/
+INDUSTRIAL COMMISSION OF NORTH DAKOTA <o\ .t.. / I;{;',
+OIL AND GAS DIVISION V) T Wall File No.
+600 EAST BOULEVARD DEPT 405 OFC 2014 v 28744
+"'l
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEA 5E READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEA 5E SUBMIT THE ORIGINAL AND ONE COPY.
+0 Notice of Intent Approximate Start Date D Drilling Prognosis D Spill
+December 9, 2014
+D D
+Redrilling or Repair Shoo.ing
+D Report of Work Done I Date Work Completed D Casing or Liner D Acidi;:ing
+D Plug Well D Fract Jre Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Chan Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03.
+D Temporarily Abandon D Recl8 mation
+I Approximate Start Date
+D Other Waiver from tubing/packm requirement
+Well Mame and Number 24-HOUR PlmDUCTION RATE
+Wade Federal 5300 41-30 98 [o-r Before After
+Foota!ies Qtr-Qtr Township Range Oil Btls Oil Bbls
+811 F S L 280 F w L sws· 153 N 100 W Water Btls Water Bbls
+Field Pool County Gas MCF Gas MCF
+BakE1r Bakken McKenzie
+Name of Contractor(s)
+Address I State IZip Code
+DETAILS OF WORK
+Oasis Petroleum North America LLC requests a variance to NDAC 43-02-03-21 for the tubing/packer requirement:
+Casing, tubing, and cementing requirements during the completion period immediately following the upcoming
+fracture stimulation.
+The ·'ollowing assurances apply:
+1. well is equipped with new 29# and 32# casing at surface with an API burst rating of 11,220
+2. The Frac design will ise a safety factor of 0.85 API burst rating to determine the maximum
+3. Dc1mage to the casing during the frac would be detected immediately by montioring equipement;
+4. The casing is exposed to significantly lower rates and pressures during flowback than during tile frac job;
+5. The frac fluid and formation fluids have very low corrosion and erosion rates;
+6. Production equipment will be installed as soon as possible after the well ceases flowing;
+7. A JOO# gauge will be installed on the surface casing during the flowback period
+Comp.my Telephone Number
+Oasi:; Petroleum North America LLC 281-404-9436 FOR STHE USE ONLY
+Addre:;s D
+1001 Fannin, Suite 1500 Received Approved
+State Zip Code Date
+TX 77002
+Printed Name By
+Jennifer Swenson
+Date
+Assistant December 9, 2014 Title
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+,.._... .. .. ,. (.. _,. ,, i, :i ··,I 1!:•; ,
+INDUSTRIAL COMMISSION OF NORTH DAKOTA .<(•,:.._ \ ... .1/'
+(j
+OIL AND GAS DIVISION :$>' ..ij-.. 0· . Well File No.
+)) -;:v_,
+600 EAST BOULEVARD DEPT 405 ·'; · ·- ·'·I, --. . -•, . ,/,... ..'"'' /4 •c" ," .. .> ..- ,_ r ____28 _74 _4 _ _ __,
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+0 Notice of Intent Approximate Start Date D Drilling Prognosis Spill Report
+December 11, 2014
+D D
+I Redrilling or Repair Shooting
+D Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+D Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaInt to NDCC Section 57-51.1-03.
+D Temporarily Abandon D Reclamation
+Approximate Start Date
+0 Other Proposed Frac String & Gauge
+Well Name and Number 24-HOUR PRODUCTION RATE
+Wade Federal 5300 41-30 9B Before After
+Footages s IQtr-Qtr 'Section 'Township range w Oil Bbls Oil Bbls
+811 F L 280 F WI L Lot4 30 I1 53 N 100 Water Bbls Water Bbls
+Field Pool · County Gas MCF Gas MCF
+Baker Bakken McKenzie
+Name of Contractor(s)
+Address 'State
+DETAiLS OF WORK
+As requested, Oasis Petroleum respectfully requests to permission to run frac string prior to performing a hydraulic
+fracture simulation and install a surface casing gauge to monitor pressures.
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9652 FOR STATE USE ONLY
+Address
+1001 Fannin, Suite 1500
+City State Zip Code
+Houston TX 77002
+Printed Name
+Victoria Siemieniewski
+Date
+December 12, 2014
+etroleum.com
+SUNDRY NOTICES AND REPORTS ON WELLS - FO
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION IWell File No.
+600 EAST BOULEVARD DEPT 405 28744
+BISMARCK , ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+0 D D
+Notice of Intent Approximate Start Date Drilling Prognosis Spill Report
+Se tember 1, 2014
+D D
+Redrilling or Repair Shooting
+I
+D Report of Work Done Date Work Completed 0 Casing or Liner D Acidizing
+D Plug Well D Fracture Treatment
+0 D D
+Notice of Intent to Begin a Workover Project that may Qualify Supplemental History Change Production Method
+for a Tax Exemption PursuaInt to NDCC Section 57-51.1-03.
+D Temporarily Abandon D Reclamation
+Approximate Start Date
+D Other
+Well Name and Number 24-HOUR PRODUCTION RA TE
+Wade Federal 5300 41-30 9B Before After
+Footages IQtr-Qtr I Section I Township I Range Oil Bbls Oil Bbls
+s w
+811 F L 280 F W L lot4 30 153 N 100 Water Bbls Water Bbls
+Field I Pool I County Gas MCF Gas MCF
+Bakken McKenzie
+Name of Contractor(s)
+Address I State IZip Code
+DETAILS OF WORK
+Oasis Petroleum respectfully requests to revise the casing plan for the subject well as follows:
+13 3/8" 54.5# surface casing will be ran to 2,050'
+Contingency 9 5/8" 40# will be ran to 6,400' in order to isolate the Dakota
+7" 32# intermediate casing will be ran to 11,529'
+4.5" 13.5# liner will be ran to 20,729'
+Attached is a revised drill plan, directional plan/plot and well summary.
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9491 FOR STATE USE ONLY
+Address D
+Received
+1001 Fannin, Suite 1500
+State Zip Code Date
+TX 77002
+Printed Name By
+Brandi Ter
+Date
+Jul 30,2014 Tit11=>etro eum Resource Specialist
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 9B
+Section 30 T153N RlOOW
+McKenzie County, ND
+SURF ACE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+I I
+Size Interval Weight Grade Coupling 1.0. Drift Minimum Optimum Max
+I I
+13-3/8" O' to 2,050' 54.5 J-55 STC 12.615" 12.459" 4,100 5,470 6,840
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+O' to 2,050' 13-3/8", 54.5#, J-55, STC, 8rd 1130/ 1.18 2730 / 2.84 514 / 2.62
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9 ppg fluid on backside (2,050' setting depth).
+b) Burst pressure based on 9 ppg fluid with no fluid on backside (2,050' setting depth).
+c) Based on string weight in 9 ppg fluid at 2,050' TYO plus 100k# overpull. (Buoyed weight equals 96k lbs.)
+Cement volumes are based on 13-3/8" casing set in 17-1/2" hole with 50% excess to circulate cement back to surface.
+Mix and pump the following slurry.
+Pre-flush (Spacer): 20 bbls fresh water
+Lead Slurry: 596 sks (308 bbls) 2.9 yield conventional system with 94 lb/sk cement, .25 lb/sk 0130 Lost
+Circulation Control Agent, 2% CaCl2, 4% 0079 Extender and 2% 0053 Expanding Agent.
+Tail Slurry: 349 sks (72 bbls) 1.16 yield conventional system with 94 lb/sk cement, .25% CaCl2 and 0.25 lb/sk
+Lost Circulation Control Agent
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 9B
+Section 30 T153N RlOOW
+McKenzie County, ND
+CONTINGENCY SURF ACE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+I I
+Size Interval Weiqht Grade Couplinq l.D. Drift Minimum Optimum Max
+I I
+9-5/8" O' to 6,400' 40 L-80 LTC 8.835" 8.75" 5,450 7,270 9,090
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+O' to 6,400' 9-5/8", 40#, L-80, LT C, 8rd 3090 I 3.71 5750 I 1.24 837 I 3.86
+API Rating & Safety Factor
+a) Collapse pressure based on 11.5 ppg fluid on the backside and 9 ppg fluid inside of casing.
+b) Burst pressure calculated from a gas kick coming from the production zone (Bakken Pool) at 9,000 psi and a
+subsequent breakdown at the 9-5/8" shoe, based on a 13.5#/ft facture gradient. Backup of 9 ppg fluid.
+c) Yield based on string weight in 10 ppg fluid, (217k lbs buoyed weight) plus 100k lbs overpull.
+Cement volumes are based on 9-5/8" casing set in 12-1/4" hole with 10% excess in OH and 0% excess inside surface
+casing. TOG at surface.
+Pre-flush (Spacer): 20 bbls Chem wash
+Lead Slurry: 592 sks (210 bbls) Conventional system with 75 lb/sk cement, 0.5 lb/sk lost circulation, 10%
+expanding agent, 2% extender, 2% CaCl2, 0.2% anti-foam and 0.4% fluid loss agent.
+Tail Slurry: 521 sks (108 bbls) Conventional system with 94 lb/sk cement, 0.3% anti-settling agent, 0.3% fluid
+loss agent, 0.3 lb/sk lost circulation control agent, 0.2% anti-foam and 0.1% retarder.
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 9B
+Section 30 T153N RlOOW
+McKenzie County, ND
+INTERMEDIATE CASING AND CEMENT DESIGN
+Make-up Toraue (ft-lbs)
+Size Interval Weight Grade Coupling 1.0. Drift Minimum Optimum Max
+7" O' -11,529' 32 HCP-110 LTC 6.094" 6.000" 6730 8970 9870
+***Special dnft
+Interval Length Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+O' -11,529' 11,529' 7", 32#, HCP-110, L TC, 8rd 11820 I 2.12* 12460/1 .29 897 I 2.30
+6,896' -10,229' 3,333' 7", 32#, HCP-110, L TC, 8rd 11820 I 1.45* 12460 I 1.29
+API Rating & Safety Factor
+a) *Assume full casing evacuation with 10 ppg fluid on backside. **Assume full casing evacuation with 1.2 psi/ft
+equivalent fluid gradient across salt intervals.
+b) Burst pressure based on 9000 psig max press for stimulation plus 10.2 ppg fluid in casing and 9 ppg fluid on
+backside-to 10,706' TVD.
+c) Based on string weight in 10 ppg fluid, (290k lbs buoyed weight) plus 100k
+Cement volumes are estimates based on 7" casing set in an 8-3/4" hole with 30% excess.
+Pre-flush (Spacer): 50 bbls Saltwater
+40 bbls Weighted MudPush Express
+Lead Slurry: 189 sks (87 bbls) 2.59 yield conventional system with 47 lb/sk cement, 37 lb/sk 0035
+extender, 3.0% KCI, 3.0% 0154 extender, 0.3% 0208 viscosifier, 0.07% retarder, 0.2% anti
+foam, 0.5 lb/sk, 0130 LCM.
+Tail Slurry: 592 sks (184 bbls) 1.55 yield conventional system with 94 lb/sk cement, 3.0% KCI, 35.0%
+Silica, 0.5% retarder, 0.2% fluid loss, 0.2% anti-foam and 0.5 lb/sk LCM.
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 41-30 9B
+Section 30 T153N RlOOW
+McKenzie County, ND
+PRODUCTION LINER
+Size Interval Weight Grade Coupling 1.0. Drift Estimated Torque
+4-1/2" 10, 179' - 20,729' 13.5 P-110 BTC 3.92" 3.795" 4,500
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+10, 179' - 20,729' 4-1/2", 13.5 lb, P-110, BTC, 8rd 10670 / 2.02 12410 / 1.28 443 / 1.98
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9.5 ppg fluid on backside@ 10,706' TVD.
+Burst pressure based on 9000 psi treating pressure with 10.2 ppg internal fluid gradient and 9 ppg external
+b) fluid gradient@ 10,706' TVD.
+c) Based on string weight in 9.5 ppg fluid (Buoyed weight: 124k lbs.) plus 100k lbs overpull.
+Oasis Petroleum does not use Diesel Fuel, as defined by the US EPA in the list below, in our hydraulic
+fracture operations.
+68334-30-5 (Primary Name: Fuels, diesel)
+68476-34-6 (Primary Name: Fuels, diesel, No. 2)
+68476-30-2 (Primary Name: Fuel oil No. 2)
+68476-31-3 (Primary Name: Fuel oil, No. 4)
+8008-20-6 (Primary Name: Kerosene)
+0 \KOTA Oil and Gas Division
+Lynn D. Helms - Director Bruce E. Hicks -Assistant Director
+Department of Mineral Resources
+Lynn D. Helms -Director
+North Dakota Industrial Commission
+www.dmr.nd.gov/oilgas
+BRANDI TERRY Date: 6/30/2014
+OASIS PETROLEUM NORTH AMERICA LLC
+1001 FANNIN STE 1500
+HOUSTON, TX 77002 USA
+RE: CORES AND SAMPLES
+Well Name: WADE FEDERAL 5300 41-30 9B Well File No.: 28744
+Location: LOT4 30-153-100 County: MCKENZIE
+Permit Type: Development -HORIZONTAL
+Field: BAKER Target Horizon: BAKKEN
+Dear BRANDI TERRY:
+North Dakota Century Code Section 38-08-04 provides for the preservation of cores and samples and their shipment to the
+State Geologist when requested. The following is required on the above referenced well:
+1) All cores, core chips and samples must be submitted to the State Geologist as provided for under North Dakota
+Century Code: Section 38-08-04 and North Dakota Administrative Code: Section 43-02-03-38.1.
+2) Samples: The Operator is to begin collecting sample drill cuttings no lower than the:
+Base of the Last Charles Salt
+- Sample cuttings shall be collected at:
+o 30' maximum intervals through all vertical and build sections.
+o 100' maximum intervals through any horizontal sections.
+- Samples must be washed, dried, placed in standard sample envelopes (3" x 4.5"), packed in the correct order into
+standard sample boxes (3.5" x 5.25" x 15.25").
+- Samples boxes are to be carefully identified with a label that indicates the operator, well name, well file number,
+American Petroleum Institute (API) number, location and depth of samples; and forwarded in to the state core
+and sample library within 30 days of the completion of drilling operations.
+3) Cores: Any cores cut shall be preserved in correct order, boxed in standard core boxes (4.5", 4.5", 35.75"), and the
+entire core forwarded to the state core and samples library within 180 days of completion of drilling operations.
+Any extension of time must have approval on a Form 4 Sundry Notice.
+All cores, core chips, and samples must be shipped, prepaid, to the state core and samples library at the following address:
+ND Geological Survey Core Library
+2835 Campus Road, Stop 8156
+Grand Forks, ND 58202
+Ncrth Dakota Century Code Section 38-08-16 allows for a civil penalty for any violation of Chapter 38 08 not to exceed
+$U,500 for each offense, and each day's violation is a separate offense.
+Sincerely
+Stephen Fried
+Geologist
+600 E Boulevard Ave - Dept 405, Bismarck, North Dakota 58505-0840 Phone (70 I )328-8020 Fax (70 l )328-8022
+(cid:36)(cid:51)(cid:51)(cid:47)(cid:44)(cid:38)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:41)(cid:50)(cid:53)(cid:3)(cid:51)(cid:40)(cid:53)(cid:48)(cid:44)(cid:55)(cid:3)(cid:55)(cid:50)(cid:3)(cid:39)(cid:53)(cid:44)(cid:47)(cid:47)(cid:3)(cid:43)(cid:50)(cid:53)(cid:44)(cid:61)(cid:50)(cid:49)(cid:55)(cid:36)(cid:47)(cid:3)(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:16)(cid:3)(cid:41)(cid:50)(cid:53)(cid:48)(cid:3)(cid:20)(cid:43)
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 54269 (08-2005)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Type of Work Type of Well Approximate Date Work Will Start Confidential Status
+NewLocation Oil&Gas 10 / 01 / 2014 No
+Operator Telephone Number
+OASISPETROLEUMNORTHAMERICALLC 281-404-9491
+Address City State Zip Code
+1001FanninStreet,Suite1500 Houston TX 77002
+Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
+✔ ✔
+permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
+(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:11)(cid:44)(cid:73)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:82)(cid:81)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:82)(cid:86)(cid:72)(cid:71)(cid:15)(cid:3)enter data for additional laterals on page 2)
+Well Name Well Number
+WADEFEDERAL 530041-309B
+Surface Footages Qtr-Qtr Section Township Range County
+811 F S L 280 F W L LOT4 30 153 (cid:49) 100 (cid:58) McKenzie
+Longstring Casing Point Footages Qtr-Qtr Section Township Range County
+222 F S L 1151 F W L LOT4 30 153 (cid:49) 100 (cid:58) McKenzie
+Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
+589 S From WH 871 E From WH 122 (cid:158) 11529 Feet MD 10706 Feet TVD
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+0 F S L 212 F E L LOT6 29 153 (cid:49) 100 (cid:58) Williams
+Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
+811 S From WH 10030 E From WH 10229 Feet MD 90 (cid:158) 20729 Feet MD 10706 Feet TVD
+Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
+48 (cid:131) 02 (cid:10) 27.67(cid:5) -103 (cid:131) 36 (cid:10) 10.82 (cid:5) NAD83 SpacingUnit: Secs29,30,31&32T153NR100W
+Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
+2058 Feet Above S.L. 2560 500 FeetN/S 200 FeetFEe/eWt 23752
+North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
+10513 Feet 10535 Feet 10362 Feet 10485 Feet
+Objective Horizons Pierre Shale Top
+BAKKEN 1920
+Proposed Size Weight Depth Cement Volume (cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:54)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:75)(cid:82)(cid:79)(cid:72)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:72)(cid:71)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:73)(cid:85)(cid:72)(cid:86)(cid:75)(cid:3)(cid:90)(cid:68)(cid:87)(cid:72)(cid:85)
+Surface Casing 9 (cid:16) 5/8 (cid:5) 36 Lb./Ft. 2050 Feet 735 Sacks (cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:87)(cid:82)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:17)
+Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
+Longstring Casing 7 (cid:16) (cid:5) 29/32 Lb./Ft. 11529Feet MD 10706 Feet TVD 781 Sacks 4891 Feet 5391 Feet
+BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:69)(cid:82)(cid:89)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:39)(cid:68)(cid:78)(cid:82)(cid:87)(cid:68)(cid:3)(cid:42)(cid:85)(cid:82)(cid:88)(cid:83)(cid:3)(cid:54)(cid:68)(cid:81)(cid:71)(cid:17)
+9163 Feet
+Proposed Logs
+TRIPLECOMBO:KOPTOKIBBEYGR/RESTOBSCGRTOSURFCNDTHROUGHTHEDAKOTA
+Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Lateral)
+Invert SaltWaterGel
+Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
+MWD Every 100 Feet 30 Feet 90 Feet RYAN
+(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:36)(cid:3)(cid:42)(cid:68)(cid:80)(cid:80)(cid:68)(cid:3)(cid:53)(cid:68)(cid:92)(cid:3)(cid:79)(cid:82)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:87)(cid:82)(cid:3)(cid:74)(cid:85)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:68)(cid:3)(cid:38)(cid:37)(cid:47)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:82)(cid:81)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:76)(cid:73)(cid:3)(cid:86)(cid:72)(cid:87)(cid:17)
+(cid:54)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:79)(cid:72)(cid:68)(cid:86)(cid:87)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:22)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:69)(cid:88)(cid:76)(cid:79)(cid:71)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:28)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:17)(cid:3)(cid:3)(cid:48)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)
+(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:3)(cid:90)(cid:75)(cid:72)(cid:81)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:76)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:76)(cid:81)(cid:74)(cid:18)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:76)(cid:81)(cid:74)(cid:3)(cid:88)(cid:81)(cid:76)(cid:87)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:86)(cid:72)(cid:87)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
+(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:70)(cid:72)(cid:81)(cid:68)(cid:85)(cid:76)(cid:82)(cid:86)(cid:29)(cid:3)(cid:3)(cid:20)(cid:12)(cid:3)(cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:81)(cid:74)(cid:79)(cid:72)(cid:3)(cid:69)(cid:72)(cid:87)(cid:90)(cid:72)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:83)(cid:72)(cid:70)(cid:87)(cid:76)(cid:89)(cid:72)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:20)(cid:19)(cid:3)(cid:71)(cid:72)(cid:74)(cid:85)(cid:72)(cid:72)(cid:86)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:72)(cid:86)(cid:86)(cid:30)(cid:3)(cid:82)(cid:85)(cid:3)(cid:21)(cid:12)(cid:3)(cid:44)(cid:73)(cid:3)(cid:44)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:92)(cid:3)(cid:86)(cid:87)(cid:68)(cid:81)(cid:71)(cid:68)(cid:85)(cid:71)
+(cid:80)(cid:72)(cid:87)(cid:75)(cid:82)(cid:71)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:84)(cid:88)(cid:76)(cid:83)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:88)(cid:87)(cid:76)(cid:79)(cid:76)(cid:93)(cid:72)(cid:71)(cid:17)(cid:3)(cid:3)(cid:38)(cid:82)(cid:81)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:70)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:73)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:82)(cid:85)(cid:71)(cid:72)(cid:85)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:17)
+(cid:3)
+(cid:44)(cid:73)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:15)(cid:3)(cid:68)(cid:3)(cid:21)(cid:131)(cid:3)(cid:48)(cid:58)(cid:39)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:69)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)
+(cid:69)(cid:82)(cid:85)(cid:72)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:76)(cid:86)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:46)(cid:50)(cid:51)(cid:3)(cid:87)(cid:82)(cid:3)(cid:55)(cid:39)(cid:17)
+(cid:53)(cid:40)(cid:52)(cid:56)(cid:44)(cid:53)(cid:40)(cid:39)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:29)(cid:3)(cid:3)(cid:38)(cid:72)(cid:85)(cid:87)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:82)(cid:85)(cid:10)(cid:86)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:74)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)(cid:87)(cid:82)(cid:83)(cid:86)(cid:15)(cid:3)proposed mud/cementing plan,
+directionalplot/plan,$100fee.
+(cid:54)(cid:72)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:21)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:69)(cid:79)(cid:82)(cid:70)(cid:78)(cid:17)
+Page 2
+SFN 54269 (08-2005)
+(cid:38)(cid:50)(cid:48)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:15)(cid:3)(cid:36)(cid:39)(cid:39)(cid:44)(cid:55)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:15)(cid:3)(cid:36)(cid:49)(cid:39)(cid:18)(cid:50)(cid:53)(cid:3)(cid:47)(cid:44)(cid:54)(cid:55)(cid:3)(cid:50)(cid:41)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)
+Lateral 2
+KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Lateral 3
+KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Lateral 4
+KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Lateral 5
+KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
+Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L (cid:49) (cid:58)
+Date
+I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
+03 / 31 / 2014
+Signature Printed Name Title
+ePermit
+BrandiTerry REGULATORYSPECIALIST
+Email Address(es)
+(cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60) (cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60)
+Permit and File Number API Number Date Approved
+28744 (cid:22)(cid:22) (cid:16) 053 (cid:16) 06051 6 / 27 / 2014
+Field By
+BAKER AliceWebber
+Pool Permit Type Title
+BAKKEN DEVELOPMENT EngineeringTech
+|3PRJJWO&A/MCEO1AUOCL7ANVELD/SESDSDS14
+WELL LOCATION PLAT
+OASIS PETROLEUM NORTH AMERICA, LLC P3WWa97AJs/dc\1eABhC:om9A.DilD/—1M\eRds2rElE1e0VwrIh1SgE4D
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"WADE FEDERAL 5300 41-30 9B"
+811 FEET FROM SOUTH LINE AND 280 FEET FROM WEST LINE
+SECTION 30, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA Description ai‘jiseeSfiuJls!
+FOUND STONE Y EDGE OF
+FOUWN/D RSETBOANRE\ na W/ REBAR \ ¢ LAKE ‘nn 'an” , /TPHOEOSRIETTIICOALN STAKED ON 1/10/14
+VERTICAL CONTROL DATUM WAS BASED UPON
+AZ 90°03’'03 9651.37’ .\. AZ _90°00'00” 1207’ (GLO) AZ_90°00 00 5148’ (GLO) oS
+CONTROL POINT 705 WITH AN ELEVATION OF 2158.3’ Date
+| 1507’ (GLO) WN\\\\
+: AA THIS SURVEY AND PLAT IS BEING PROVIDED AT THE REQUEST
+Revision
+N LOT 1 LOT5 §/ \\ \ LOT 1 OF ERIC BAYES OF OASIS PETROLEUM. | CERTIFY THAT THIS No. R1EV
+PLAT CORRECTLY REPRESENTS WORK PERFORMED BY ME OR
+w UNDER MY SUPERVISION AND IS TRUE AND CORRECT TO
+THE BEST OF MY KNOWLEDGE AND BELIEF.
+: g Q g
+2 o) 4 <8]] =
+< [ole
+N = LOT Y xY KASEMAN YYr Siat iio)s4
+° LOT 2 w Wk SFO
+LS—3880 S<tsi zl:
+FOUND STONE N< a <a%|rl2
+W/ 2” ACN 4 60 i E-ZZI018 ..
+Ls 2884 4 Y = 558) 2))
+- LOT 3 sis) DARYDL. KASEMAN LS—3880 sZ Qat cr oi le z
+SO“ ts
+o WADE FEDERAL 5300 41-30 9B ne W—2_ 19
+J1It010
+© GROUND ELEV. 2058.4’ ransrae
+LATITUDE 48'02°27.67°N N ES=OINI cI J
+LONGITUDE 103°36'10.82"W < lw z 7 :
+GPS SURVEY DATUM: NAD 83 o MOF Yu PW T oOr ya 4e
+2 O .
+g (2). 8
+Ar a280’ ; AZ 94°33" LOT 5 | LOT 6 3 3
+) LOT 4 p43,04" 9| 10065, 73’ BOTTOM HOLE LOCATION F:
+oO
+“| ts LONCHUDE Wosasasigrw 210
+FOUND STONE ” GPS SURVEY DATUM: NAD 83 THEORETICAL
+W/ 2” ACN. b paa, , OSITION THIS DOCUMENT WAS ORIGINALLY
+4 AZ B9N°5377 '2977" FOU2N6D6 2ST.O0N2E / /| AZ 89°5808— FOUND REBAR, / __ | 456.5 {CLO} 1 940° (GLO)
+ISSUED AND SEALED BY DARYL D.
+KASEMAN, PLS, REGISTRATION NUMBER OoSiMNDaDfitoaaonfkknnhuirneoocetstttdeorhhtaasa,
+‘ W/ REBAR w/2" AC % SS
+s| Lott S288 ——— -—MISSOURI RIVER —— — 3880 ON _ 3/18/14 AND THE
+IEInntgneirnscetear.tieng,
+Ye) se) ——= PER 1891 SURVEY ——_ O TR HI EG I ON FA FL
+I
+CD EO
+S
+CU OFM E IN NT TS
+E
+RA SR TE
+A
+TES TORED AT
+0 1500
+M4EStaa2rise5enttSM5oi9nd2tna7en0ay, P(4343-h056617)F(4343a-056x618)www.interstateeng.com
+PB6.o4Ox8.
+ENGINEERING, INC. ee
+—_ an
+x . | 1” = 1500’
+”o
+S
+O
+| Lor2
+2Nt+ LOTS LoT4 |6
+ro) a
+N FOUND STONE \ 2 — MONUMENT — RECOVERED
+"FFOOURN DW ISTTNOENSES \< , > / W/ REBAR \ _g
+CORNER © 3) y _| i x) — MONUMENT — NOT RECOVERED
+pay ad 4a \ +
+S 8 \
+S} LOT3 ‘3 \
+( Pd &
+N Nm i Nte) ~~ Ss INTERSTATEENGINEERING
+i<o)
+. Ww
+8 2 ; S\N wan 83001" P, Pnprotfeeersyyoseuiopoosndaltl,suue
+rs xan
+\ <
+mz ao 21-30H > RO
+a LOT 4 ¢
+© ra)
+20POSED =]
+N TM THEORETICAL
+< | ap | > LL \ \ 4/7 /PO1S1IT5I3ONN SS ROAD
+FOUND REBAR/ AZ 90°09'48" 2615.00’ AZ 89°57'17” 2650.86’ AZ 90°02'37” 2634.18’ AZ 90°01'24” 2635.46’ T152N
+W/ 1.5” AC FOUND STONE/ FOUND REBAR/ FOUND 4” AC/ \
+w/ 2” AC W/ 2” AC CORP OF ENG.
+LS 2884
+ie}
+Zz
+ke
+lu
+Ww
+x=
+no
+\
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 4130 9B
+Sec. 30 T153N R100W
+McKenzie County, North Dakota
+SURFACE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+Size Interval Weight Grade Coupling I.D. Drift Minimum Optimum Max
+9-5/8” 0’ to 2,050’ 36 J-55 LTC 8.921" 8.765" 3400 4530 5660
+Interval Description Collapse Burst Tension Cost per ft
+(psi) a (psi) b (1000 lbs) c
+0’ to 2,050’ 9-5/8", 36#, J-55, LTC, 8rd 2020 / 2.13 3520 / 3.72 453 / 2.78
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9 ppg fluid on backside (2,050’
+setting depth).
+b) Burst pressure based on 9 ppg fluid with no fluid on backside (2050' setting
+depth).
+c) Based on string weight in 9 ppg fluid at 2050' TVD plus 100k# overpull. (Buoyed
+weight equals 63k lbs.)
+Cement volumes are based on 9-5/8" casing set in 13-1/2" hole with 60% excess to circulate cement back to surface.
+Mix and pump the following slurry.
+Pre-flush (Spacer): 20 bbls fresh water
+Lead Slurry: 435 sks (225 bbls) 2.9 yield conventional system with 94 lb/sk cement, .25 lb/sk D130 Lost
+Circulation Control Agent, 2% CaCL2, 4% D079 Extender, and 2% D053 Expanding Agent.
+Tail Slurry: 300 sks (62 bbls) 1.16 yield conventional system with 94 lb/sk cement, .25 lb/sk Lost Circulation
+Control Agent, and .25% CaCL2.
+Displacement: 153 bbl OBM
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 4130 9B
+Sec. 30 T153N R100W
+McKenzie County, North Dakota
+INTERMEDIATE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+Size Interval Weight Grade Coupling I.D. Drift Minimum Optimum Max
+7” 0' - 6896' 29 P-110 LTC 6.184” 6.059” 5,980 7,970 8,770
+7” 6896' - 10229' 32 HCP-110 LTC 6.094” 6.000”** 6,730 8,970 9,870
+7” 10229' - 11529' 29 P-110 LTC 6.184” 6.059” 5,980 7,970 8,770
+**Special Drift
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+0' - 6896' 7”, 29#, HCP-110, LTC, 8rd 8530 / 2.37* 11220 / 1.18 797 / 2.14
+6896' - 10229' 7”, 32#, HCP-110, LTC, 8rd 11820 / 2.22* 12460 / 1.29
+6896' - 10229' 7”, 32#, HCP-110, LTC, 8rd 11820 / 1.07** 12460 / 1.29
+10229' - 11529' 7”, 32#, HCP-110, LTC, 8rd 8530 / 1.53* 11220 / 1.16
+API Rating & Safety Factor
+a. *Assume full casing evacuation with 10 ppg fluid on backside. **Assume full casing
+evacuation with 1.2 psi/ft equivalent fluid gradient across salt intervals.
+b. Burst pressure based on 9,000 psig max press for stimulation plus 10.2 ppg fluid in
+casing and 9.0 ppg fluid on backside—to 10,706’ TVD.
+c. Based on string weight in 10 ppg fluid, (271k lbs buoyed weight) plus 100k lbs overpull.
+Cement volumes are estimates based on 7" casing set in an 8-3/4" hole with 30% excess.
+Pre-flush (Spacer): 50 bbls Saltwater
+40 bbls Weighted MudPush Express
+Lead Slurry: 189 sks (87 bbls) 2.59 yield conventional system with 61 lb/sk cement, 23 lb/sk D035
+Extender, .250 lb/sk D130 Lost Circulation Control Agent, 10% NaCl, .15% D208 Viscosifier,
+.20% D046 Anti Foamer, .8% D112 Fluid Loss Agent, and 6% D154 Extender.
+Tail Slurry: 592 sks (184 bbls) 1.55 yield conventional system with 94 lb/sk cement, .250 lb/sk D130 Lost
+Circulation Control Agent, 3% KCL, 35% Silica, .2% D167 Fluid Loss Agent, .5% D065
+Dispersant, .2%D198 Retarder, .2% D046 Anti Foamer, and .25% D153 Anti-Settling Agent.
+Displacement: 401 bbl brine
+Oasis Petroleum
+Well Summary
+Wade Federal 5300 4130 9B
+Sec. 30 T153N R100W
+McKenzie County, North Dakota
+PRODUCTION LINER
+Make-up Torque (ft-lbs)
+Size Interval Weight Grade Coupling I.D. Drift Minimum Optimum Max
+4-1/2” 10179' - 20729' 11.6 P-110 BTC 4.000" 3.875" 2,270 3,020 3,780
+Interval Length Description Collapse Burst Tension Condition
+(psi) a (psi) b (1000 lbs) c
+10179' - 20729' 10,550’ 4-1/2”, 11.6 lb, P-110, BTC, 8rd 7,560/1.53 10,690/1.11 385/1.83 New
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9.5 ppg fluid on backside @ 9,950’ TVD.
+b) Burst pressure based on 9,000 psi treating pressure with 10.2 ppg internal fluid gradient and 9.0
+ppg external fluid gradient @ 10,763’ TVD.
+c) Based on string weight in 9.5 ppg fluid (Buoyed weight: 105k lbs.) plus 100k lbs overpull.
