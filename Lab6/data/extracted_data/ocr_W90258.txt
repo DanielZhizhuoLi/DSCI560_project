@@ -1,0 +1,652 @@
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION Recefvec1 'Well File No.
+600 EAST BOULEVARD DEPT 405 90258
+BISMARCK, ND 58505-0840
+3
+SFN 5749 (09-2006) APR 0 2019
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+ND Oil &
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+I
+D Notice of Intent Approximate Start Date (cid:143) Drilling Prognosis (cid:143) Spill Report
+(cid:143) (cid:143)
+Redrilling or Repair Shooting
+I
+D Report of Work Done Date Work Completed (cid:143) Casing or Liner (cid:143) Acidizing
+(cid:143) (cid:143)
+Plug Well Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify (cid:143) Supplemental History (cid:143) Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03. (cid:143) (cid:143)
+Temporarily Abandon Reclamation
+Approximate Start Date
+0 Other As-Built Facilities
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD I Before After
+Footages IQtr-Qtr Section !Township !Range Oil Bbls Oil Bbls
+260 F N L 432 F W L NWNW 6 153 N 101 W Water Bbls Water Bbls
+Field 'Pool 'County Gas MCF Gas MCF
+Baker Dakota Williams
+Name of Contractor(s)
+Address 'Zip Code
+DETAILS OF WORK
+Please see the attached as-builts for the above-referenced well.
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+Address D Approved
+P.O. Box 268870
+City State Zip Code
+Oklahoma City OK 73126
+Printed Name By
+Terry L. Olson
+Date
+Title
+April 30, 2019
+Email Address
+terry.olson cir.com
+Well Integrity Report - Form 19 Summary
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840 Well File No. [90258 |
+UIC No. [W0365S0839D
+Test Date: 9/12/2018 10:23:36 AM Contractor Performing Pressure Test: | Rugged Energy services ; |
+Operator: |CONTINENTALRESOURCES, INC. = = = 2 | Telephone: _ [4052349000
+Address: {PO BOX 26887_0_ ___| City: JOKLAHOMA CITY State: [OK Zip Code: [73126 ¥
+Well Name: JATLA#N1 TSWAD wee oj Field: [BAKER ve
+Location: Qtr-Qtr; |{NWNW Section: [e~ | Township: ]153——. Range: for _ Cnty: | WILLIAMS Sf
+WELL TEST DATA
+Formation: {DAKOTA _ ; |Perforations: {5414-5760 Feet
+Tool Type: {PKR Depth: | 5391; Feet Packer Model: [Baker permanent
+Tubing Size: | 4.5 ~ | Inches - Tubing Type: {UNKNOWN oe
+Well Type: {Disposal Well Reason for Test: jUIC MIT —_ Test Type : [5 YerMIT
+BEFORE TEST START of TEST END of TEST
+Tubing Pressure: 225) PSIG {ShutIn | 225|PSIG [Shut In | "225. PSIG [Shut in |
+Annulus or Casing Pressure: Ol PSIG | 1000: PSIG 1000. PSIG
+Annulus or Casing Fluid: [TreSaaltt Weatder Test Fluid: [Salt Water _ . |
+Amount of Fluid Needed to Fill Annulus or Casing: fo.3 | Bbls
+Test Length: fis i Minutes Was Annulus or Casing Bled to Zero After Test?: Yes | If No - Pressure Left: | |
+INSPECTION COMMENTS
+Test Result: Acceptable Gt Report of Work Done Required: No
+5 year MIT - passed
+This Report is true and complete to the best of my knowledge.
+Company Representative Witnessing Test: [Jake Volkman | Title: [prod super
+4
+Commission Field Inspector Witnessing Test: fiessicagilkey as
+ceneem ad
+NDIC Initials
+North Dakota Industrial Commission Follow-up Spill Report
+API Number Well File or Facility No
+33 - 105 - 90258 90258
+Operator Telephone Number
+Continental Resources, Inc. 406-433-3006
+Address City State Zip Code
+704 34th Ave NW Sidney MT 59270
+Well Name and Number or Facility N Field
+Atlanta No. 1 SWD Baker
+oLro cFaatciiloint yo f Well Footages F NeSeRDr eo25ia) R“YFE L |Q Ntr-WQt rN W Secti6on Town1s5h3i p N Ran1g0e 1 W_ C[oWuinltlyiams
+Description of Spill Location if not on Well or Facility Site and/or Distance and Direction from Well or Facility
+Directions to Site
+Release Discovered By Date Release Discovered Time Release Discovered Date Release Controlled Time Release Controlled
+Lease Operator June 24, 2014 7:00 AM June 24, 2014 8:00 AM
+Company Personne! Notified How Notified Date Notified Time Notified
+Jake Volkman Phone Call June 24, 2014 7:00 AM
+Type of Incident Root Cause of Release Date Clean up Activities Concluded
+Tank Overflow Human Error July 2, 2014
+Distance to Nearest Residence or Occupied Building Distance to Nearest Fresh Water Well
+Piping Specifics Size (Decimal Format) Type Location of Piping
+(If Applicable)
+Volume of Release Oil Saltwater Other
+75.00
+Volume of Release Oil Saltwater Other
+Recovered 75.00
+Was Release Contained Within Dike If No, Was Release Conitained on Well Site If No, Was Release Contained on Facility Site or Pipeline ROW
+No Yes
+Areal Extent of Release if not Within Dike Affected Medium General Land Use
+Approx. 15' x 85' area_around containment Well/Facility Soil Well/Facility Site
+Describe Cause of Release or Fire and Other Type of Incidents, Root Causes of Release, Land Uses, and Released Substances
+Produced water tanks with automation controls was bypassed. Production water tank subsequently overflowed.
+Action Taken to Control Release and Clean Up Action Undertaken
+Water was sucked up. Contaminated soil removed.
+Potential Environmental Impacts
+Well site soil
+Planned Future Action and/or Action Taken toPrevent Reoccurrence
+Where Were Recovered Liquids Disposed Where Were Recovered Solids Disposed
+Disposal weil on site Indian Hills Disposal
+‘Weather Wind Speed |Wind Direction |Temperature |Skies Estimated Cleanup Cost |Damage Value
+Conditions MPH TIF. $ $
+Regulatory Agencies/Others Notified {Person Notified Date Notified Time Notified Notified By
+NDIC/NDDH John Axtman June 24, 2014 6:08 PM Justin Collins
+Fee Surface Owner
+Federal Agency Lease Number
+BLM :
+USFS i
+Report Originator Title Date
+vustin COMIns tnvironmental specialist July 2, 4U14
+Signature WA Z Y= Da7 te/2/2014
+C7
+SUNDRY NOTICE, _,.ND REPORTS ON WELLS - FORM '-
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION !Well File No.
+90258
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+I
+D Notice of Intent Approximate Start Date D Drilling Prognosis Spill Report
+D
+Redrilling or Repair Shooting
+0 Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+April 9, 2013
+D Plug Well D Fracture Treatment
+D D D
+Notice of Intent to Begin a Workover Project that may Qualify Supplemental History Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03. D Temporarily Abandon D Reclamation
+Approximate Start Date
+0 Other Begin Disposal
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD Before After
+Footages IQtr-Qtr I Section rownship I Range Oil Bbls Oil Bbls
+w
+260 F N L 432 F W I L NWNW 6 I1 53 N 101 Water Bbls Water Bbls
+Field Pool County Gas MCF Gas MCF
+Baker Dakota Williams
+Name of Contractor(s)
+I I
+Address State Zip Code
+DETAILS OF WORK
+Continental Resources, Inc., began saltwater disposal on 4/9/2013. MIT was run on 3/27/2013 w/ NDIC representative
+Dan Wells as witness. Press up to 1000 psi, held 15 min.
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+Address D
+Received Approved
+P .0. Box 268870
+City State Zip Code Date LL - z
+Oklahoma City OK 73126 7
+Printed Name By
+Ter L. Olson
+Date
+Compliance Specialist April 18, 2013
+UNDERGROUNDI NJECTION
+Email Address
+Terry.Olson cir.com
+!Well File No.
+90258
+SFN 2468 (04-2010)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Designate Type of Completion
+D D D D
+[] Oil Well EOR Well Recompletion Deepened Well Added Horizontal Leg Extended Horizontal Leg
+Q D D
+(] Gas Well SWD Well Water Supply Well Other:
+Well Name and Number Spacing Unit Description
+Atl mta #1 SWD Sec 6 T153N R101W
+Operator Telephone Number Field
+Continental Resources, Inc. 405-234-9000 Baker
+Address Pool
+P. 0. Box 268870 Bakken
+City State Zip Code Permit Type
+Ok ahoma City OK 73126 D Wildcat 0 Development D Extension
+LOCATION OF WELL
+At Surface Qtr-Qtr Section Township Range County
+260 F N L 432 F W L NWNW 6 153 N 101 w Williams
+Spu:I Date Date TD Reached Drilling Contractor and Rig Number KB Elevation (Ft) Graded Elevati(on, ,(Fet) -
+11/,25/2013 12/11/2013 Cyclone 2 l996' -2968'
+Typ1 i of Electric and Other Logs Run (See Instructions) 1''1(
+CB L/GR/MAC/mud
+CASING & TUBULARS RECORD (Report all strings set in well)
+•
+String Top Set Depth Set Hole Size Weight Anchor Set Packer Set Sacks Top of
+Well Bore Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) (MD Ft) Cement Cement
+f--
+Lateral1 Conductor 16 102 20 94 0
+f--
+Surface 13 3/8 522 12 1/4 48 400 0
+-f--
+Surface 9 518 1996 12 1/4 36 485 0
+-
+Production 7 5914 8 3/4 26 626 0
+-
+- Tubing 4 1/2 5390 11.6 5390
+-
+PERFORATION & OPEN HOLE INTERVALS
+Open Hole/Perforated Top of
+Well Bore TD Kick-off
+Completion Interval (MD.Ft) Casing Date Perfd Date Isolation Sacks
+Well Bore Drillers Depth Point
+Type Window or Drilled Isolated Method Cement
+(MD Ft) Top Bottom (MD Ft) (MD Ft)
+-
+Lateral1 5952 Perforations 5414 5760
+-
+-
+-
+-
+-
+-
+-
+-
+I
+PRODUCTION
+Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) Name of Zone (If Different from Pool Name)
+Dakota Salt Water Disposal 5414' -5760'
+Date Well Completed (SEE INS'!Rl)CTl))NS) Producing Method Pumping-Size & Type of Pump Well Status (Producing or Shut-In)
+Yf,,113
+Date of Test Hours Tested Choke Size Oil (Bbls) Gas (MCF) Water (Bbls) Oil Gravity-AP! (Corr.) Disposition of Gas
+Production for Test
+164 0
+Flow·ng Tubing Pressure (PSI) Flowing Casing Pressure (PSI) Calculated Oil (Bbls) Gas (MCF) Water (Bbls) Gas-Oil Ratio
+24-Hour Rate
+•
+Paen 3
+SFN 2468 (04-2010}
+Well S ecific Stimulations
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+3111 013 Dakota 5720 5760 1 6000 Gallons
+Type Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Details
+lnte1val treated under a packer
+Date Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+3/1/2013 Dakota 5590 5606 1 2500 Gallons
+Typ11T reatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Det< ils
+lnte val isolated with a packer and bridge plug
+Date, Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+3/2/2013 Dakota 5414 5438 1 4000 Gallons
+Typn Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Acicl 15 0 3000 7.0
+Deti ils
+lnte al isolated with a packer and bridge plug
+Dato Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Typn Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Det<iils
+Datn Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units
+Typ Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)
+Details
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS
+I hereby swear or affirm that the information Email Address Date
+prOI ided is true, complete and correct as 4/15/2013
+Terry.Olson@clr.com
+detmmined from all available records.
+Sig11ature Printed Name Title
+Terry L. Olson
+Well Integrity Report- Form 19 Summary
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEY ARD DEPT 405
+BISMARCK, ND 58505-0840
+Test Date: 13/27/2013 1:36:53 PM Contractor Performing Pressure Test: fBasic Energy Services
+Operator: RESOURCES, INC. Telephone: 14052349000
+Address: IPO BOX 268870 City: !oKLAHOMA CITY State: joK Zip Code: 173126
+Well Name: IATLANTA #1 SWD r Field: IBAKER
+Location: Qtr-Qtr: INWNW Section: Township: 1153 Range: 1101 Cnty: !wiLLIAMS
+WELL TEST DATA
+Formation: DAKOTA Perforations: 5590-5606 Feet
+I
+Tool Type: PKR Depth: 5398 Feet Packer Model: Baker FA-47 pennanent
+Tubing Size: 4.5 Inches Tubing Type: J-55 11.6# IPC
+Well Type: Disposal Well Reason for Test: IUIC MIT Test Type: [Initial MIT
+BEFORE TEST START of TEST ENDofTEST
+Tubing Pressure: R PSJG lshut In 'Shut In lshutln
+Annulus or Casing Pressure: PS!G PS!G PS!G
+Annulus or Casing Fluid : ITreated Salt Water Test Fluid: ITreated Salt Water
+Amount of Fluid Needed to Fill Annulus or Casing: jo.2s Bbls
+Ji5' I
+I
+Test Length: Minutes Was Annulus or Casing Bled to Zero After Test?: Yes . If No -Pressure Left:
+INSPECTION COMMENTS
+Test Result: IAcceptable Report of Work Done Required:
+No pressure loss. Well on slight suck
+SUBMIT FORM 6 COMPLETION REPORT
+SUBMIT FORM 4 NOTING DATE OF FIRST INJECTION. (SJF)
+This Report is true and complete to the best of my knowledge.
+Company Representative Witnessing Test: lchris Sperling Title: Foreman
+Commission Field Inspector Witnessing Test: r-DI""a""n"i"e""I'"W"-el-ls_ _______ _
+!5?7"
+NDIC Initials
+[!w:t;tJ]
+!Well File No.
+.-.z .r;J
+90258
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+0 Notice of Intent Approximate Start Date D Drilling Prognosis D Spill Report
+December 14, 2012
+D D
+I Redrilling or Repair Shooting
+D Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+D Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaInt to NDCC Section 57-51.1-03.
+D Temporarily Abandon 0 Reclamation
+Approximate Start Date
+D
+Other
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD Before After
+Footages Qtr-Qtr Section Township Range Oil Bbls Oil Bbls
+260 F N L 432 F W L NWNW 6 153 N 101 W Water Bbls Water Bbls
+Field Pool County Gas MCF Gas MCF
+Baker Bakken Williams
+Name of Contractor(s)
+Address City State Zip Code
+DETAILS OF WORK
+Surface Owner: Continental Resources, Inc., P.O. Box 268870, Oklahoma City, OK 73126
+Saltwater Disposals: Zimmerman Disposal, Land Tech Rehak Disposal, Land Tech Williston Disposal
+Proposed Work: Haul fluids off to one of the disposals within the area
+Spread flyash and solidify, then backfill with dirt.
+Replace topsoil from stockpile and reseed reclaimed area.
+Establish grade for surface drainage away from reclaimed pit area.
+Company Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+Address
+P.O. Box 268870
+State Zip Code
+OK 73126
+Printed Name
+son
+Date
+December 17, 2012
+cir.com
+Scientific
+Survey Certification
+Drilling
+7327 West Barton Road
+Casper, WY 82604
+(307)-472-6621 Fax (307) 472-5439
+Operator Continental Resources Inc.
+Well Name & No. Atlanta #a SWD
+County & State Williams County, ND
+SDI Job No. 41EF 12121198
+Rig Cyclone 2
+Survey Date 08/Dec/12
+I, Seth Burstad , having personal knowledge of all the facts, hereby
+certify that the attached directional survey run from a measured depth of 1927 feet toa
+measured depth of 5891 _ feet is true and correct as determined from all available records.
+Sh | See iSka 44-Dec-12
+Signature Date
+Seth Burstad
+Casper Well Planner
+Scientific Drilling - Rocky Mountain District
+UIC PERMIT CHECKLIST
+Well File No.
+90258
+Operator Well Name Date Received
+Continental Resources, Inc. Atlanta #1 SWD September 12, 2012
+Location of Well Qtr-Qtr Section Township Range County
+260 F NL 432 F WL} NWNW 6 153 N 101 W_ [Williams
+Field Current Pool Current Status
+Baker Dakota Proposed
+Logs on File Top of Cement TOC Determined By and Date
+To be run TBD Feet|[v] CBL [_] Temp [_] Calc
+Injection Zone Top Confining Zone Thickness
+Dakota 4927 Feet Mowry 110
+x 1, Operator and well on bond as listed. *C396-Notify Rich S. for log waiver
+x 2. Completed Form 14. *
+Estimated frac pressure of confining zone. 3942 psi, gradient 0.8 _ psifft.
+Maximum injection rate and pressure. 10000 bpd @ 1300 ___ psi.
+Krybase 1844 Feet.
+x 3. Lithology of proposed injection zone and confining zones.*
+x 4. Map of area of review.
+NA 5. Name and location of wells in area of review.
+NA 6. Corrective action on wells in area of review. *14 wells to be drilled
+x 7. Injection program.*
+x 8. x a. Analysis from state certified lab of two nearest fresh water wells.*
+NA __ b. For units listed below: name and location of two nearest fresh water wells.
+NAc. For units listed below: analysis from state certified lab of any new fresh water wells.
+x 9. Analysis from state certified lab of injection fluid.*
+x 10. List of source wells.*
+x 11, Landowner description within area of review.*
+x 12. Certification of notification of landowners and letter sent.*
+NA 13, Logs and test data if not previously submitted.
+x 14, Drawing of current* and proposed well bore and surface construction.”
+x 15. Dike Schematic *
+NA 16. Traffic Flow Diagram
+x 417. Sundry detailing conversion procedure.
+‘3 18, Form 1
+x 49. AQUIFER CHECK In wellhead protection area, will have stipulation limiting to wells on site
+Date Landowner Notified Note: "*" indicates that the item is not required for EOR wells in the Cedar
+August 6, 2012 Creek, Cedar Hills North, Medicine Pole Hills South, Mohall, and Wiley units.
+Hearing
+Hearing Date Case No, Order No. Permit Date UIC Number
+October 25, 2012 18970 21271 November 21, 2012 W0365S0839D
+Administrative
+Order No, Allowing Injection Permit Date UIC Number
+NA NA NA
+Permit Approved By s nitials)
+Stephen Fried
+APPLICATION FOR INJECTION - FORM 14
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 18669 (08-2012)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. PLEASE SUBMIT THE ORIGINAL AND TWO COPIES.
+APPROVAL MUST BE OBTAINED BEFORE WORK COMMENCES.
+Permit Type Injection Well Type Commercial SWD
+ia Enhanced Recovery Saltwater Disposal oO Gas Storage (| Converted Newly Drilled lt Yes No
+Operator Telephone Number Will Oil be Skimmed?
+Continental Resources, Inc 405-234-9000 Yes No
+Address City ‘State Zip Code
+PO Box 268870 Oklahoma City OK 73126
+‘Well Name and Number Field or Unit
+Atlanta #1 SWD Baker
+LOCATIONS
+At Surface Qtr-Qtr Section Township Range County
+260 F NL 432 —F WL} NWNW 6 153. N{ 101 _ W |Williams
+Bottom Hole Location Qtr-Qtr Section Township Range County
+260 F NL 432 F WL] NWNW 6 153 N| 101 W jWilliams
+Geologic Name of Injection Zone Top Injection Interval
+Dakota |4927 Feet 5450 - 5900 Feet
+Geologic Name of Top Confining Zone Thickness Geologic Name of Bottom Confining Zone Thickness
+Mowry 110 Feet |Swift 500 Feet
+Bottom Hole Fracture Pressure of the Top Confining Zone Gradient
+3950 PSI 0.80 PSI/Ft
+Estimated Average Injection Rate and Pressure Estimated Maximum Injection Rate and Pressure
+8000 BPD @_ 1000 PsI 10000 BPD _ @ 1300 Psl
+Geologic Name of Lowest Known Fresh Water Zone Depth to Base of Fresh Water Zone
+Fox Hills 1844 Feet
+Total Depth of Well (MD & TVD) Logs Previously Run on Well
+6100 Feet |N/A - well not drilled
+CASING, TUBING, AND PACKER DATA (Check Lit Existing)
+WEIGHT SACKS OF
+NAME OF STRING SIZE (Lbs/Ft) SETTING DEPTH CEMENT TOP OF CEMENT | TOP DETERMINED BY
+Surface v 9 5/8 36 1970 750 Surface Top Off
+Intermediate
+Long String = [v] 7 26 6100 283 1970 CBL
+TOP BOTTOM SACKS OF CEMENT
+[Liner ian 7
+TYPE
+Proposed Tubing 4 1/2 11.5 5400 J-55 internally coated
+Proposed Packer Setting Depth Model [vy] Compression [L_] Permanent
+5400 Feet Baker R3 DG [_]_ Tension
+FOR STATE USE ONLY
+Permit Number and Well File Number
+W272.
+UIC Number Approval Date
+W325.SOE3 ID L222.
+By B
+Title
+PIN OCP COO UND Niro tiany
+ONO ENON STITT
+SUPERVISOR
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+\ INDUSTRIAL COMMISSION OF NORTH DAKOTA
+ae OIL AND GAS DIVISION Well File No.
+Wao sg) 600 EAST BOULEVARD DEPT 405
+NSB Soe 37
+Sow” BISMARCK, ND 58505-0840
+SFN 5749 (03-2004)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Notice of Intent Approximate Start Date im Drilling Prognosis ial Spill Report
+January: 15, 2013 O Redrilling or Repair (a Shooting
+_] Report of Work Done Date Work Completed [_] Casing or Liner [] Acidizing
+{-] Plug Well [_] Fracture Treatment
+O Notice of Intent to Begin a Workover Project that may Qualify for a | Supplemental History | Change Production Method
+Tax Exemption Pursuant to NDCC Section 57-51.1-03. Oo rn iy-ABand oO Radi fj
+Approximate Start Date emporarily andon ecilamation
+Other Complete as SWD in Dakota Formation
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD Before After
+Footages Qtr-Qtr Section Township Range Oil Bbls |Oil Bbls
+260 F NL 432 — W L| NWNW 6 153 N 101 W Water Bbls |Water Bbls
+Field Pool County Gas MCF |Gas MCF
+Dakota Williams
+Name of Contractor(s)
+Address City State Zip Code
+DETAILS OF WORK
+Continental Resources proposes the following operations and will contact NDIC Field Inspector at least 24 hrs prior
+to beginning work: 1. Drill the Atlanta #1 SWD at 260° FNL and 432' FWL of Section 6-153N-101W in Williams County,
+ND; 2. Construct SWD facility; 3. Perforate the Dakota formaiton within the approximate interval 4927' - 5900; 4.
+Acidize the Dakota; 5. RIH with Baker R3 DG injection packer and set 50' above top perforation; 6. TIH with 4 1/2
+11.6# J-55 internally coated tbg and land in packer; 7. Nipple up wellhead and perform MIT witnessed by NDIC; and 8.
+Start injection.
+Company Telephone Number
+Continental Resources, Inc. 405-234-9020 FOR STATE USE ONLY
+AOdod . Bex 268870 oO Recei5ved M Approved
+City State Zip Code Date
+Oklahoma City OK 73126 N=-Z/-2 LV?
+Signature, ad b(o7n ya PRroinbteedr tN aSmaen dbo By 34rma
+Title Date 7, Jold, Title
+Regulatory Compliance Supervisor _|September 29-2044 UNDERGROUND INJECTION
+SUPERVISOR
+APPLICATION FOR PERMIT TO DRILL - FORM 1
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 4615 (03-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Type of Work Type of Well Approximate Date Work Will Start Confidential Status
+NewLocation SaltWaterDisposal 1 / 15 / 2013 Yes
+Operator Telephone Number
+CONTINENTALRESOURCES,INC. (405)234-9000
+Address City State Zip Code
+P.O.Box268870 OklahomaCity OK 73126
+Name of Surface Owner or Tenant
+ContinentalResources,Inc.
+Address City State Zip Code
+P.O.Box268870 OklahomaCity OK 73126
+Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
+✔ ✔
+WELL INFORMATION permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
+Well Name Well Number
+ATLANTA #1SWD
+At Surface Qtr-Qtr Section Township Range County
+260 F N L 432 F W L NWNW 6 153 N 101 W Williams
+If Directional, Top of Pay Qtr-Qtr Section Township Range County
+F L F L N W
+Proposed Bottom Hole Location Qtr-Qtr Section Township Range County
+F L F L N W
+Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
+48° 06' 35.99" -103° 43' 54.57" NAD83 Sec6T153NR101W
+Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
+1968 Feet Above S.L. Feet
+Objective Horizons Pierre Shale Top
+Dakota 1869
+Proposed Size Weight Depth Cement Volume NOTE: Surface hole must be drilled with fresh water
+Surface Casing 9 - 5/8 " 36Lb./Ft. 1970Feet 743 Sacks and surface casing must be cemented back to surface.
+Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
+Longstring Casing 7 - " 26Lb./Ft. 61000Feet MD 61000Feet TVD 385Sacks 1970 Feet 4927 Feet
+BBaassee oLaf sLtaCsth Saralelts (SIf aAltp(pIfliAcapbplliec)able) Estimated Total Depth (feet) Drilling Mud Type (Vertical Hole - Below Surface Casing)
+Feet 6100 Feet MD 6100 Feet TVD Invert
+Proposed Logs
+CBL/GRfromdeepestdepthobtainabletogroundsurface
+Comments
+Proposed FW casing: 13 3/8" 48#, 0-500', 189 sks cmt.
+Date
+I hereby swear or affirm that the information provided is true, complete and correct as determined from all available records.
+9 / 7 / 2012
+Signature Printed Name Title
+ePermit
+TerryL.Olson RegulatoryComplianceSpecialist
+Email Address(es)
+FOR STATE USE ONLY FOR STATE USE ONLY
+Permit and File Number API Number Date Approved
+90258 3333-- 105 - 90258 11 / 21 / 2012
+Field By
+BAKER StephenFried
+Pool Permit Type Title
+DAKOTA SALTWATERDISPOSAL UICSupervisor
+REQUIREDATTACHMENTS:Certifiedsurveyorsplat,estimatedgeologicaltops,proposedmud/cementingplans,$100fee.
+VAZe012
+DRILLING PROGNOSIS
+Well Name: Ailanta 1-6H SHL: 260° FNL & 432! FWL
+Rig: Ensign 162 Sec. 6 - 153N- 101W
+Prospect: Williston Willams , ND
+Target: Dakota
+Spacing:
+{J Pre-Staked
+2 stakea
+Rig Grade Elevation: 1945'
+KB: 24°
+RKB: 1969°
+FORMATION SUBS: TVD Comment
+Pierre Shale 400 1,869
+Greenhorm 2,582 4,551 Used Hansen 11-2
+Dakota Group (fka Mowry) | -2,958 4,927 for formatitoopns
+Newcastle 3,060 5,029
+Hayan Kara -3,366 5,335
+Base of Dakota Sand -3.657 5,626
+WALVE OPEN HOLE LOGGING WTH orrser| Offset Well: Lippert 1-12H
+Operator: Brigham On and Gas LP
+Location: Sec. 4 - 153N- 102W
+Willams , ND
+so: Sotosor8aso00
+*NP = Not Picked *NA = Not Applicable (Absent)
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+GiE S
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+( ‘ }j) OIL AND GAS DIVISION
+Well File No. UA5S”
+Sug) 600 EAST BOULEVARD DEPT 405
+“Sie” Bismarck, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM,
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+| Notice of Intent Approximate Start Date Oo Drilling Prognosis Bl Spill Report
+fq Redrilling or Repair oO Shooting
+oO Report of Work Done Date Work Completed im Casing or Liner Acidizing
+[J Plug Well [-] Fracture Treatment
+[_] Notice of Intent to Begin a Workover Project that may Qualify [_] Supplemental History LJ Change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51,1-03. oO 7 Brat AGAadon oO Resarati
+Approximate Start Date de Alp e. i et see
+Other Open Hole Log Waiver
+Well Name and Number 24-HOUR PRODUCTION RATE
+Atlanta #1 SWD Before After
+Footages Qtr-Qtr Section Township Range Oil Bbls }Oil Bblis
+260 F NL 432 —F W_L| NWNW 6 153 N 101 W Water Bbls |Water Bblis
+Field Pool County Gas MCF |Gas MCF
+Banks Bakken Williams
+Name of Contractor(s)
+Address ‘ City State Zip Code
+DETAILS OF WORK
+Requested variance to not run openhole logs. GR/CBL/CCL will be run from deepest point obtainable to base of
+surface casing. SS
+== a
+= HLIOFY ee=
+Offset logs used will be the Brigifam Oil and Gas, LP, Lippert 1-12, Sec 1-153N-102W, Williams County, ND.
+The Gamma Ray Log will be run all the way to surface and all mud logs will be submitted as one digital tiff formatted
+file and one digital LAS formatted file.
+Company ‘Telephone Number
+Continental Resources, Inc. 405-234-9000 FOR STATE USE ONLY
+P.GBo,x 268870 L_]! Bech nigApproved
+City State Zip Code Date
+Oklahoma City OK 73126 U-2/- 22/2
+PSignaturre t (ee ——— Printed Name ©
+Le
+Terry L. Olson
+Title Date
+Title”
+Regulatory Compliance Specialist September 7, 2012 Richard A. Suggs
+Email Address
+Terry.Olson@clr.com
+Geologist

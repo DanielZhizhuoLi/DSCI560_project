@@ -1,0 +1,1504 @@
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION Well File No.
+600 EAST BOULEVARD DEPT 405 Received 29244
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006) SEP 2 9 o0t6
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. 5
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY, ND OW & Gas Divicta’
+{_] Notice of Intent Approximate Start Date {1 Drilling Prognosis (] Spill Report
+oO Redrilling or Repair O Shooting
+Report of Work Done Date Work Completed oO Casing or Liner (i Acidizing
+September 22, 2016 (] Plug Well (_] Fracture Treatment
+Oo Notice of Intent to Begin a Workover Project that may Qualify O Supplemental History Change Production Method
+for a Tax Exemption Pursuant to NDCC Section 57-51.1-03. oO qT ‘ly Aband al Reet ti
+Approximate Start Date emporarily Abandon eclamation
+(] Other Well is now on pump
+‘Well Name and Number 24-HOUR PRODUCTION RATE
+Kline Federal 5300 11-18 3T Before After
+Footages Qtr-Qtr Section Township Range _ Oil Bbls {Oil Bbis
+1020 F NL 290 F W_L|{ LOT1 18 153 N 100 W Water Bbls |Water Bbls
+Field Pool County Gas MCF |Gas MCF
+Baker Bakken McKenzie
+Name of Contractor(s)
+Address City State Zip Code
+DETAILS OF WORK
+Effective 09/22/2016 the above referenced well was converted to rod pump.
+End of Tubing: 2-7/8" L-80 tubing @ 9380'
+Pump at 9275.72"
+‘Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9436 FOR STATE USE ONLY
+Address JA Received (_] Approved
+1001 Fannin, Suite 1500
+City State Zip Code Date
+Houston 1X 77002 -2-LY/C
+Signature, Printed Name "hiya ZZ
+ca al Jennifer Swenson
+Title ~ Date
+“TAYLOR ROTH
+Regulatory Specialist September 22, 2016
+Email Address
+jswenson@oasispetroleum.com
+Engineering Technician —
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION No.
+600 EAST BOULEVARD DEPT 405 29244
+BISMARCK, ND 58505-0840
+SFN 2468 (04-2010)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Designate Type of Completion
+1£1 Oil Well 0 EOR Well D Recompletion D Deepened Well D Added Horizontal Leg D Extended Horizontal Leg
+D Gas Well D SWD Well D Water Supply Well D Other:
+Well Name and Number Spacing Unit Descrip.tion
+Kline Federal 5300 11-18 3T Sec. 17/18 T153N R100W
+Operator Telephone Number Field
+Oasis Petroleum North America (281) 404-9591 Baker
+Address Pool
+1001 Fannin, Suite 1500 Bakken
+City State Zip Code Permit Type
+Houston TX 77002 D Wildcat IZI Development D Extension
+LOCATION OF WELL
+At Surface Qtr-Qtr Section Township Range County
+w
+1020 F 290 F WL lot1 18 153 N 100 McKenzie
+Date TD Reached Drilling Contractor and Rig Number KB Elevation (Ft) Graded Elevation (Ft)
+Ma 29 2015 Xtreme 21 2078 2053
+Type of Electric and Other Logs Run (See Instructions)
+WD/GR from KOP to TD· CBL from int. TD to surface
+CASING & TUBULARS RECORD (Report all strin! s set in well)
+String Top Set Depth Set Hole Size Weight Anchor Set Packer Set Sacks Top of
+Well Bore Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) (MD Ft) Cement Cement
+Surface Hole Surface 13 3/8 0 2130 171/2 54.5 1226 0
+Vertical Hole Intermediate 7 0 11101 8 3/4 32 835 2160
+Lateral1 Liner 41/2 10252 20835 6 13.5 520 10252
+PERFORATION & OPEN HOLE INTERVALS
+Open Hole/Perforated Top of
+Well Bore TD Kick-off
+Completion Interval (MD.Ft) Casing Date Perfd Date Isolation Sacks
+Well Bore Drillers Depth Point
+Type Window or Drilled Isolated Method Cement
+(MD Ft) Top Bottom (MD Ft) (MD Ft)
+Lateral1 20840 Perforations 11101 20835 10280 07117/2015
+PRODUCTION
+Current Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) 'Name of Zone (If Different from Pool Name)
+Lateral 1-11101' to 20835'
+Date Well Completed (SEE INSTRUCTIONS) Producing Method Pumping-Size & Type of Pump 'Well Status (Producing or Shut-In)
+August 29, 2015 Flowing Producing
+Date of Test 'Hours Tested Choke Size Oil (Bbls) 'Gas (MCF) 'Water 'Oil Gravity-AP! (Corr.) 'Disposition of Gas
+08/29/2015 24 48 /64 Production for Test 465 409 61 9 ° Sold
+Flowing Tubing Pressure (PSI) Flowing Casing Pressure (PSI) I Calculated 'Oil (Bbls) 'Gas (MCF) 'Water (Bbls) 'Gas-Oil Ratio
+1000 24-Hour Rate 465 409 6179 880
+Page 3 •
+°SFN 2468 (04-2010)
+We llS1 oec"1f1i c St.1 muI a t1. ons
+Date Stimulated !Stimulated Formation I Top (Ft) I Bottom (Ft)IStimulation Stages I Volume !Volume Units
+07/17/2015 Three Forks 11101 20835 36 208220 Barrels
+Type Treatment IAcid % I Lbs Proppant I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Sand Frac 4183070 9386 76.0
+Details
+100 Mesh White: 301340
+40170 White: 1556480
+30/50 White: 1742280
+30/50 Resin Coated: 511100
+20/40 Resin Coated: 71870 I II
+Date Stimulated !Stimulated Formation I Top (Ft) I Bottom (Ft)IStimulation Stages Volume !Volume Units
+Type Treatment IAcid % I Lbs Proppant I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+Date Stimulated !Stimulated Formatio_n I Top (Ft) I Bottom (Ft)IStimulation Stages I Volume !Volume Units
+Type Treatment IAcid % I Lbs Proppant ·I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+I I
+Date Stimulated !Stimulated Formatio.n Top (Ft) Bottom (Ft) I Stimulation Stages I Volume !Volume Units
+Type Treatment rcid % I Lbs Proppant . I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+Date Stimulated !Stimulated Formation · I Top (Ft) I Bottom (Ft) I Stimulation Stages I Volume !Volume Units
+Type Treatment IAcid-% I Lbs Proppant I Maximum Treatment Pressure (PSI) I Maximum Treatment Rate (BBLS/Min)
+Details
+·. .
+ADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS
+I hereby swear or affirm that the information Email Address Date
+provided is true, complete and correct as
+sz_ jswenson@oasispetroleum.com I 09/29/2015
+determined from all available records.
+Printed Name
+Title
+Jennifer Swenson Regulatory Specialist
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION ell File No.
+600 EAST BOULEVARD DEPT 405 29244
+BISMARCK, ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM .
+.PLEASE SUBMIT THE ORIGINALI A ND ONE COPY.
+D Notice of Intent Approximate Start Date D Drilling Prognosis D Spill Report
+D D
+Redrilling or Repair Shooting
+0 Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+October 7, 2015
+D · Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History 0 Change Production Method
+for a Tax Exemption PursuaInt to NDCC Section 57-51.1-03.
+D Temporarily Abandon D Reclamation
+Approximate Start Date
+D Other Well is now on pump
+Well Name and Number 24-HOUR PRODUCTION RATE
+Kline Federal 530011-18 3T Before After
+Foota 1g 0es 2 0 F N L. 290 F W L.I Qtr L-Q Otr T 1· I Se ·c . t 1io 8n' . · · !Tow 1ns 5h 3ip N. rang 1e 0 0 w WOi al ter B Bb bl ls s WOi al ter B Bb bl ls s
+Field I Pool !County · Gas MCF Gas MCF
+Baker Bakken McKenzie
+-, - .
+Name of Contractor(s)
+Address I State IZip Code
+DETAILS OF WORK
+Effective 10/07/2015 the above referenced well is on pump. .
+End of Tubing: 2-7/8" L-80 tubing@ 10215.85'
+Pump: ESP @ 9965'
+·,.
+. • • , . '" 1' ..
+Company !Telephone Number
+Oasis Petroleum North America LLC 281-404-9436 FOR STATE USE ONLY
+Address
+1001 Fannin, Suite 1500
+City I State IZip Code
+Houston .TX 77002
+..
+Printed Name -
+Jennifer Swenson
+Title Date
+Title
+Regulatory Specialist October 14, 2015
+TAYLOR ROTH
+Email Address
+jswenson@oasispetroleum.com Engineering Tee mc1an
+AUTHORIZATION TO PURCHASE A EASE-Fonn 8
+INDUSTRIAL COMMISSION OF NORTH Well FileNo.
+OIL AND GAS DIVISION 29244
+600 EAST BOULEVARD DEPT 405 NDICCTBNo.
+BISMARCK, ND 58505-0840 To be assigned
+SFN 5698 (03-2000)
+PLEASE READ INSTRUCTIONSB EFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND FOUR COPIES.
+Well Name and Number Qtr-Qtr Section Range County
+KLINE FEDERAL 5300 11-18 3T LOT1 18 100 Mckenzie
+Operator Telephone Number Field
+Oasis Petroleum North America LLC (281) 404-9573 BAKER
+Address City State Zip Code
+1001 Fannin, Suite 1500 Houston TX noo2
+Name of First Purchaser Telephone Number % Purchased Date Effective
+-
+Oasis Petroleum Marketinci LLC (281) 404-9627 100% August 22, 2015
+Principal Place of Business City State Zip Code
+1001 Fannin, Suite 1500 Houston TX noo2
+Field Address City State Zip Code
+Transporter Telephone Number % Transported Date Effective
+Hiland Crude, LLC (580) 616-2058 75% August 22, 2015
+Address City State Zip Code
+P.O. Box 3886 Enid OK 73702
+The above named producer authorizes the above named purchaser to purchase the percentage of oil stated above which is produced from the
+lease designated above until further notice. The oil will be transported by the above named transporter .
+Other First Purchasers Purchasing From This Lease % Purchased Date Effective
+Other First Purchasers Purchasing From This Lease % Purchased Date Effective
+Other TransportMI Transporting From This Lease % Transported Date Effective
+Power Crude Transport 21% August 22, 2011
+Other TransponeraT ransporting From This Lease % Transport9d Date Effective
+August 22, 2015
+Comments
+I hereby swear or affirm that the information provided is true, complete and correct as determined Date
+from all a · bie records. Au ust 22, 2015
+Printed Name Trtle
+Dina Barron Mktg. Contracts Administrator
+Printed Name Trtle
+Jeremy Harris Mariletlng Scheduler
+FOR STATE USE ONLY
+Industrial Commission of North Dakota
+Well or Facility No
+29244
+Oil and Gas Division
+Verbal Approval To Purchase and Transport Oil yes
+Tight Hole
+OPERATOR
+Operator Representative Rep Phone
+OASIS PETROLEUM NORTH AMERICA LL Todd Hanson (701) 577-1632
+WELL INFORMATION
+Well ame Inspector
+KLINE FEDERAL 530011-18 3T Richard Dunn
+Well Location QQ Sec Twp Rng County
+MCKENZIE
+LOTI 18 153 N 100 W
+Field
+1020 Feet From the N Line BAKER
+Footages
+Pool
+290 Feet From the W Line
+BAKKEN
+Date of First Production Through Permanent Wellhead This Is Not The First Sales
+PURCHASER/TRANSPORTER
+Purchaser Transporter
+Kinder Morgan Kinder Morgan
+TANK BATTERY
+I
+Single Well Tank Battery Number:
+SALES INFORMATION This Is Not The First Sales
+ESTIMATED BARRELS TO BE SOLD ACTUAL BARRELS SOLD DATE
+ii 15000 BBLS BBLS
+I BBLS BBLS
+BBLS BBLS
+BBLS BBLS
+BBLS BBLS
+BBLS BBLS
+BBLS BBLS
+BBLS BBLS
+BBLS BBLS
+DETAILS
+Must E-Mail or Call Inspector at 701-770-3554 /rsdunn @nd,gov on first date of sales and report amount sold, date
+sold, and first date of production through the permanent wellhead. Must also forward Forms 6 & 8 to State prior to
+reaching 15000 Bbl estimate or no later than required time frame for submitting those forms.
+Start Date 8/25/2015
+Date Approved 8/25/2015
+Approved By Richard Dunn
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4 ;)\4'SJG
+INDUSTRIAL COMMISSION OF NORTH DAKOTA \ ...&.
+/J. fl
+OIL AND GAS DIVISION "I"' !Well File No.
+600 EAST BOULEVARD DEPT 405 REJU CL £2 fl0 l1 r5 D . 29244
+BISMARCK, ND 58505-0840
+ND Oil &
+SFN 5749 (09-2006) U"
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY. - "
+0 D D
+Notice of Intent Approximate Start Date Drilling Prognosis Spill Report
+Jul 14,2015
+D D
+Redrilling or Repair Shooting
+I
+D Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+D Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03.
+D Temporarily Abandon D Reclamation
+Approximate Start Date
+D Other Waiver from tubing/packer requirement
+Well Name and Number 24-HOUR PRODUCTION RATE
+Kline Federal 5300 11-18 3T Before After
+Footages IQtr-Qtr I Township I Range Oil Bbls Oil Bbls
+w
+1020 F N L 290 F W I L LOT 1 153 N 100 Water Bbls Water Bbls
+Field Pool !County . Gas MCF Gas MCF
+Baker Bakken McKenzie
+Name of Contractor(s)
+Address I State
+DETAILS OF WORK
+Oasis Petroleum North America LLC requests a variance to NDAC 43-02-03-21 for the tubing/packer requirement:
+Casing, tubing, and cementing requirements during the completion period immediately following the upcoming
+fracture stimulation.
+The following assurances apply:
+1. the well is equipped with new 29# and 32# casing at surface with an API burst rating of 11,220 psi;
+2. The Frac design will ise a safety factor of 0.85 API burst rating to determine the maximum pressure;
+3. Damage to the casing during the frac would be detected immediately by montioring equipement;
+4. The casing is exposed to significantly lower rates and pressures during flowback than during the frac job;
+5. The frac fluid and formation fluids have very low corrosion and erosion rates;
+6. Production equipment will be installed as soon as possible after the well ceases flowing;
+7. A 300# gauge will be installed on the surface casing during the flowback period
+Company !Telephone Number
+Oasis Petroleum North America LLC 281-404-9436 FOR STATE USE ONLY
+Address D
+1001 Fannin, Suite 1500 I
+City State IZip Code Date
+Houston TX 77002
+Signature Printed Name By
+Jennifer Swenson
+'
+Title Date
+Title
+Regulatory Specialist July 14, 2015
+PETROLEUME NGINEER
+Email Address
+jswenson<@oasispetroleum.com
+SUNDRY NOTICES AND REPORTS ON WELLS -FORM 4
+INDUSTRIALC OMMISSIONO F NORTH DAKOTA.
+OIL AND GAS DMSION II File No.
+600 EAST BOULEVARD DEPT 405 29244
+BISMARCK, ND 58505-0840
+.SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONSB EFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINALA ND ONE COPY.•
+0 Notice of Intent Approximate Start Date D Drilling Prognosis D Spill Report
+Au ust8, 2015
+D D
+I Redrilling or Repair Shooting
+D Report of Work Done Date Work Completed. . D casing or Liner D Acidizlng
+D Plug Well D Fracture Treatment
+0 Notice of Intent to Begin a Workover Projact_ that may Qualify D SupplementalH istory D Change Production Method
+for a Tax Exemption Pursuantt o _NDCC Section 57--51 .1-03. I
+I D TemporarilyA bandon D Reclamation
+ximate Start Date
+___.· 0 Other Change well status to CONFIDENTIAL
+.____
+Well Name and Number PRODUCTION RATE
+Kline FederaUi300 11-18 3T Before· After
+.......
+Footages · . ·W".• 011 · .Bbi& Oil· . Bbls
+1020 F N L' ·.. 290 F ·Water Bblli Water··· Bbls
+Field Pool·:.:.: · .• McF Gas MCF
+...
+Baker
+.... ,. ..... c-·r . .. .. :: ::;:· :. ·, .... ,, ::. ·· .. - .· ...... - .:.: _' . ..... -: ,-_: ........ ·., .,; . '.. : . ·, ; . .. · .· . ··, ..
+__ ,. ·.·•· .•..· .
+I
+Address •.· •. · .
+.. •... :.·. ..··.:.·.·.·'.._ :· 0:,·. .
+, .· ; ·- . .
+. : .. . :
+' ...... ,•. .·.
+Effective Immediately, we· requeSt CONFiDeNT.rAL above refel'ttncedw ell •..
+.· ··. . . . ...
+. :. · ...... · . .... ;
+This well has not been completed.,
+··. .... . ..
+i!ONh;
+.....
+. . . ..
+··<
+Company Teiephoile·Nuinber
+Oasis Petroleum North America lLC ' 281-404-9436
+Address 0
+Received
+1001 Fannin Suite 1500
+·Date·
+77002
+ecialist ·. Engineering Technician
+GEOLOGY
+Lithology
+Sunburst Geology, Inc. was not present for the vertical and curve holes therefore there is no
+information for formations and members prior to intermediate casing point.
+Three Forks Formation
+While the curve was being drilled the top of the Three Forks Formation was penetrated at
+10,940’ MD, 10,775’ TVD (-8,706’). The Kline Federal 5300 11-18 3T only targeted the
+upper Three Forks, 1st bench. This bench consisted of two main lithology types; most
+commonly observed was a dolomite mudstone with lesser amounts of shale (Figure 2). The
+targeted dolomite was most commonly associated with cool gamma markers ranging from 90-
+50 API counts. The mudstone was light brown to off white in color and was primarily firm to
+friable but on occasions hard. The mudstone often displayed trace, very fine intercrystalline
+porosity, trace to rare light brown spotty oil staining, and trace amounts of disseminated pyrite
+and trace to rare amounts of nodular pyrite. Less commonly observed in samples was a light
+green to light blue-green shale, associated with 110-150 API count gamma signatures. This
+shale was firm (occasionally soft) with an earthy texture, displayed a sub-blocky texture and
+contained trace amounts of both disseminated and nodular pyrite, more than that seen
+throughout the dolomite intervals. Throughout the lateral, samples observed in the upper
+portion of the target interval displayed more shale than those seen at the base. At the very base
+of the target zone was a claystone interval. This claystone is what separates the first and second
+benches of the Three Forks Formation.
+Figure 2. Dolomite and trace amounts of shale observed throughout the target interval.
+WELL DATA SUMMARY
+OPERATOR: Oasis Petroleum North America LLC
+ADDRESS: 1001 Fannin, Suite 1500
+Houston, TX 77002
+WELL NAME: Kline Federal 5300 11-18 3T
+API #: 33-053-06225-00-00
+WELL FILE #: 29244
+SURFACE LOCATION: 1,020' FNL & 290' FWL
+Lot 1 Section 18, T153N, R100W
+FIELD/ OBJECTIVE: Baker Field / Three Forks
+COUNTY, STATE McKenzie County, North Dakota
+BASIN: Williston
+WELL TYPE: Three Forks Horizontal
+ELEVATION: GL: 2,053'
+KB: 2,069'
+RE-ENTRY DATE: May 22, 2015
+BOTTOM HOLE LOCATION: 875.04' south & 9,941.16' east of surface location or approx.
+1,895.04' FNL & 314.95' FEL, SE NE Section 17, T153N, R100W
+CLOSURE COORDINATES: Closure Azimuth: 95.03°
+Closure Distance: 9,979.59'
+TOTAL DEPTH / DATE: 20,840' on May 28, 2015
+84% within target interval
+TOTAL DRILLING DAYS: 7 days
+CONTRACTOR: Xtreme #21
+Enseco Survey Report
+06 March, 2015
+Oasis Petroleum LLC
+McKenzie County, North Dakota
+Lot 1 Sec.18 Twp.153N Rge.100W
+Kline Federal 5300 11-18 3T
+Job # S15091-02
+API#: 33-053-06225
+Survey: Final Surveys Vertical Section
+Survey Report
+Company: Oasis Petroleum LLC Local Co-ordinate Reference: Well Kline Federal 5300 11-18 3T
+Project: McKenzie County, North Dakota Ground Level Elevation: 2,056.00usft
+Site: Lot 1 Sec.18 Twp.153N Rge.100W Wellhead Elevation: WELL @ 2056.00usft (Original Well Elev)
+Well: Kline Federal 5300 11-18 3T North Reference: True
+Wellbore: Job # S15091-02 Survey Calculation Method: Minimum Curvature
+Design: Final Surveys Vertical Section
+Database: EDM5000
+Project McKenzie County, North Dakota
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone Using geodetic scale factor
+Site Lot 1 Sec.18 Twp.153N Rge.100W
+Site Position: Northing: 408,992.30usft Latitude: 48° 4' 45.680 N
+From: Lat/Long Easting: 1,210,243.30usft Longitude: 103° 36' 10.190 W
+Position Uncertainty: 0.00usft Slot Radius: 13-3/16" Grid Convergence: -2.309°
+Well Kline Federal 5300 11-18 3T | API#: 33-053-06225
+Well Position +N/-S -59.79usft Northing: 408,933.65usft Latitude: 48° 4' 45.090 N
++E/-W -27.16usft Easting: 1,210,213.75usft Longitude: 103° 36' 10.590 W
+Position Uncertainty 0.00usft Wellhead Elevation: usft Ground Level: 2,056.00usft
+Wellbore Job # S15091-02
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(°) (°) (nT)
+IGRF2015 3/6/2015 8.302 72.945 56,270
+Design: Final Surveys Vertical Section
+Survey Error Model: Standard ISCWSA MWD Tool
+Audit Notes:
+Version: 1.0 Phase: ACTUAL Tie On Depth: 0.00
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(usft) (usft) (usft) (°)
+0.00 0.00 0.00 305.01
+3/6/2015 11:11:52AM Page 2 COMPASS 5000.1 Build 56
+Mil ) RYAN DIRECTIONAL SERVICES, INC. Ryan Directional Samvices,ilne.
+19510 Oil Center Blvd.
+A NABORS COMPANY
+Houston, Texas 77073
+Bus: 281.443.1414
+Fax: 281.443.1676
+Thursday, May 28, 2015
+State of North Dakota
+County of McKenzie
+Subject: Survey Certification Letter
+Survey Company: Ryan Directional Services, inc.
+Job Number: 8982 Surface: 48° 4' 45.090 N / 103° 36' 10.590 W
+Survey Job Type: Ryan MWD A.P.1. No: 33-053-06225
+Customer: Oasis Petroleum North America LLC Location: McKenzie, ND
+Well Name: Kline Federal 5300 11-18 3T RKB Height: 2069"
+Rig Name: Xtreme 21 Distance to Bit: 65°
+TD Straight
+Borehole Start End Start End Type Line
+Surveyor Name Surveyor Title Number Depth Depth Date Date of Projection
+David Foley Jr MWD Supervisor OH 2084' 20775' 03/27/15 05/28/15 MWD 20840'
+The data and calculations for this survey have been checked by me and conform to the calibration
+standards and operational procedures set forth by Ryan Directional Services, Inc. | am authorized and
+qualified to review the data, calculations and these reports; the reports represents true and correct
+Directional Surveys of this well based on the original data, the minimum curvature method, corrected to
+True North and obtained at the well site.
+M20 224.
+David Foley Jr
+MWD Supervisor
+Ryan Directional Services, Inc.
+Last Sheet 300
+Report #: 1 Ryan Job # 8982
+Date: 28-May-15
+SURVEY REPORT
+Customer: Oasis Petroleum, Inc MWD Operator: David Foley / David Unger
+Well Name: Kline Federal 5300 11-18 3T Directional Drillers: RPM
+Rig #: Xtreme 21 Survey Corrected To: True North
+API #: 33-053-06225 Vertical Section Direction: 94.89
+Calculation Method: Minimum Curvature Calculation Total Correction: 8.30
+Temperature Forecasting Model (Chart Only): Logarithmic
+Survey # MD Inc Azm Temp TVD VS N/S E/W DLS
+Tie in to Gyro Surveys
+Tie In 2084 0.50 95.30 2083.79 -5.14 3.41 -4.87 1.00
+1 2176 1.10 95.00 64.00 2175.78 -3.86 3.30 -3.59 0.65
+2 2270 0.50 245.30 66.00 2269.78 -3.31 3.05 -3.06 1.65
+3 2365 0.80 289.20 68.00 2364.77 -4.32 3.09 -4.07 0.59
+4 2459 1.20 301.20 69.00 2458.76 -5.83 3.82 -5.53 0.48
+5 2553 1.60 317.30 69.00 2552.73 -7.69 5.29 -7.26 0.59
+6 2647 1.10 275.70 71.00 2646.70 -9.56 6.34 -9.05 1.13
+7 2742 1.90 286.60 73.00 2741.67 -12.01 6.89 -11.47 0.89
+8 2836 1.10 300.50 73.00 2835.64 -14.35 7.79 -13.74 0.93
+9 2930 1.00 227.50 75.00 2929.63 -15.72 7.69 -15.12 1.33
+10 3025 1.50 247.70 77.00 3024.60 -17.39 6.66 -16.88 0.69
+11 3119 1.60 247.60 78.00 3118.57 -19.65 5.69 -19.23 0.11
+12 3213 1.50 255.00 80.00 3212.53 -21.97 4.88 -21.63 0.24
+13 3307 1.30 255.00 82.00 3306.51 -24.13 4.28 -23.85 0.21
+14 3401 1.20 249.80 84.00 3400.48 -26.02 3.66 -25.81 0.16
+15 3496 1.10 261.80 86.00 3495.47 -27.81 3.19 -27.64 0.27
+16 3590 1.10 244.70 87.00 3589.45 -29.47 2.68 -29.35 0.35
+17 3684 0.90 247.30 87.00 3683.43 -30.91 2.01 -30.85 0.22
+18 3778 0.80 248.50 89.00 3777.42 -32.15 1.48 -32.14 0.11
+19 3872 0.80 253.40 91.00 3871.41 -33.35 1.05 -33.38 0.07
+20 3966 0.70 247.90 93.00 3965.41 -34.47 0.65 -34.54 0.13
+21 4060 0.50 263.20 93.00 4059.40 -35.38 0.38 -35.48 0.27
+22 4154 0.40 283.10 95.00 4153.40 -36.11 0.41 -36.21 0.20
+23 4249 0.50 270.30 96.00 4248.40 -36.85 0.49 -36.94 0.15
+24 4343 0.50 291.40 98.00 4342.39 -37.65 0.64 -37.73 0.19
+25 4437 0.50 283.70 100.00 4436.39 -38.45 0.89 -38.51 0.07
+26 4531 0.30 306.20 102.00 4530.39 -39.07 1.13 -39.11 0.27
+27 4626 0.50 299.70 104.00 4625.38 -39.65 1.48 -39.67 0.22
+28 4720 0.40 291.00 105.00 4719.38 -40.34 1.80 -40.34 0.13
+29 4813 0.40 349.80 105.00 4812.38 -40.74 2.24 -40.70 0.42
+30 4907 0.20 327.40 107.00 4906.38 -40.92 2.70 -40.84 0.24
+31 5001 0.50 307.70 109.00 5000.38 -41.37 3.09 -41.26 0.34
+32 5096 0.60 273.70 111.00 5095.37 -42.21 3.37 -42.08 0.35
+33 5190 0.20 210.80 111.00 5189.37 -42.78 3.26 -42.65 0.57
+34 5284 0.70 243.80 113.00 5283.37 -43.34 2.87 -43.25 0.58
+35 5378 0.60 214.10 113.00 5377.36 -44.07 2.21 -44.05 0.37
+36 5473 0.80 203.20 113.00 5472.35 -44.52 1.19 -44.59 0.25
+37 5567 1.10 195.00 114.00 5566.34 -44.89 -0.29 -45.08 0.35
+38 5661 1.10 197.70 116.00 5660.32 -45.25 -2.02 -45.59 0.06
+39 5756 0.60 151.60 116.00 5755.31 -45.18 -3.32 -45.63 0.85
+40 5850 0.40 212.30 118.00 5849.31 -45.06 -4.03 -45.57 0.57
+41 5944 0.40 178.80 120.00 5943.31 -45.17 -4.64 -45.74 0.25
+42 6038 0.10 283.40 122.00 6037.31 -45.22 -4.95 -45.81 0.46
+43 6132 0.40 352.00 123.00 6131.31 -45.37 -4.61 -45.93 0.40
+44 6226 0.70 17.60 125.00 6225.30 -45.32 -3.73 -45.81 0.41
+45 6320 0.90 3.60 127.00 6319.29 -45.21 -2.45 -45.59 0.30
+46 6414 1.30 0.40 129.00 6413.28 -45.31 -0.65 -45.53 0.43
+47 6509 1.00 357.40 131.00 6508.26 -45.50 1.26 -45.56 0.32
+48 6603 1.00 2.40 125.00 6602.24 -45.65 2.90 -45.57 0.09
+49 6697 0.80 25.70 127.00 6696.23 -45.45 4.31 -45.25 0.44
+50 6791 0.40 161.10 132.00 6790.23 -45.08 4.59 -44.86 1.19
+51 6885 0.20 310.80 134.00 6884.23 -45.08 4.39 -44.87 0.62
+52 6979 0.70 56.50 136.00 6978.22 -44.77 4.81 -44.52 0.83
+53 7074 0.70 55.20 138.00 7073.22 -43.87 5.46 -43.56 0.02
+54 7168 0.80 54.70 140.00 7167.21 -42.92 6.17 -42.55 0.11
+55 7262 0.80 43.00 141.00 7261.20 -42.02 7.03 -41.57 0.17
+56 7356 0.60 107.30 141.00 7355.19 -41.13 7.36 -40.65 0.81
+57 7450 0.20 49.70 145.00 7449.19 -40.53 7.32 -40.06 0.55
+58 7544 0.40 25.70 147.00 7543.19 -40.30 7.72 -39.79 0.25
+59 7639 0.60 165.40 149.00 7638.19 -40.02 7.54 -39.52 0.99
+60 7733 0.30 185.80 150.00 7732.19 -39.86 6.82 -39.42 0.36
+Page 1 of 5
+Last Sheet 300
+Report #: 1 Ryan Job # 8982
+Date: 28-May-15
+SURVEY REPORT
+Customer: Oasis Petroleum, Inc MWD Operator: David Foley / David Unger
+Well Name: Kline Federal 5300 11-18 3T Directional Drillers: RPM
+Rig #: Xtreme 21 Survey Corrected To: True North
+API #: 33-053-06225 Vertical Section Direction: 94.89
+Calculation Method: Minimum Curvature Calculation Total Correction: 8.30
+Temperature Forecasting Model (Chart Only): Logarithmic
+Survey # MD Inc Azm Temp TVD VS N/S E/W DLS
+61 7827 0.10 24.70 154.00 7826.19 -39.83 6.65 -39.41 0.42
+62 7921 0.00 8.80 154.00 7920.19 -39.81 6.72 -39.38 0.11
+63 8016 0.20 346.50 154.00 8015.19 -39.86 6.89 -39.41 0.21
+64 8109 0.30 36.30 154.00 8108.19 -39.78 7.24 -39.31 0.25
+65 8204 0.30 50.00 158.00 8203.18 -39.48 7.60 -38.97 0.08
+66 8298 0.20 133.80 159.00 8297.18 -39.17 7.65 -38.66 0.36
+67 8392 0.40 89.90 161.00 8391.18 -38.72 7.53 -38.22 0.31
+68 8486 0.50 86.20 161.00 8485.18 -37.99 7.56 -37.48 0.11
+69 8580 0.70 67.40 143.00 8579.17 -37.07 7.81 -36.54 0.30
+70 8674 0.60 58.50 149.00 8673.17 -36.17 8.29 -35.59 0.15
+71 8769 0.80 52.70 154.00 8768.16 -35.28 8.95 -34.64 0.22
+72 8863 0.70 61.00 158.00 8862.15 -34.31 9.62 -33.61 0.16
+73 8957 1.10 225.40 161.00 8956.15 -34.42 9.27 -33.76 1.90
+74 9051 1.20 232.70 167.00 9050.13 -35.74 8.04 -35.18 0.19
+75 9146 0.80 240.80 167.00 9145.11 -37.02 7.11 -36.55 0.45
+76 9240 0.70 259.80 170.00 9239.11 -38.12 6.69 -37.69 0.28
+77 9334 0.60 245.30 168.00 9333.10 -39.10 6.38 -38.70 0.20
+78 9428 0.40 284.40 174.00 9427.10 -39.86 6.26 -39.47 0.41
+79 9523 0.20 279.40 174.00 9522.10 -40.35 6.37 -39.95 0.21
+80 9617 0.20 291.70 177.00 9616.10 -40.67 6.46 -40.27 0.05
+81 9711 0.20 314.00 176.00 9710.10 -40.95 6.63 -40.54 0.08
+82 9805 0.20 345.20 177.00 9804.09 -41.14 6.90 -40.70 0.11
+83 9899 0.10 252.70 179.00 9898.09 -41.27 7.04 -40.82 0.24
+84 9993 0.20 46.50 183.00 9992.09 -41.23 7.13 -40.78 0.31
+85 10087 0.50 10.80 183.00 10086.09 -41.08 7.64 -40.58 0.38
+86 10182 0.70 20.10 185.00 10181.09 -40.89 8.59 -40.30 0.23
+87 10226 1.10 22.00 185.00 10225.08 -40.69 9.24 -40.05 0.91
+88 10263 1.00 26.00 172.00 10262.08 -40.47 9.86 -39.78 0.33
+89 10294 2.50 101.40 172.00 10293.06 -39.70 9.97 -39.00 7.89
+90 10326 6.50 115.60 176.00 10324.96 -37.31 9.05 -36.68 12.88
+91 10357 10.80 121.30 176.00 10355.60 -33.07 6.78 -32.61 14.13
+92 10388 14.80 124.80 176.00 10385.82 -27.03 3.01 -26.88 13.14
+93 10420 19.20 128.30 181.00 10416.42 -19.09 -2.59 -19.39 14.11
+94 10451 23.80 131.50 183.00 10445.25 -9.81 -9.90 -10.70 15.31
+95 10483 28.00 134.90 185.00 10474.04 1.13 -19.48 -0.53 13.92
+96 10514 31.30 135.90 185.00 10500.97 12.78 -30.41 10.23 10.76
+97 10545 33.00 138.40 186.00 10527.22 24.98 -42.50 21.44 6.96
+98 10577 35.20 140.80 186.00 10553.72 37.72 -56.17 33.05 8.06
+99 10608 37.70 142.20 186.00 10578.65 50.37 -70.58 44.51 8.50
+100 10639 40.20 142.90 188.00 10602.76 63.49 -86.06 56.36 8.19
+101 10671 43.40 142.40 188.00 10626.61 77.83 -103.01 69.30 10.05
+102 10702 46.70 140.90 190.00 10648.51 92.86 -120.20 82.92 11.18
+103 10734 50.20 140.80 190.00 10669.73 109.51 -138.77 98.03 10.94
+104 10765 53.10 141.20 190.00 10688.96 126.36 -157.67 113.33 9.41
+105 10796 55.10 140.50 192.00 10707.14 143.81 -177.14 129.18 6.71
+106 10828 57.80 139.80 192.00 10724.82 162.59 -197.61 146.27 8.63
+107 10859 60.50 138.30 192.00 10740.72 181.68 -217.70 163.72 9.65
+108 10890 64.40 136.50 192.00 10755.06 201.94 -237.92 182.32 13.59
+109 10922 67.10 135.70 192.00 10768.20 223.89 -258.94 202.55 8.74
+110 10953 70.90 135.60 192.00 10779.30 245.81 -279.63 222.78 12.26
+111 10984 74.60 136.60 194.00 10788.50 268.07 -300.96 243.30 12.33
+112 11016 77.50 135.90 194.00 10796.21 291.38 -323.39 264.78 9.31
+113 11047 80.20 134.90 194.00 10802.20 314.50 -345.05 286.13 9.27
+114 11079 82.10 134.20 195.00 10807.13 338.84 -367.23 308.66 6.32
+115 11110 84.00 134.10 195.00 10810.88 362.67 -388.66 330.74 6.14
+116 11140 88.40 133.50 197.00 10812.87 385.96 -409.37 352.34 14.80
+117 11236 89.60 129.10 235.00 10814.54 463.18 -472.71 424.43 4.75
+118 11267 89.30 128.10 235.00 10814.84 488.97 -492.05 448.66 3.37
+119 11298 89.10 127.50 235.00 10815.27 514.99 -511.04 473.15 2.04
+120 11329 87.80 125.50 235.00 10816.11 541.38 -529.48 498.06 7.69
+Page 2 of 5
+Last Sheet 300
+Report #: 1 Ryan Job # 8982
+Date: 28-May-15
+SURVEY REPORT
+Customer: Oasis Petroleum, Inc MWD Operator: David Foley / David Unger
+Well Name: Kline Federal 5300 11-18 3T Directional Drillers: RPM
+Rig #: Xtreme 21 Survey Corrected To: True North
+API #: 33-053-06225 Vertical Section Direction: 94.89
+Calculation Method: Minimum Curvature Calculation Total Correction: 8.30
+Temperature Forecasting Model (Chart Only): Logarithmic
+Survey # MD Inc Azm Temp TVD VS N/S E/W DLS
+121 11360 87.60 125.20 237.00 10817.36 568.08 -547.40 523.33 1.16
+122 11391 87.70 124.80 237.00 10818.63 594.88 -565.16 548.70 1.33
+123 11421 88.30 122.40 237.00 10819.67 621.17 -581.75 573.67 8.24
+124 11452 88.10 122.00 233.00 10820.65 648.70 -598.26 599.89 1.44
+125 11483 87.90 121.90 235.00 10821.73 676.29 -614.66 626.17 0.72
+126 11514 89.60 119.40 237.00 10822.41 704.20 -630.46 652.83 9.75
+127 11545 89.00 117.50 233.00 10822.78 732.61 -645.22 680.09 6.43
+128 11576 89.00 117.10 235.00 10823.33 761.27 -659.44 707.63 1.29
+129 11607 90.50 114.90 237.00 10823.46 790.18 -673.03 735.49 8.59
+130 11638 91.60 114.60 239.00 10822.89 819.33 -686.00 763.64 3.68
+131 11669 92.00 113.50 239.00 10821.92 848.60 -698.63 791.93 3.77
+132 11699 91.50 110.50 239.00 10821.00 877.26 -709.86 819.73 10.13
+133 11730 91.30 109.80 237.00 10820.24 907.16 -720.54 848.82 2.35
+134 11761 91.30 108.80 239.00 10819.54 937.17 -730.78 878.07 3.22
+135 11792 90.10 107.20 240.00 10819.16 967.36 -740.36 907.55 6.45
+136 11822 89.60 106.90 240.00 10819.24 996.69 -749.16 936.24 1.94
+137 11853 89.50 106.10 240.00 10819.48 1027.05 -757.96 965.96 2.60
+138 11883 88.30 104.00 240.00 10820.06 1056.57 -765.75 994.92 8.06
+139 11915 88.30 103.90 240.00 10821.01 1088.16 -773.46 1025.96 0.31
+140 11946 88.40 103.70 240.00 10821.90 1118.77 -780.85 1056.06 0.72
+141 11978 89.70 101.60 242.00 10822.43 1150.47 -787.86 1087.27 7.72
+142 12010 89.60 101.50 244.00 10822.63 1182.26 -794.26 1118.62 0.44
+143 12042 90.00 101.60 244.00 10822.74 1214.04 -800.67 1149.98 1.29
+144 12074 89.80 99.10 244.00 10822.80 1245.89 -806.42 1181.45 7.84
+145 12105 89.80 98.60 244.00 10822.90 1276.82 -811.19 1212.08 1.61
+146 12137 90.20 97.90 244.00 10822.90 1308.76 -815.78 1243.75 2.52
+147 12168 90.50 96.20 244.00 10822.72 1339.74 -819.58 1274.52 5.57
+148 12200 90.60 96.00 246.00 10822.41 1371.73 -822.98 1306.33 0.70
+149 12232 90.80 94.80 244.00 10822.02 1403.73 -826.00 1338.19 3.80
+150 12264 90.10 93.30 244.00 10821.77 1435.72 -828.26 1370.11 5.17
+151 12359 90.70 92.80 248.00 10821.10 1530.67 -833.31 1464.97 0.82
+152 12453 89.00 92.70 249.00 10821.35 1624.60 -837.82 1558.86 1.81
+153 12547 89.90 92.50 251.00 10822.25 1718.52 -842.08 1652.75 0.98
+154 12642 90.40 92.00 253.00 10822.00 1813.42 -845.81 1747.68 0.74
+155 12738 89.60 92.60 251.00 10822.00 1909.32 -849.67 1843.60 1.04
+156 12832 88.50 92.70 251.00 10823.56 2003.23 -854.01 1937.49 1.18
+157 12928 87.70 91.70 255.00 10826.74 2099.07 -857.69 2033.36 1.33
+158 13024 88.70 90.90 255.00 10829.76 2194.83 -859.87 2129.29 1.33
+159 13119 89.10 90.50 257.00 10831.58 2289.56 -861.03 2224.26 0.60
+160 13213 89.20 90.60 255.00 10832.98 2383.28 -861.93 2318.25 0.15
+161 13308 90.90 88.70 257.00 10832.89 2477.88 -861.35 2413.24 2.68
+162 13403 90.20 87.90 258.00 10831.98 2572.25 -858.54 2508.19 1.12
+163 13498 90.50 88.20 257.00 10831.40 2666.57 -855.30 2603.13 0.45
+164 13593 89.70 90.20 258.00 10831.24 2761.09 -853.98 2698.12 2.27
+165 13689 88.40 89.20 260.00 10832.83 2856.68 -853.47 2794.10 1.71
+166 13783 90.40 90.00 258.00 10833.81 2950.27 -852.82 2888.09 2.29
+167 13879 90.40 90.10 260.00 10833.14 3045.93 -852.90 2984.09 0.10
+168 13975 92.80 89.40 262.00 10830.46 3141.50 -852.48 3080.04 2.60
+169 14070 91.30 89.20 257.00 10827.06 3235.98 -851.32 3174.97 1.59
+170 14164 88.80 90.10 258.00 10826.98 3329.58 -850.75 3268.96 2.83
+171 14258 86.90 90.10 260.00 10830.51 3423.18 -850.91 3362.89 2.02
+172 14353 91.20 90.70 260.00 10832.08 3517.85 -851.58 3457.85 4.57
+173 14449 88.20 90.70 260.00 10832.59 3613.59 -852.75 3553.83 3.13
+174 14543 88.00 90.20 262.00 10835.70 3707.25 -853.49 3647.78 0.57
+175 14638 88.70 89.80 262.00 10838.44 3801.87 -853.49 3742.73 0.85
+176 14733 91.20 89.10 264.00 10838.52 3896.43 -852.58 3837.72 2.73
+177 14828 89.10 88.50 264.00 10838.27 3990.89 -850.59 3932.70 2.30
+178 14925 89.90 88.50 266.00 10839.12 4087.28 -848.05 4029.66 0.82
+179 15022 89.60 88.50 264.00 10839.54 4183.68 -845.51 4126.62 0.31
+180 15117 89.60 88.80 266.00 10840.20 4278.11 -843.27 4221.59 0.32
+Page 3 of 5
+Last Sheet 300
+Report #: 1 Ryan Job # 8982
+Date: 28-May-15
+SURVEY REPORT
+Customer: Oasis Petroleum, Inc MWD Operator: David Foley / David Unger
+Well Name: Kline Federal 5300 11-18 3T Directional Drillers: RPM
+Rig #: Xtreme 21 Survey Corrected To: True North
+API #: 33-053-06225 Vertical Section Direction: 94.89
+Calculation Method: Minimum Curvature Calculation Total Correction: 8.30
+Temperature Forecasting Model (Chart Only): Logarithmic
+Survey # MD Inc Azm Temp TVD VS N/S E/W DLS
+181 15212 91.50 87.60 266.00 10839.29 4372.45 -840.29 4316.54 2.37
+182 15306 88.70 88.10 264.00 10839.13 4465.74 -836.76 4410.46 3.03
+183 15401 87.80 90.20 264.00 10842.03 4560.21 -835.35 4505.40 2.40
+184 15496 89.10 90.70 262.00 10844.60 4654.89 -836.10 4600.36 1.47
+185 15592 90.00 89.50 264.00 10845.35 4750.55 -836.26 4696.35 1.56
+186 15687 90.60 88.40 266.00 10844.86 4845.03 -834.52 4791.34 1.32
+187 15782 90.40 89.60 266.00 10844.03 4939.53 -832.87 4886.32 1.28
+188 15877 89.50 90.60 266.00 10844.11 5034.19 -833.03 4981.31 1.42
+189 15973 88.80 90.90 267.00 10845.53 5129.93 -834.29 5077.29 0.79
+190 16069 90.40 90.40 269.00 10846.20 5225.66 -835.38 5173.28 1.75
+191 16166 91.00 89.30 269.00 10845.02 5322.28 -835.12 5270.27 1.29
+192 16262 91.20 88.70 271.00 10843.18 5417.75 -833.45 5366.24 0.66
+193 16358 92.00 89.70 269.00 10840.50 5513.24 -832.11 5462.19 1.33
+194 16454 90.90 90.40 269.00 10838.07 5608.87 -832.19 5558.16 1.36
+195 16551 91.00 90.20 269.00 10836.46 5705.54 -832.70 5655.14 0.23
+196 16647 91.50 90.90 271.00 10834.36 5801.24 -833.62 5751.11 0.90
+197 16742 89.20 91.70 271.00 10833.78 5896.05 -835.78 5846.08 2.56
+198 16838 88.80 92.10 273.00 10835.46 5991.90 -838.96 5942.01 0.59
+199 16935 88.30 91.80 271.00 10837.91 6088.74 -842.26 6038.93 0.60
+200 17030 89.70 90.70 273.00 10839.57 6183.53 -844.33 6133.89 1.87
+201 17124 90.50 90.50 273.00 10839.41 6277.27 -845.31 6227.88 0.88
+202 17220 88.70 91.00 273.00 10840.08 6373.01 -846.57 6323.86 1.95
+203 17317 88.00 91.40 273.00 10842.87 6469.77 -848.60 6420.80 0.83
+204 17412 89.10 91.10 273.00 10845.27 6564.55 -850.67 6515.75 1.20
+205 17508 89.20 91.10 275.00 10846.70 6660.32 -852.52 6611.72 0.10
+206 17603 89.20 91.00 275.00 10848.03 6755.10 -854.26 6706.69 0.11
+207 17698 90.30 90.70 275.00 10848.44 6849.86 -855.67 6801.68 1.20
+208 17794 89.60 90.80 275.00 10848.52 6945.61 -856.92 6897.67 0.74
+209 17891 89.50 88.90 273.00 10849.29 7042.23 -856.67 6994.66 1.96
+210 17987 88.60 88.70 273.00 10850.88 7137.67 -854.66 7090.63 0.96
+211 18083 89.60 87.80 267.00 10852.38 7233.02 -851.73 7186.57 1.40
+212 18180 88.90 88.80 273.00 10853.65 7329.37 -848.85 7283.52 1.26
+213 18276 89.00 88.20 273.00 10855.41 7424.75 -846.34 7379.47 0.63
+214 18372 89.50 88.70 273.00 10856.67 7520.14 -843.74 7475.42 0.74
+215 18468 91.10 91.60 271.00 10856.17 7615.79 -843.99 7571.41 3.45
+216 18562 91.70 91.90 273.00 10853.87 7709.63 -846.86 7665.34 0.71
+217 18658 91.10 91.60 273.00 10851.53 7805.45 -849.79 7761.26 0.70
+218 18753 88.00 92.20 273.00 10852.27 7900.31 -852.94 7856.20 3.32
+219 18851 87.20 91.80 271.00 10856.38 7998.10 -856.36 7954.05 0.91
+220 18947 88.70 90.40 271.00 10859.81 8093.82 -858.20 8049.96 2.14
+221 19041 91.00 88.00 271.00 10860.06 8187.34 -856.89 8143.94 3.54
+222 19138 92.70 87.70 275.00 10856.92 8283.56 -853.25 8240.82 1.78
+223 19234 93.30 88.60 275.00 10851.90 8378.76 -850.16 8336.64 1.13
+224 19329 92.80 89.20 275.00 10846.85 8473.11 -848.33 8431.48 0.82
+225 19425 91.30 89.30 273.00 10843.41 8568.58 -847.08 8527.41 1.57
+226 19520 90.80 91.60 275.00 10841.67 8663.27 -847.82 8622.39 2.48
+227 19615 90.00 93.60 276.00 10841.01 8758.19 -852.13 8717.28 2.27
+228 19710 91.60 94.50 276.00 10839.68 8853.17 -858.84 8812.03 1.93
+229 19805 89.40 93.50 275.00 10838.85 8948.14 -865.47 8906.79 2.54
+230 19900 88.40 93.20 276.00 10840.68 9043.09 -871.02 9001.61 1.10
+231 19996 89.80 91.50 275.00 10842.18 9138.98 -874.95 9097.51 2.29
+232 20091 89.90 91.90 276.00 10842.43 9233.83 -877.77 9192.47 0.43
+233 20187 89.30 91.10 276.00 10843.10 9329.66 -880.29 9288.43 1.04
+234 20283 89.60 90.80 276.00 10844.02 9425.43 -881.88 9384.41 0.44
+235 20379 90.90 91.20 276.00 10843.60 9521.20 -883.55 9480.39 1.42
+236 20475 89.50 89.50 275.00 10843.27 9616.90 -884.14 9576.39 2.29
+237 20571 89.10 88.70 276.00 10844.44 9712.40 -882.63 9672.37 0.93
+238 20668 90.90 88.80 276.00 10844.44 9808.84 -880.51 9769.34 1.86
+239 20764 92.00 88.10 276.00 10842.01 9904.20 -877.92 9865.27 1.36
+240 20775 92.30 87.80 276.00 10841.60 9915.11 -877.53 9876.26 3.86
+Projection 20840 92.30 87.80 10838.99 9979.56 -875.03 9941.16 0.00
+Page 4 of 5
+1)456/
+1f
+-
+SUNDRY NOTICES AND REPORTS ON
+-
+INDUSTRIALC OMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION !Well Fill:! No .
+600 EAST BOULEVARD DEPT 405 '/,: 'T . 29244
+BISMARCK, ND 58505-0840 ? c'?f (
+SFN 5749 (09-2006)
+READ INSTRUCTIONSB EFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY .
+.. (t] Notice of lnient D Drilling Prognosis D Spill Report
+D 0
+I Redrilling or Repair Shooting
+D Report of Work Done Date Work Completed I D Casing or Liner D Acldizing
+D Plug Well D Fracture Treatment
+D N_oiice of Intent to Begin a Workover Projeci that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaIn t to NDCC. Section 57-5.1.-1-03.
+D Temporarily Abandon D Reclamation
+Approximate Start Date
+.0 Other ··Suspension of Drililng
+Well Name and Number.· 24-HOUR PRODl}CTION RATE
+Kline. Federal 5300 11-18 3T. Before After
+Footages Qtr-Qtr Section · Township Range Oil Bbls Oil Bbls
+-'Z.() F "'\. L '2. D F • \1 \t 1 L 11 18 . 153 N 100 W Water Bbls Water Bbls
+i/ • .
+Field /) ,/ Po ob Cou;:ity Gas MCF Gas MCF
+f:>A..." 'a. r '/:-t;,
+Name of Contractor(s)
+Address .,state IZip Code
+DETAILS OF WORK
+Oasis Petroleum requests permission for suspension of drilling for approximately 55 days for the referenced well
+under NDAC would to suspend drilling on this in order to drill the approved Carson SWD
+5301 12-24 (well file #90329). The current rig will move to the Carson SWP pad onc.e the vertical well bores have been
+drilled for all 3 wells on the Kline 11-18 pad. Oasis will return to the Kiiiie 11-18 pad with a second rig on
+approximately June 6, 2015, to drill the lateral portion of the referenced well to TD. ·
+Company Telephone Number
+Oasis Petroleum North America LLC .. 281-404-9575 _FOR STATE USE ONLY
+Address 0
+Received
+1001 Fannin St, Suite 1500
+City state Zip Code
+Houston TX 77002 .
+Printed Name .
+Michael Ku.k.uk
+Date
+March 26, 2015
+SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION !Well File No.
+600 EAST BOULEVARD DEPT 405 1qJ.lfLf
+BISMARCK, ND 56505-0640
+SFN 57 49 (09-2006)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+0 Notice of Intent Approximate Start Date D Drilling Prognosis D Spill Report
+Au ust 22, 2014
+D D
+Redrilling or Repair Shooting
+I
+0 Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+D Plug Well D Fracture Treatment
+0 Notice of Intent to Begin a Workover Project that may Qualify D Supplemental History D Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03.
+D Temporarily Abandon D Reclamation
+Approximate Start Date
+0 Other Address
+Well Name and Number 24-HOUR PRODUCTION RATE
+Kline Federal 5300 11-18 3T Before After
+Footages IQtr-Qlr I Section rownship I Range Oil Bbls Oil Bbls
+1020 F N L 290 F W L LOT1 18 153 N 100 w Water Bbls Water Bbls
+Field I Pool I County Gas MCF Gas MCF
+Baker Bakken McKenzie
+Name of Conlractor(s)
+Address I State IZip Code
+DETAILS OF WORK
+Oasis Petroleum respectfully submits the below physical addres for the above referenced well:
+13798 46th Street NW, Pad 2
+Alexander, ND 58831
+Company Telephone Number
+Oasis Petroleum North America LLC 281-404-9563 FOR STATE USE ONLY
+Address 0
+Received I Approved
+1001 Fannin, Suite 1500
+(t (;.o
+State Zip Code 3 7 f S-
+Date
+TX 77002
+Printed Name
+Heather Mccowan
+Date
+Assistant Au ust 22, 2014 TECHNICIAN
+INDUSTRIALC OMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION 'Well File No.
+600 EAST BOULEVARD DEPT 405 29244
+BISMARCI<. ND 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONSB EFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGIN.AL AND ONE COPY.
+Ill Notice of Intent ApproximateS tart Date D Drilling Prognosis D Spill Report
+April 14, 2015
+I D Redrilling or Repair D Shooting
+D Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+D Plug Well D Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D SupplementalH istory D Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03.
+D TemporarilyA bandon D Reclamation
+ApproximateS tart Date
+Ill Other Change to Original APO
+Well Name and Number 24-HOUR PRODUCTION RATE
+Kline Federal 5300 11-18 3T I I Before After
+Footages IQtr-Qtr Section !Township Range Oil Bbls Oil Bbls
+w
+1020 F N L 290 FWI L NWNW 18 I1 53 N 100 Water Bbls Water Bbls
+Field Pool County Gas MCF Gas MCF
+Baker Bakken McKenzie
+Name of Contractor(s)
+I
+Address State 'Zip Code
+DETAILS OF WORK
+Oasis Petroleum respectfully requests approval to make the following changes to the original APO as follows:
+2 f' N tJ J..c (' ei <c
+BHL change: 1875' FNL & 250' FEL Sec 17 T153N R100W
+(previously : 2030' FNL & 206' FEL)
+Surface casing design:
+Surface Casing of 13 3/8" set at 2068' (previously 9 5/8")
+Contingenc y Casing of 9 5/8" set at 6447'
+Intermediate Casing of 7" with weight of 32 set at 11,080' (previously set at 11,085)
+Production liner of 41/2" set from 10,283' to 20924' (previously set from 10,287' to 21,039')
+See attached supporting documents.
+Company !Telephone Number
+Oasis Petroleum North America LLC (281) 404-9652
+Address 0 Received
+1001 Fannin Suite 1500 I
+City State IZip Code Date
+Houston TX 77002
+_A_ Frinted Name By
+-- Victoria Siemieniewski
+Title Date
+Title
+Regulatory Specialist February 5, 2015
+David Bums
+Email Address
+vsiemieniewski@oasispe troleum.com
+WELL LOCATION PLAT ..
+100O 1A FS AIS N NP IE NT , R SO UIL TE EU 1M 50N 0O , R HT OH U A SM TOER NI ,C TA X, 7L 7L 0C 0 2 i t
+"KLINE FEDERAL 5300 11-18 31' p!n i
+1020 FEET FROM NORTH LINE AND 290 FEET FROM WEST LINE
+SECTION 18, T153N, R100W, 5th P.M., MCKENZIE COUNlY, NORTH DAKOTA
+I II .
+I . I
+FOUND REBAR \ CALCULATED
+• I IN LAKE CALCULATED l.1;: pi !
+AZ 89"47'43'' 89"49'00"' 2640' (GLO) cllO AZ 90"00'00" 5280' (GLO) / IN LAKE • n• I
+""" I I I I I I I . J I
+I
+(])
+'2
+LOT 1
+I I _ oc n:> -'o •1 , ' ' ' fl
+..i' 0 I
+N NCJ ) I / I LBAO T I OM L(/CATION (o N"]n) '· "§
+I ;,,
+- 1 -- -=t, I - --: so S SURVEY OAfu 43.32"W 83- <( <
+nNon GK RL OI UN NE
+D
+F ELE ED V.E RA o} g} "Ni3 00 11J3_T - II1 8 <..? -1 -
+J!
+p 0 GPS SU I 83 I J rl-&- I LOT 12 Z;'\': z_
+FOUND STONE N <( LOT 2- ---4-1-- _ ... a A 7:/ // 8
+W/ REBAR"- 18 - I ,//; / <z! ) <I.I :c;
+N I
+l0
+0 n
+/;/;/,/, i l±i:
+l
+SQ !£Ill J£.
+OCl -t oan, //,/; //0
+;;::; LOT3 1:::-..i...ib...:'.'
+I on
+NCJ )
++
+"
+N
+' #/ /,/: <t'
+/ /
+z
+LU
+<( ,;:;,Q;/- /i;I LU I
+"
+// 10'5' "g I / I
+n ;N ,. "/1 / C? ·co°" / :o; ;9 ( C L/ l U) :' . I
+0 LOT4 I I LOT3 8 I 1'
+0
+I
+N <( I o-<i I
+I . / 'AZ 90"00'004N ' -..f- N l
+FrND)Ji- AZ 90"03'35" 2630.15' l}Z 89"49'00" 2640' (GLO) AZ 90·00'00" 1056' ( GLO )"'"-CALCULATED ©1'---<
+R ; 0 Ctn
+:
+8 C: i: ::
+t
+FOUN Lf
+S 2352
+/
+LAKE
+CA IL NC U LALA KT EE D VICINITY MAPIN LAKE
+=:(.'.>
+STAKED ON 6/18/14 l
+VERTICAL CONTROL DATUM WAS BASED UPON 11112: i
+THIS DOCUMENT WAS ORIGINALLY CONTROL POINT 4 VviTH AN ELEVATION OF 2090.8' 1
+ISSUED AND SEALED BY DARYL D. THIS SURVEY AND PLAT IS BEING PROVIDED AT THE l
+KASEMAN, PLS, REGISTRATION NUMBER REQUEST OF ERIC BAYES OF OASIS PETROLEUM. I
+3880 ON AND THE CERTIFY THAT THIS PLAT CORRECTLY REPRESENTS
+ORIGINAL DOCUMENTS ARE STORED AT WORK PERFORMED BY ME OR UNDER MY SUPERVISION
+ETH NE G INO EF EF RIC INE GS , O INF C I .N TERSTATE 0 ri - -- -- --...1.0 00 AND IS TRUE AND CORRECT TO THE BEST OF MY
+1" = 1000'
+-
++
+I -
+MONUMENT - RECOVERED 00
+g -
+MONUMENT - NOT RECOVERED
+DARYL D. KASEMAN LS-3880
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Section 18 T153N RlOOW
+McKenzie County, ND
+Contingency INTERMEDIATE CASING AND CEMENT DESIGN
+Make-uo Toroue lft-lbs)
+l I
+Size Interval Weight Grade Coupling 1.0. Drift Minimum Ootimum Max
+9-5/8" O' -6447' 36 HCL-80 LTC 8.835" 8.75" 5450 l 7270 I 9090
+Interval Description CollaPSe Burst Tension
+(psi) I a (osil I b 11000 lbs) I c
+O' -6447' 9-5/8", 36#, J-55, LTC, Brei 2020 / 2.16 3520/1 .28 453/ 1.53
+API Rating & Safety Factor
+a) Collapse based on full casing evacuation with 10.4 ppg fluid on backside (6447' setting depth).
+b) Burst pressure calculated from a gas kick coming from the production zone (Bakken Pool) at 9,000psi and a
+subsequent breakdown at the 9-5/8" shoe, based on a 15.2#/ft fracture gradient. Backup of 9 ppg fluid. .
+c) Tension based on string weight in 10.4 ppg fluid at 6447' TVO plus 100k# overpull. (Buoyed weight equals 195k
+lbs.)
+Cement volumes are based on 9-5/8" casing set in 12-1 /4 " hole with 10% excess to circulate cement back to surface.
+Pre-flush (Spacer): 20 bbls Chem wash
+Lead Slurry: 568 sks (293 bbls), 2.90 ft3/sk, 11.5 lb/gal Conventional system with 94 lb/sk cement, 4% 0079 extender, 2% 0053
+expanding agent, 2% CaCl2 and 0.250 lb/sk 0130 lost circulation control agent.
+Tail Slurry: 610 sks (126 bbls), 1.16 ft3/sk 15.8 lb/gal Conventional system with 94 lb/sk cement, 0.25% CaCl2, and 0.250 lb/sk lost
+circulation control agent
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Section 18 T153N RlOOW
+McKenzie County, ND
+INTERMEDIATE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+Size Interval Weight Grade Coupling LO. Drift** Minimum I Optimum I Max
+7" O' -11080' 32 HCP-110 LTC 6.094" 6.ooo·- 6730 I 8970 I 9870
+**Special Drift 7"32' to 6.0"
+Interval Length Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) I c
+O' -11080' 11080' 7", 32#, HCP-110, LTC, 8rd 11820 / 2.10* 12460/1 .28 897 / 2.24
+6785' -9216' 2431' 7", 32#, HCP-110, LTC, 8rc 11820 / 1.06** 12460/1 .30
+API Rating & Safety Factor
+a) *Assume full casing evacuation with 10 ppg fluid on backside. **Assume full casing evacuation
+with 1.2 psi/fl equivalent fluid gradient across salt intervals.
+b) Burst pressure based on 9000 psig max press for stimulation plus 10.2 ppg fluid in casing and 9
+ppg fluid on backside-to 1081 O' TVD.
+c) Based on string weight in 10 ppg fluid, (300k lbs buoyed weight) plus 100k lbs overpull.
+Cement volumes are estimates based on 7" casing set in an 8-3/4" hole with 30% excess.
+Mix and pump the following slurry
+Pre-flush (Spacer): 100 bbls Saltwater
+20 bbls Tuned Spacer Ill
+Lead Slurry: 176 sks (81 bbls), 11.8 ppg, 2.55 cu. ft./sk Econocem Cement with .3% Fe-2 and
+.25 lb/sk Lost Circulation Additive
+Tail Slurry: 586 sks (171bbls),14.0 ppg, 1.55 cu. ft./sk Extendcem System with .2% HR-5
+Retarder and .25 lb/sk Lost Circulation Additive
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Section 18 T153N RlOOW
+McKenzie County, ND
+PRODUCTIONL INER
+Make-uo Toraue 1ft-lbsl
+I
+Size Interval Weiaht Grade Couolina l.D. Drift Minimum Optimum Max
+I
+4-1/2" 10283' -20924' 13.5 P-110 BTC 3.920" 3.795" 2270 3020 3780
+Interval Lena th Desctiotion Collaose Burst Tension
+(psi) a (psi) b (1000 lbs) c
+10283' -20924' 10641 -1/2", 13.5 lb, P-110, BT< 10670/1.98 12410/1 .28 443/1.98
+API Rating & Safety Factor
+a) Based on full casing evacuation with 9.5 ppg fluid on backside @ 10862' TVD.
+b) Burst pressure based on 9000 psi treating pressure with 10.2 ppg internal fluid gradient
+and 9 ppg external fluid gradient @ 10862' TVD.
+c) Based on string weight in 9.5 ppg fluid (Buoyed weight: 123k lbs.) plus 100k lbs overpull.
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Section 18 T153N RlOOW
+McKenzie County, ND
+SURF ACE CASING AND CEMENT DESIGN
+Make-uD Toraue lft-lbs)
+Size Interval Weight Grade Coupling l.D. Drift Minimum Optimum Max
+13-3/8' O' -2068' 54.5 J-55 STC 12.615" 12.459' 4100 5470 6840
+Interval Description CollaDSe Burst Tension
+(psi) I a (psi) I b (1000 lbs) I c
+O' -2068' 13-3/8", 54.5#, J-55, LT C, 8rd 1130/1 .16 2730 / 1.95 514 / 2.60
+API Rating & Satetv Factor
+a) Collapse based on full casing evacuation with 9 ppg fluid on backside (2068' setting depth).
+b) Burst pressure based on 13 ppg fluid with no fluid on backside (2068' setting depth).
+c) Based on string weight in 9 ppg fluid at 2068' TYO plus 100k# overpull. (Buoyed weight
+equals 97k lbs.)
+Cement volumes are based on 13-3/8" casing set in 17-1/2" hole with 60% excess to circulate cement back: to surface.
+Mix and pump the following slurry.
+Pre-flush (Spacer): 20 bbls fresh water
+Lead Slurry: 694 sks (358 bbls), 11.5 lb/gal, 2.97 cu. FtJsk Varicem Cement with 0.125 il/sk Lost Circulation
+Additive
+Tail Slurry: 300 sks (62 bbls), 13.0 lb/gal, 2.01 cu.ft./sk Varicem with .125 lb/sk Lost Circulation Agent
+Oil and Gas Division J9Jl/lf
+. NORTH DAKOTA
+Lynn D. Helms -Director Bruce E. Hicks -Assistant Director
+Department of Mineral Resources
+Lynn D. Helms -Director
+North Dakota Industrial Commission
+www.dmr.nd.gov/oilgas/
+BRANDI TERRY Date: 9/2/2014
+OASIS PETROLEUM NORTH AMERICA LLC
+1001 FANNIN STE 1500
+HOUSTON, TX 77002 USA
+RE: CORESANDSAMPLES
+Well Name: KLINE FEDERAL 5300 11-18 3T Well File No.: 29244
+Location: LOTl 18-153-100 County: MCKENZIE
+Permit Type: Development -HO RIZO NT AL
+Field: BAKER Target Horizon: THREE FORKS BI
+Dear BRANDI TERRY:
+North Dakota Century Code Section 38-08-04 provides for the preservation of cores and samples and their shipment to the
+State Geologist when requested. The following is required on the above referenced well:
+1) All cores, core chips and samples must be submitted to the State Geologist as provided for under North Dakota
+Century Code: Section 38-08-04 and North Dakota Administrative Code: Section 43-02-03-38.1.
+2) Samples: The Operator is to begin collecting sample drill cuttings no lower than the:
+Base of the Last Charles Salt
+- Sample cuttings shall be collected at:
+o 30' maximum intervals through all vertical and build sections.
+o 100' maximum intervals through any horizontal sections.
+- Samples must be washed, dried, placed in standard sample envelopes (3" x 4.5"), packed in the correct order into
+standard sample boxes (3.5" x 5.25" x 15.25").
+- Samples boxes are to be carefully identified with a label that indicates the operator, well name, well file number,
+American Petroleum Institute (API) number, location and depth of samples; and forwarded in to the state core
+and sample library within 30 days of the completion of drilling operations.
+3) Cores: Any cores cut shall be preserved in correct order, boxed in standard core boxes (4.5", 4.5", 35.75"), and the
+entire core forwarded to the state core and samples library within 180 days of completion of drilling operations.
+Any extension of time must have approval on a Form 4 Sundry Notice.
+All cores, core chips, and samples must be shipped, prepaid, to the state core and samples library at the following address:
+ND Geological Survey Core Library
+2835 Campus Road, Stop 8156
+Grand Forks, ND 58202
+North Dakota Century Code Section 38-08-16 allows for a civil penalty for any violation of Chapter 38 08 not to exceed
+$12,500 for each offense, and each day's violation is a separate offense.
+Sincerely
+tephen Fried
+Geologist
+600 E Boulevard Ave -Dept 405, Bismarck, North Dakota 58505-0840 Phone (701)328-8020 Fax (701)328-8022
+. .. .. .". SUNDRY NOTICES AND REPORTS ON WELLS -FORM 4
+l,/ ttl/' ,-;-:-,. .\· INDUSTRIALC OMMISSIONO F NORTH DAKOTA
+if fit( OIL AND GAS DIVISION !Well File Nao..
+Lftf
+:-.. a .efb-' 600 EAST BOULEVARD DEPT 405 Q.q
+BISMARCK, NO 58505-0840
+SFN 5749 (09-2006)
+PLEASE READ INSTRUCTIONSB EFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINALA ND ONE COPY.
+liZI Notice of Intent ApproximateS tart Date D Drilling Prognosis O Spill Report
+July 2, 2014
+I D Redrllling or Repair D Shooting
+D Report of Work Done Date Work Completed D Casing or Liner D Acidizing
+D Plug Well O Fracture Treatment
+D Notice of Intent to Begin a Workover Project that may Qualify D SupplementalH istory D Change Production Method
+I
+for a Tax Exemption Pursuantt o NDCC Seclion 57-51.1-03.
+D TemporarilyA bandon D Reclamation
+ApproximateS tart Date
+1ZJ Other Suspension of Drilling
+Well Name and Number 24-HOUR PRODUCTION RATE
+KLINE FEDERAL 5300 11-18 3T I Before After
+Footages atr-Qtr 'Section irownshlp Range 011 Bbls Oil Bbls
+w
+1020 F N L 290 F IW L 1LOT1 18 I1 53 N 100 Water Bbls Water Bbls
+Field Pool County Gas MCF Gas MCF
+BAKER BAKKEN McKenzie
+Name of Contractor(s)
+Advanced Enerav Services I
+IZlp
+Address State Code
+DETAILS OF WORK
+Oasis Petroleum North America LLC requests permission for suspension of drilling for up to 90 days for the
+referenced well under NDAC 43-02-03-55. Oasis Petroleum North America LLC Intends to drill the surface hole with
+freshwater based drill Ing mud and set surface casing with a small drilling rig and move off within 3 to 5 days. The
+casing will be set at a depth pre-approved by the NDIC per the Application for Permit to Drill NDAC 43-02-03-21. No
+saltwater will be used in the drilling and cementing operations of the surface casing. Once the surface casing is
+cemented, a plug or mechanical seal will be placed at the top of the casing to prevent any foreign matter from getting
+Into the well. A rig capable of drilling to TD will move onto the location within the 90 days previously outlined to
+complete the drilling and casing plan as per the APO. The undersigned states that this request for suspension of
+drilling operations In accordance with the Subsection 4 of Section 43-02-03-55 of the NDAC, Is being requested to
+take advantage of the cost savings and time savings of usl ng an 1n ltlal rig that is smaller than the rig necessary to
+drill a well to total depth but is not Intended to alter or extend the terms and conditions of, or suspend any obligation
+under, any oil and gas lease with acreage in or under the spacing or drilling unit for the above-referenced well. Oasis
+Petroleum North America LLC understands NDAC 43-02-03-31 requirements regarding confidentlallty pertaining to
+this permit. The drllllng pit will be fenced immediately after construction If the well pad Is located In a pasture (NDAC
+43-02-03-19 & 19.1 ). Oasis Petroleum North America LL will plug and abandon the well and reclaim the well site if the
+well is not drilled by the larger rotary rig within 90 days after spudding the well with the smaller drilling rig.
+I DI IN cc.To (WIVlv Ai - '3SS WtTII Sf>VfJ & /{) WF-o
+Company
+Oasis Petroleum North America LLC FOR STATE USE ONLY
+Address D
+Received Approved
+1001 Fannin, Suite 1500
+Slate Zip Code Date 8 /J_( / ;;z.011./
+TX 77002
+Printed Name
+Heather Mccowan
+Title Date
+Re ulatory Assistant Jul 2,2014 Tlt!NGINEERING TECHNICIAN
+Email Address
+hmccowan@oasispetroleum.com
+APPLICATION FOR PERMIT TO DRILL HORIZONTAL WELL - FORM 1H
+INDUSTRIAL COMMISSION OF NORTH DAKOTA
+OIL AND GAS DIVISION
+600 EAST BOULEVARD DEPT 405
+BISMARCK, ND 58505-0840
+SFN 54269 (08-2005)
+PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
+PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
+Type of Work Type of Well Approximate Date Work Will Start Confidential Status
+NewLocation Oil&Gas 10 / 1 / 2013 No
+Operator Telephone Number
+OASISPETROLEUMNORTHAMERICALLC 281-404-9563
+Address City State Zip Code
+1001FanninSuite1500 Houston TX 77002
+Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
+✔ ✔
+permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
+WELL INFORMATION (If more than one lateral proposed, enter data for additional laterals on page 2)
+Well Name Well Number
+KLINEFEDERAL 530011-183T
+Surface Footages Qtr-Qtr Section Township Range County
+1020 F N L 290 F W L LOT1 18 153 N 100 W McKenzie
+Longstring Casing Point Footages Qtr-Qtr Section Township Range County
+1367 F N L 562 F W L LOT1 18 153 N 100 W McKenzie
+Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
+347 S From WH 272 E From WH 137 º 11084 Feet MD 10813 Feet TVD
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+2030 F N L 206 F E L SENE 17 153 N 100 W McKenzie
+Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
+1010 S From WH 10051 E From WH 10337 Feet MD 90 º 21039 Feet MD 10865 Feet TVD
+Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
+48 ° 04 ' 45.09" -103 ° 36 ' 10.59 " NAD83 SpacingUnit: Sections18&17T153NR100W
+Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
+2053 Feet Above S.L. 1280 500 FeetN/S 200 FeetFEe/eWt 23752
+North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
+10544 Feet 10489 Feet 5244 Feet 5256 Feet
+Objective Horizons Pierre Shale Top
+ThreeForksB1 1967
+Proposed Size Weight Depth Cement Volume NOTE: Surface hole must be drilled with fresh water
+Surface Casing 9 - 5/8 " 36 Lb./Ft. 2068 Feet 984 Sacks and surface casing must be cemented back to surface.
+Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
+Longstring Casing 7 - " 29/32 Lb./Ft. 11084Feet MD 10813 Feet TVD 832 Sacks 3947 Feet 5447 Feet
+BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
+NOTE: Intermediate or longstring casing string must be cemented above the top Dakota Group Sand.
+9215 Feet
+Proposed Logs
+TripleCombo:KOPtoKibbyGR/RestoBSCGRtosurfCNDthroughtheDakota
+Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Lateral)
+Invert SaltWaterGel
+Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
+MWD Every 100 Feet 30 Feet 90 Feet Ryan
+NOTE: A Gamma Ray log must be run to ground surface and a CBL must be run on intermediate or longstring casing string if set.
+Surveys are required at least every 30 feet in the build section and every 90 feet in the lateral section of a horizontal well. Measurement
+inaccuracies are not considered when determining compliance with the spacing/drilling unit boundary setback requirement except in the
+following scenarios: 1) When the angle between the well bore and the respective boundary is 10 degrees or less; or 2) If Industry standard
+methods and equipment are not utilized. Consult the applicable field order for exceptions.
+If measurement inaccuracies are required to be considered, a 2° MWD measurement inaccuracy will be applied to the horizontal portion of the well
+bore. This measurement inaccuracy is applied to the well bore from KOP to TD.
+REQUIRED ATTACHMENTS: Certified surveyor's plat, horizontal section plat, estimated geological tops, proposed mud/cementing plan,
+directionalplot/plan,$100fee.
+See Page 2 for Comments section and signature block.
+Page 2
+SFN 54269 (08-2005)
+COMMENTS, ADDITIONAL INFORMATION, AND/OR LIST OF ATTACHMENTS
+Documentsforwardedbyemail:Drillplanwithdrillingfluids,WellSummarywithcasing/cementplans,DirectionalPlan&Plot,Plats
+Lateral 2
+KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
+Feet MD º Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Lateral 3
+KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
+Feet MD º Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Lateral 4
+KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
+Feet MD º Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Lateral 5
+KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
+Feet MD º Feet MD Feet TVD From WH From WH
+Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
+From WH From WH From WH From WH
+KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
+F L F L N W
+Date
+I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
+7 / 02 / 2014
+Signature Printed Name Title
+ePermit
+HeatherMcCowan RegulatoryAssistant
+Email Address(es)
+FOR STATE USE ONLY FOR STATE USE ONLY
+Permit and File Number API Number Date Approved
+29244 33 - 053 - 06225 8 / 26 / 2014
+Field By
+BAKER MattMessana
+Pool Permit Type Title
+BAKKEN DEVELOPMENT EngineeringTechnician
+WELL LOCATION PLAT
+yd(aoufaonai-rli6nF5138AJs/fcle11Tlh:3dsom9\-e.lC/M—40erA1sd2Dra4\a800Klwrlh1ign4e
+OASIS PETROLEUM NORTH AMERICA, LLC
+1001 FANNIN, SUITE 1500, HOUSTON, TX 77002
+"KLINE FEDERAL 5300 11-18 31"
+1020 FEET FROM NORTH LINE AND 290 FEET FROM WEST LINE
+SECTION 18, T153N, R100W, 5th P.M., MCKENZIE COUNTY, NORTH DAKOTA Description 1|1RBMW6/OEHE1VLH6ELV/]DS14
+\
+OOWPceetr-aoNrl—eelu7ma
+FOUND 4” AC
+Se W/ 2D AC\ CORP. OF ENG. \ | [CWANLC ULLAAKTEED CALCULATED
+By
+(s°2359 te AZ 89°47°43” 2624.90’ AZ 89°49’00” 2640’ (GLO) AZ 90°00’00” 5280’ (GLO) 7“ IN LAKE
+—r4 | OK | ok Date
+/ ON
+Revision
+. oO | ee No.
+o NS LOT 1 a ip O
+Ql | |! o>
+oO | BOTTOM HOLE LOCATION . LOK
+N | LATITUDE 48°04'35.26"N| a) Pox
+OPNALEMAOTERLSRORLITIECCUSHAM, $14-09-127.01
+eo - LONGITUDE 103°33'42.55°W Of TN 2 CNDMCOAOKUKERNONTZTTIHYAE, A20P1R4IL
+590’ — -—._| < GPS SURVEY DATUM: NAD 83 <
+__ . >, ——— — = — S1TRE11C850TI30O,NWN,
+=| KLINE FEDERAL 5300 11-18 3T | af 85°41'23°' A) 040 3.16" WLPOECLALTAILOTN
+PNroo.je:ct
+|to) GLARTOIUTNUDDE EL48E°V0.4 ’4250.5039.°N2 ’ || o~O| — — V/
+Date:
+©] GPS SURVEY DATUM: NAD 83 J
+O K 50 a(IEI2NN)GT0NIEcNR1ESCETRA4.ITNE,)G,
+> LOT 2 Ov i
+FOUND STONE < te) Yy /
+B.H.H D.D.K.
+W/ REBAR\ ; = _ A _ _ 7 a _ L1L)A ,S
+x 06) CBheycke:d
+DBraywn:
+- y © AN
+CN ie) /
+n0m0 LOT 3 iLO Y
+© | 4 CL
+| : OoDSDiMNafaaitoonfkknnhuiroonecetstttdeorhhaatsa,
+—_ F LL
+IEInntgneirnscetear.tieng,
+SM5oi9nd2tna7ne0ay, www.interstateeng.com
+O| ~ M4EStaa2rise5entt P(4343-h056617)F(4343a-056x618)
+*0 \ 7 PB6.o4Ox8.
+N <7 ib oO)
+st “\ ° “SY
+: LOT 4 | |
+LOT 3 2 fon
+N | N +
+< | <
+te | : | AZ 20°00'00°,
+FOUND/‘P AZ 90°03'35” 2630.15" / AZ 89°49’00" 2640" (GLO) AZ 90°00'00” 1947’ (GLO) ~— 2216’ 1056’ (GLO) “\CALCULATED
+REBAR == FOUND REBAR ) CALCULATED VICINITY MAP IN LAKE
+5|8 W/_2” AC EDGE OF IN LAKE % 7 =
+=|e LS 2352 LAKE | i Ro) Stee en. INTERSTATEENGINEERING
+STAKED ON 6/18/14 mBitees) 5 S‘ g ayr!Sn) Pnprotfeeersyyoseuiopoosndaltl,suue
+; ALE Bene v7
+VERTICAL CONTROL DATUM WAS BASED UPON 1
+THIS DOCUMENT WAS ORIGINALLY N) CONTROL POINT 4 WITH AN ELEVATION OF 2090.8’ : “‘ hA yCC =ESS e RO‘ eyA D. j|i! a . 5 snl
+ISSUED AND SEALED BY DARYL D. THIS SURVEY AND PLAT IS BEING PROVIDED AT THE STNG RIND FEDERAL. . . eS Ses oes
+KASEMAN, PLS, REGISTRATION NUMBER REQUEST OF ERIC BAYES OF OASIS PETROLEUM. |
+5300 11-18H & San z - = + ——
+5880 ON _6/19/14 AND THE CERTIFY THAT THIS PLAT CORRECTLY REPRESENTS ASHI FEDERAL,5300 11-187 U R
+MA KLINE FEDERAL
+ORIGINAL DOCUMENTS ARE STORED AT WORK PERFORMED BY ME OR UNDER MY SUPERVISION
+THE OFFICES OF INTERSTATE ) 1000 AND IS TRUE AND CORRECT TO THE BEST OF MY *s 5300 11-18 3T
+ENGINEERING, INC. ——— KNOWLEDGE. AND BELIEF. i 7 1
+4” = 1000’
+Oosk — MONUMENT — RECOVERED
+— MONUMENT — NOT RECOVERED 1°)
+Zz
+—
+uu
+uu
+DARYL D. KASEMAN LS—3880 x n=
+\
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Sec. 18 T153N R100W
+McKenzie County, North Dakota
+SURFACE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+Size Interval Weight Grade Coupling I.D. Drift Minimum Optimum Max
+13-3/8” 0’ to 2,068’ 54.5 J-55 STC 12.615" 12.459" 4,100 5,470 6,840
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+0’ to 2,068’ 13-3/8", 54.5#, J-55, STC, 8rd 1130 / 1.17 2730 / 2.82 514 / 2.61
+API Rating & Safety Factor
+a) Collapse pressure based on full casing evacuation with 9 ppg fluid on backside (2068' setting
+depth).
+b) Burst pressure based on 9 ppg fluid with no fluid on backside (2068' setting depth).
+c) Based on string weight in 9 ppg fluid at 2068' TVD plus 100k# overpull. (Buoyed weight equals
+97k lbs.)
+Cement volumes are based on 13-3/8" casing set in 17-1/2" hole with 50% excess to circulate cement back to surface.
+Mix and pump the following slurry.
+Pre-flush (Spacer): 20 bbls fresh water
+Lead Slurry: 635 sks (328 bbls) 2.9 yield conventional system with 94 lb/sk cement, .25 lb/sk D130 Lost
+Circulation Control Agent, 2% CaCL2, 4% D079 Extender, and 2% D053 Expanding Agent.
+Tail Slurry: 349 sks (72 bbls) 1.16 yield conventional system with 94 lb/sk cement, .25 lb/sk Lost Circulation
+Control Agent, and .25% CaCL2.
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Sec. 18 T153N R100W
+McKenzie County, North Dakota
+CONTINGENCY INTERMEDIATE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+Size Interval Weight Grade Coupling I.D. Drift Minimum Optimum Max
+9-5/8” 0' - 6101' 40 HCL-80 LTC 8.835” 8.75”** 5,450 7,270 9,090
+**Special Drift
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+0' - 6101' 9-5/8”, 40#, HCL-80, LTC, 8rd 4230 / 5.33 5750 / 1.23 837 / 2.73
+API Rating & Safety Factor
+a. Collapse pressure based on 11.5ppg fluid on backside and 9ppg fluid inside of casing.
+b. Burst pressure calculated from a gas kick coming from the production zone (Bakken Pool) at
+9,000psi and a subsequent breakdown at the 9-5/8” shoe, based on a 13.5#/ft fracture gradient.
+Backup of 9 ppg fluid.
+c. Yield based on string weight in 10 ppg fluid, (207k lbs buoyed weight) plus 100k lbs overpull.
+Cement volumes are estimates based on 9-5/8" casing set in a 12-1/4" hole with 10% excess in OH and 0% excess
+inside surface casing. TOC at surface.
+Pre-flush (Spacer): 20 bbls Chem wash
+Lead Slurry: 598 sks (309 bbls) Conventional system with 75 lb/sk cement, 0.5lb/sk lost circulation, 10%
+expanding agent, 2% extender, 2% CaCl2, 0.2% anti foam, and 0.4% fluid loss
+Tail Slurry: 349 sks (72 bbls) Conventional system with 94 lb/sk cement, 0.3% anti-settling agent, 0.3% fluid loss
+agent, 0.3 lb/sk lost circulation control agent, 0.2% anti foam, and 0.1% retarder
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Sec. 18 T153N R100W
+McKenzie County, North Dakota
+INTERMEDIATE CASING AND CEMENT DESIGN
+Make-up Torque (ft-lbs)
+Size Interval Weight Grade Coupling I.D. Drift Minimum Optimum Max
+7" 0' - 6634' 29 P-110 LTC 6.184" 6.059" 5980 7970 8770
+7" 6634' - 10337' 32 HCP-110 LTC 6.094" 6.000"** 6730 8970 9870
+7" 10337' - 11085' 29 P-110 LTC 6.184" 6.059" 5980 7970 8770
+**Special Drift
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+0' - 6634' 7", 29#, P-110, LTC, 8rd 8530 / 2.47* 11220 / 1.19 797 / 2.08
+6634' - 10337' 7", 32#, HCP-110, LTC, 8rd 11820 / 2.19* 12460 / 1.29
+6634' - 10337' 7", 32#, HCP-110, LTC, 8rd 11820 / 1.28** 12460 / 1.29
+10337' - 11085' 7", 29#, P-110, LTC, 8rd 8530 / 1.51* 11220 / 1.15
+API Rating & Safety Factor
+a. *Assume full casing evacuation with 10 ppg fluid on backside. **Assume full casing
+evacuation with 1.2 psi/ft equivalent fluid gradient across salt intervals.
+b. Burst pressure based on 9000 psig max press for stimulation plus 10.2 ppg fluid in casing and
+9 ppg fluid on backside-to 10,813' TVD.
+c. Based on string weight in 10 ppg fluid, (301k lbs buoyed weight) plus 100k lbs overpull.
+Cement volumes are estimates based on 7" casing set in an 8-3/4" hole with 30% excess.
+Pre-flush (Spacer): 50 bbls Saltwater
+40 bbls Weighted MudPush Express
+Lead Slurry: 207 sks (81 bbls) 2.21 yield conventional system with 47 lb/sk cement, 37 lb/sk D035 Extender,
+3.0% KCl, 3.0% D154 Extender, 0.3% D208 Viscosifier, 0.07% Retarder, 0.2% Anti Foam, 0.5lb/sk
+D130 LCM
+Tail Slurry: 625 sks (171 bbls) 1.54 yield conventional system with 94 lb/sk cement, 3.0% KCl, 35.0% Silica,
+0.5% Retarder, 0.2% Fluid Loss, 0.2% Anti Foam, 0.5 lb/sk LCM
+Oasis Petroleum
+Well Summary
+Kline Federal 5300 11-18 3T
+Sec. 18 T153N R100W
+McKenzie County, North Dakota
+PRODUCTION LINER
+Size Interval Weight Grade Coupling I.D. Drift Torque
+4-1/2” 10,287' – 21,039' 13.5 P-110 BTC 3.92" 3.795" 4,500
+Interval Description Collapse Burst Tension
+(psi) a (psi) b (1000 lbs) c
+10,287' – 21,039' 4-1/2”, 13.5 lb, P-110, BTC, 8rd 10680 / 1.99 12410 / 1.28 443 / 1.98
+API Rating & Safety Factor
+a) Collapse pressure based on full casing evacuation with 9.5 ppg fluid on backside @ 10865' TVD.
+b) Burst pressure based on 9000 psi treating pressure with 10.2 ppg internal fluid gradient and 9 ppg
+external fluid gradient @ 10865' TVD.
+c) Based on string weight in 9.5 ppg fluid (Buoyed weight: 124k lbs.) plus 100k lbs overpull.
+Oasis Petroleum does not use Diesel Fuel, as defined by the US EPA in the list below, in
+our hydraulic fracture operations.
+68334-30-5 (Primary Name: Fuels, diesel)
+68476-34-6 (Primary Name: Fuels, diesel, No. 2)
+68476-30-2 (Primary Name: Fuel oil No. 2)
+68476-31-3 (Primary Name: Fuel oil, No. 4)
+8008-20-6 (Primary Name: Kerosene)
