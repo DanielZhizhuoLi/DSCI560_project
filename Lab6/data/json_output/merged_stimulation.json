@@ -1,0 +1,280 @@
+{
+  "ocr_W90329_2": {
+    "Date Stimulated": "11/17/2011",
+    "Stimulated Formation": "Bakken",
+    "Top (Ft)": "10162",
+    "Bottom (Ft)": "20440",
+    "Stimulation Stages": "Cased Hole",
+    "Volume": "74475",
+    "Volume Units": "Barrels",
+    "Type Treatment": "Sand Frac",
+    "Acid %": "",
+    "Lbs Proppant": "4519292",
+    "Maximum Treatment Pressure (PSI)": "8877",
+    "Maximum Treatment Rate (BBLS/Min)": "43.6",
+    "Details": "40/70 white- 1825104, 20/40 white- 2694188"
+  },
+  "ocr_W30188_1": {},
+  "ocr_W28557_1": {
+    "Date Stimulated": "04/24/2015",
+    "Stimulated Formation": "Three Forks",
+    "Top (Ft)": "11167",
+    "Bottom (Ft)": "20517",
+    "Stimulation Stages": "36",
+    "Volume Units": "Barrels",
+    "Volume": "134353",
+    "Treatment": {
+      "Type": "Sand Frac",
+      "Acid %": "",
+      "Lbs Proppant": "3973130",
+      "Maximum Treatment Rate (BBLS/Min)": "39.0",
+      "Maximum Treatment Pressure (PSI)": "9218"
+    },
+    "Details": "40/70 White : 1437920"
+  },
+  "ocr_W22731_1": {},
+  "ocr_W28637_1": {
+    "Details": ""
+  },
+  "ocr_W23365_1": {
+    "Details": ""
+  },
+  "ocr_W25158_1": {
+    "Details": ""
+  },
+  "ocr_W22099_1": {
+    "Details": ""
+  },
+  "ocr_W23367_1": {
+    "Details": ""
+  },
+  "ocr_W90329_1": {
+    "Details": ""
+  },
+  "ocr_W30188_2": {},
+  "ocr_W28557_2": {},
+  "ocr_W28637_2": {},
+  "ocr_W28649_4": {},
+  "ocr_W28756_2": {
+    "Details": ""
+  },
+  "ocr_W28754_1": {
+    "Details": ""
+  },
+  "ocr_W23363_1": {
+    "Details": ""
+  },
+  "ocr_W28756_3": {},
+  "ocr_W28649_1": {
+    "Details": ""
+  },
+  "ocr_W28633_1": {
+    "Details": ""
+  },
+  "ocr_W23361_1": {
+    "Details": ""
+  },
+  "ocr_W28649_3": {},
+  "ocr_W28756_1": {
+    "Details": ""
+  },
+  "ocr_W28754_3": {},
+  "ocr_W28754_2": {
+    "Details": ""
+  },
+  "ocr_W28649_2": {},
+  "ocr_W22220_1": {
+    "Details": ""
+  },
+  "ocr_W28634_1": {
+    "Details": ""
+  },
+  "ocr_W30189_2": {
+    "Details": ""
+  },
+  "ocr_W23366_1": {},
+  "ocr_W29244_1": {
+    "Details": ""
+  },
+  "ocr_W30189_3": {},
+  "ocr_W28636_2": {
+    "Details": ""
+  },
+  "ocr_W28554_1": {
+    "Details": ""
+  },
+  "ocr_W28634_2": {},
+  "ocr_W30189_1": {},
+  "ocr_W23364_1": {
+    "Details": ""
+  },
+  "ocr_W25159_1": {
+    "Details": ""
+  },
+  "ocr_W28636_1": {
+    "Details": ""
+  },
+  "ocr_W23359_1": {},
+  "ocr_W28342_1": {
+    "Details": ""
+  },
+  "ocr_W28755_3": {},
+  "ocr_W23360_1": {},
+  "ocr_W25571_1": {
+    "Details": ""
+  },
+  "ocr_W20407_1": {
+    "Date Stimulated": "11/17/2011",
+    "Stimulated Formation": "Bakken",
+    "Top (Ft)": "10882",
+    "Bottom (Ft)": "20300",
+    "Stimulation Stages": "‘",
+    "Volume": "74826",
+    "Volume Units": "Barrels",
+    "Type Treatment": "Sand Frac",
+    "Acid %": "",
+    "Lbs Proppant": "4539124",
+    "Maximum Treatment Pressure (PSI)": "8672",
+    "Maximum Treatment Rate (BBLS/Min)": "41.2",
+    "Details": "40/70 white- 1818580, 20/40 ceramic- 2720544"
+  },
+  "ocr_W28303_1": {
+    "Details": ""
+  },
+  "ocr_W25160_1": {
+    "Details": ""
+  },
+  "ocr_W28978_1": {},
+  "ocr_W22221_1": {
+    "Details": ""
+  },
+  "ocr_W29242_1": {
+    "Details": ""
+  },
+  "ocr_W28755_2": {
+    "Details": ""
+  },
+  "ocr_W28648_1": {
+    "Details": ""
+  },
+  "ocr_W28755_1": {
+    "Details": ""
+  },
+  "ocr_W23362_1": {
+    "Details": ""
+  },
+  "ocr_W28194_1": {},
+  "ocr_W28601_1": {
+    "Details": ""
+  },
+  "ocr_W28976_1": {
+    "Details": ""
+  },
+  "ocr_W28194_2": {
+    "Details": ""
+  },
+  "ocr_W28601_2": {},
+  "ocr_W29316_1": {
+    "Details": ""
+  },
+  "ocr_W21796_1": {
+    "Details": ""
+  },
+  "ocr_W20864_1": {
+    "Details": ""
+  },
+  "ocr_W28601_3": {},
+  "ocr_W28194_3": {},
+  "ocr_W22740_1": {
+    "Details": ""
+  },
+  "ocr_W28744_2": {},
+  "ocr_W23368_1": {
+    "Details": ""
+  },
+  "ocr_W23230_1": {
+    "Details": ""
+  },
+  "ocr_W23371_1": {
+    "Details": ""
+  },
+  "ocr_W90258_1": {
+    "Details": ""
+  },
+  "ocr_W28744_1": {
+    "Details": ""
+  },
+  "ocr_W29334_1": {
+    "Details": ""
+  },
+  "ocr_W25157_1": {
+    "Details": ""
+  },
+  "ocr_W28190_1": {},
+  "ocr_W29317_1": {
+    "Details": ""
+  },
+  "ocr_W21266_1": {
+    "Details": ""
+  },
+  "ocr_W28600_2": {},
+  "ocr_W28658_4": {},
+  "ocr_W28600_1": {
+    "Details": ""
+  },
+  "ocr_W28658_5": {},
+  "ocr_W28599_1": {
+    "Details": ""
+  },
+  "ocr_W23372_1": {
+    "Details": ""
+  },
+  "ocr_W36047_1": {},
+  "ocr_W28394_1": {
+    "Details": ""
+  },
+  "ocr_W28658_1": {},
+  "ocr_W20863_1":       {
+    "Date Stimulated": "41/6/2014",
+    "Stimulated Formation": "Bakken",
+    "Top (Ft)": "10162",
+    "Bottom (Ft)": "20440",
+    "Stimulation Stages": "Cased Hole",
+    "Volume": "74475",
+    "Volume Units": "Barrels",
+    "Type Treatment": "Sand Frac",
+    "Acid %": "",
+    "Lbs Proppant": "4519292",
+    "Maximum Treatment Pressure (PSI)": "8877",
+    "Maximum Treatment Rate (BBLS/Min)": "43.6",
+    "Details": [
+      "40/70 white- 1825104",
+      "20/40 white- 2694188"
+    ]
+  },
+  "ocr_W28425_1": {
+    "Details": ""
+  },
+  "ocr_W25156_1": {
+    "Details": ""
+  },
+  "ocr_W28599_2": {},
+  "ocr_W23369_1": {},
+  "ocr_W28658_2": {
+    "Details": ""
+  },
+  "ocr_W22249_1": {},
+  "ocr_W23370_1": {
+    "Details": ""
+  },
+  "ocr_W20863_2": {
+    "Details": ""
+  },
+  "ocr_W28425_2": {
+    "Details": ""
+  },
+  "ocr_W28658_3": {},
+  "ocr_W30789_1": {
+    "Details": ""
+  }
+}
