@@ -9,15 +9,15 @@ PLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.
 ND Oil &
 PLEASE SUBMIT THE ORIGINAL AND ONE COPY.
 I
-D Notice of Intent Approximate Start Date (cid:143) Drilling Prognosis (cid:143) Spill Report
-(cid:143) (cid:143)
+D Notice of Intent Approximate Start Date  Drilling Prognosis  Spill Report
+ 
 Redrilling or Repair Shooting
 I
-D Report of Work Done Date Work Completed (cid:143) Casing or Liner (cid:143) Acidizing
-(cid:143) (cid:143)
+D Report of Work Done Date Work Completed  Casing or Liner  Acidizing
+ 
 Plug Well Fracture Treatment
-D Notice of Intent to Begin a Workover Project that may Qualify (cid:143) Supplemental History (cid:143) Change Production Method
-for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03. (cid:143) (cid:143)
+D Notice of Intent to Begin a Workover Project that may Qualify  Supplemental History  Change Production Method
+for a Tax Exemption PursuaIn t to NDCC Section 57-51.1-03.  
 Temporarily Abandon Reclamation
 Approximate Start Date
 0 Other As-Built Facilities
@@ -374,6 +374,55 @@ Signature Date
 Seth Burstad
 Casper Well Planner
 Scientific Drilling - Rocky Mountain District
+Scientific Drilling International, Inc.
+Survey Report
+Company: Continental Resources Inc. Local Co-ordinate Reference: Well Atlanta 1 SWD
+Project: Williams County, ND TVD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Site: Atlanta MD Reference: GL 1945' & KB 22' @ 1967.00ft (Cyclone 2)
+Well: Atlanta 1 SWD North Reference: True
+Wellbore: OH Survey Calculation Method: Minimum Curvature
+Design: OH Database: Rockies Compass Server
+Project Williams County, ND
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site Atlanta
+Site Position: Northing: 421,456.62 usft Latitude: 48° 6' 35.990 N
+From: Lat/Long Easting: 1,179,207.34 usft Longitude: 103° 43' 54.570 W
+Position Uncertainty: 0.00 ft Slot Radius: 13.200 in Grid Convergence: -2.40 °
+Well Atlanta 1 SWD, 260' FNL 432' FWL Sec 6 T153N R101W
+Well Position +N/-S 0.00ft Northing: 421,456.62 usft Latitude: 48° 6' 35.990 N
++E/-W 0.00ft Easting: 1,179,207.34 usft Longitude: 103° 43' 54.570 W
+Position Uncertainty 0.00ft Wellhead Elevation: ft Ground Level: 1,945.00 ft
+Wellbore OH
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(°) (°) (nT)
+IGRF2010 12/07/12 8.59 73.07 56,599
+Design OH
+Audit Notes:
+Version: 1.0 Phase: ACTUAL Tie On Depth: 0.00
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(ft) (ft) (ft) (°)
+0.00 0.00 0.00 280.98
+Survey Program Date 12/14/12
+From To
+(ft) (ft) Survey (Wellbore) Tool Name Description
+70.00 1,927.00Survey #1 - Surface (OH) MWD MWD - Standard
+2,050.00 5,891.00Survey #2 - SDI MWD Survey (OH) MWD SDI MWD - Standard ver 1.0.1
+Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate Rate Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (°/100ft) (°/100ft)
+1,927.00 0.30 2.60 1,926.96 1.69 -8.73 8.89 0.81 -0.21 135.32
+Last Newsco Survey
+2,050.00 0.59 280.23 2,049.96 2.13 -9.33 9.57 0.51 0.24 -66.97
+First SDI MWD Survey
+2,144.00 0.57 350.92 2,143.96 2.68 -9.88 10.21 0.71 -0.02 75.20
+2,237.00 0.60 4.13 2,236.95 3.62 -9.92 10.43 0.15 0.03 14.20
+2,331.00 0.28 17.19 2,330.95 4.33 -9.82 10.46 0.35 -0.34 13.89
+2,425.00 0.51 118.26 2,424.95 4.35 -9.38 10.04 0.67 0.24 107.52
+2,518.00 0.92 130.67 2,517.94 3.67 -8.45 8.99 0.47 0.44 13.34
+12/14/12 10:34:40AM Page 2 COMPASS 5000.1 Build 40
 UIC PERMIT CHECKLIST
 Well File No.
 90258

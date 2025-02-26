@@ -1093,6 +1093,36 @@ ge [Mwo| 12077| 8800| 98 30) 32| 974803 2443 81 628 98! 2398 G3lel 12751-7103 Ea
 ga |mwb] 12108] 8900; 98 30) 31] 9148 84] 247397] 624 51 2429 29{€] 3.23 32 90)
 yoolmwp} 12139; 89.00] 97 90) 34] 9149 38] 2504 17| 620 14 2459 S8/E] 129 OO} 43)
 Baker Hughes iNTEQ Page 4 of § 2.55PM 10/18/2003
+NANCE PETROLEUM CORPORATION,Slot Wellbore: LEWIS & CLARK 2-4H (PWB) o
+#1 LEWIS & CLARK East lateral
+SEC.4-T153N-R101W, Wellpath: LEWIS & CLARK 2-4H (PWP#1) TEQ
+MCKENZIE COUNTY,NORTH DAKOTA Last Revised: 26-Aug-2003
+Wellbore
+. .
+Name. Created Last Revised
+LEWIS & CLARK 2-4H (PW2B) East fateral 26-Aug-2003. 28-Aug-2003
+Weill - .
+Name. (Goverment ID. Last Revised
+LEWIS & CLARK 2-411
+19-Feb-2003
+Slot : .
+Name Gnd Northing ‘Grid Easting Latitude Longitude. North, East
+Slot#1 LEWIS & CLARK 1421890,7836 4190660,8303 Nas 6 44,6812 W103 416.1923 3028,00N 332,00W
+Installation . sot .
+Name Easting Northing. Coord System Name: Nosth Alignment
+SEC 4-T153N-R101W 1190867 365] 418841 853{ ND83-NF on NORTH AMERICAN DATUM 1983 True|
+datu
+Field
+. : . .
+Name Easting. NortHing. Coord System Namie North Atanment
+MCKENZIE COUNTY 1968500 000) 3519779 648) = ND83-NF on NORTH AMERICAN DATUM 1983. True}
+datu
+All data ts in Feet unless otherwise stated
+Coordinates are from Slot MD's ara from Rig and TVO's are from Rig ( Datum #1 0 06ft above Mean Sea Level )
+Vertical Seciion is from 0 OON 0 O0E on azimuth 85 07 degrees
+Bottom hole distance is 3420 66 Feet on azimuth 85 07 degrees from Wellhead
+Calcutation method uses Minimum Curvature method
+Prepared by Baker Hughes INTEQ
 O
 O
 AN
@@ -1270,6 +1300,100 @@ By
 Mark Bohrer
 Title
 Petroleum Engineer
+O O
+NANCE PETROLEUM CORPORATION,Slot Wellbore: LEWIS & CLARK 2-4H (AWB) igae
+#1 LEWIS & CLARK EMS ees
+SEC.4-T153N-R101W, Wellpath: LEWIS & CLARK 2-4H (AWP#1) 5 ——
+MCKENZIE COUNTY,NORTH DAKOTA Date Printed: 10-Jun-2003 Q
+Wellbore
+Name ‘Created Last Revised
+LEWIS & CLARK 2-4H (AWS) EMS. 40-Jun-2003 10-Jun-2003,
+Well
+|
+Name Government ID Last Revised —
+{LEWIS & CLARK 2-4H 19-Feb-2003
+Slot
+Name. Gnid Northing, Gnd Easting Latitude. Longitude [North East
+Siot #1 LEWIS & CLARK 1421880 7886 1190660 8303 N48 6 44 6812 W103 416 1923 3028 DON 332.00W
+Installation }
+Name Easting Northing Coord System Name. North Alignment.
+SEC.4-T153N-R101W 1190867 365: 418841,8536 ND&3-NF on NORTH AMERICAN DATUM 1983 True
+datum|
+Field
+Name. Easting Northing Coord System Name North Alignment
+MCKENZIE COUNTY 4968500 Cont 3519779 648: ND&3-NF on NORTH AMERICAN DATUM 1983 True
+datum|
+Created By
+Comments
+All data is n Fest unless otherwise stated
+Coordinates are from Stot MD's are from Rig and TVD's are from Rig ( Datum #2 0 O0ft above Mean Sea Level }
+Vertical Section ts from 0 GON 0 OOE on azimuth 227 25 degrees
+Bottom hole distance ts 52,19 Feet on azimuth 227 25 degrees from Wellhead
+Calculation method uses Minimum Curvature mathod
+Prepared by Baker Hughes INTEQ
+O O
+NANCE PETROLEUM CORPORATION,Slot Wellbore: LEWIS & CLARK 2-4H (AWB) at
+#1 LEWIS & CLARK MWD LATERAL HUGHES
+SEC.4-T153N-R101W, Wellpath: LEWIS & CLARK 2-4H (AWP#1) iNtEQ
+MCKENZIE COUNTY,NORTH DAKOTA Date Printed: 11-Jun-2003
+Wellbore
+|
+|Name Created Last Revised
+LEWIS & CLARK 2-4H (AWB) MWO LATERAL 40-Jun-2003 10-Jun-2003
+Well ]
+Name Government JD. Last Revised
+LEWiS & CLARK 2-4H 19-Feb-2003
+Slot |
+Name. Gnd Northing Grid Easting Latitude Longitude. North [East
+‘Slot #1 LEWIS & CLARK |421880 7886 1190660 8303 N48. 6 44 8842 W103 416.1923 3028 CON 332 COW
+Installation
+Name Easting Northing ‘Coord System Name. North Alignment,
+SEC 4-T153N-R101W 1190867 365: 418841 853% ND83-NF on NORTH AMERICAN DATUM 1983 True
+gaturn|
+Field
+Name. Easting Northing Coord Syste Name. North Alignment,
+MCKENZIE COUNTY 1868500.0001 3519779 6488 ND&3-NF on NORTH AMERICAN DATUM 1983 True
+datum!
+Created By
+Comments
+All data ts in Feat unless otherwise stated
+Coordinates are from Siot MD's are from Rig and TVD’s are from Rig ( Oatum #2 0 00ft above Mean Sea Level )
+Vertical Section is from 0 CON 0.00E on azimuth 305 75 degrees
+Bottom hole distance 1s 2106.69 Feet on anmuth 305 75 degrees from Wellhead
+Calculation method uses Minimum Curvature method
+Prepared by Baker Hughes INTEQ.
+O O
+NANCE PETROLEUM CORPORATION,Slot Wellbore: LEWIS & CLARK 2-4H (AWB) iA
+R
+#1 LEWIS & CLARK MWD SDTRK HUGHES
+SEC.4-1T153N-R101W, Wellpath: LEWIS & CLARK 2-4H (AWP#1)
+MCKENZIE COUNTY,NORTH DAKOTA Date Pri; nted: 11-Jun-2003 INTEQ
+Welibore
+Name [Created Teast Revised
+LEWIS & CLARK 2-4H (AWB) MWD SDTRK it 16-Jun-2003. 10-Jun-2003,
+Well
+J
+Name ‘Government ID Last Revised
+LEWIS & CLARK 2-4H 19-Feb-2003.
+Slot 1
+Name Gud Northing Gnd Easting Latitude Longitude: North East
+Slot #1 LEWIS & CLARK [421880 7886 1190660 8303 N48 6 44 8812 W103 416 1923 3028 CON 392 COW.
+Installation
+Name Easting Northing Coord System Name North Alianment,
+SEC.4-T153N-R101W 1190867 3654 416841 853 ND83-NF on NORTH AMERICAN DATUM 1983 True
+datum!
+Field J
+Name. Easting Northing Coord System Naima. North Alignment,
+MCKENZIE COUNTY 1968500 G00 3519779 648: ND83-NF on NORTH AMERICAN DATUM 1983 True
+datum!
+Created By
+Comments
+All data 's in Feet unless otherwise stated
+Coordinates are from Slot MD's ara from Rig and TVD's are from Rig ( Datum #2 0 OOft above Mean Sea Level )
+Verlicat Section is from 0,00N 0.00E on azimuth 289,36 degrees
+Bottom hole dislance 1s 4073 97 Feet on azimuth 289 36 degrees from Wellhead
+Calculation method uses Minimum Curvature method
+Prepared by Baker Hughes INTEQ
 As
 Revised 02-2001
 Well Fite No

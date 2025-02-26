@@ -355,7 +355,7 @@ Sincerely
 Richard A. Suggs
 Geologist
 600 E Boulevard Ave -Dept 405, Bismarck, North Dakota 58505-0840 Phone (70 I )328-8020 Fax (701 )328-8022
-(cid:36)(cid:51)(cid:51)(cid:47)(cid:44)(cid:38)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:41)(cid:50)(cid:53)(cid:3)(cid:51)(cid:40)(cid:53)(cid:48)(cid:44)(cid:55)(cid:3)(cid:55)(cid:50)(cid:3)(cid:39)(cid:53)(cid:44)(cid:47)(cid:47)(cid:3)(cid:43)(cid:50)(cid:53)(cid:44)(cid:61)(cid:50)(cid:49)(cid:55)(cid:36)(cid:47)(cid:3)(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:16)(cid:3)(cid:41)(cid:50)(cid:53)(cid:48)(cid:3)(cid:20)(cid:43)
+
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
 OIL AND GAS DIVISION
 600 EAST BOULEVARD DEPT 405
@@ -372,33 +372,33 @@ P.O.Box1032 Enid OK 73702
 Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
 ✔ ✔
 permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
-(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:11)(cid:44)(cid:73)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:82)(cid:81)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:82)(cid:86)(cid:72)(cid:71)(cid:15)(cid:3)enter data for additional laterals on page 2)
+enter data for additional laterals on page 2)
 Well Name Well Number
 COLUMBUSFEDERAL 3-16H
 Surface Footages Qtr-Qtr Section Township Range County
-2469 F N L 199 F E L SENE 16 153 (cid:49) 101 (cid:58) McKenzie
+2469 F N L 199 F E L SENE 16 153  101  McKenzie
 Longstring Casing Point Footages Qtr-Qtr Section Township Range County
-1952 F N L 500 F E L SESE 16 153 (cid:49) 101 (cid:58) McKenzie
+1952 F N L 500 F E L SESE 16 153  101  McKenzie
 Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
-517 N From WH 301 WFrom WH 352 (cid:158) 10952 Feet MD 10543 Feet TVD
+517 N From WH 301 WFrom WH 352  10952 Feet MD 10543 Feet TVD
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-200 F N L 660 F E L NENE 4 153 (cid:49) 101 (cid:58) McKenzie
+200 F N L 660 F E L NENE 4 153  101  McKenzie
 Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
-12716 N From WH 461 WFrom WH 10102 Feet MD 2.27 (cid:158) 23199 Feet MD 10543 Feet TVD
+12716 N From WH 461 WFrom WH 10102 Feet MD 2.27  23199 Feet MD 10543 Feet TVD
 Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
-48 (cid:131) 04 (cid:10) 31.64(cid:5) -103 (cid:131) 40 (cid:10) 11.00 (cid:5) NAD83 SpacingUnit: Sec4,9,16,&21153101
+48  04  31.64 -103  40  11.00  NAD83 SpacingUnit: Sec4,9,16,&21153101
 Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
 1920 Feet Above S.L. 2560 200 FeetN/S 500 FeetFEe/eWt 1983221551
 North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
 5279 Feet 5300 Feet 20988 Feet 20969 Feet
 Objective Horizons Pierre Shale Top
 MiddleBakken 1841
-Proposed Size Weight Depth Cement Volume (cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:54)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:75)(cid:82)(cid:79)(cid:72)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:72)(cid:71)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:73)(cid:85)(cid:72)(cid:86)(cid:75)(cid:3)(cid:90)(cid:68)(cid:87)(cid:72)(cid:85)
-Surface Casing 9 (cid:16) 5/8 (cid:5) 36 Lb./Ft. 1940 Feet 732 Sacks (cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:87)(cid:82)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:17)
+Proposed Size Weight Depth Cement Volume 
+Surface Casing 9  5/8  36 Lb./Ft. 1940 Feet 732 Sacks 
 Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
-Longstring Casing 7 (cid:16) (cid:5) 26-32 Lb./Ft. 10952Feet MD 10543 Feet TVD 1139 Sacks 0 Feet 4826 Feet
+Longstring Casing 7   26-32 Lb./Ft. 10952Feet MD 10543 Feet TVD 1139 Sacks 0 Feet 4826 Feet
 BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:69)(cid:82)(cid:89)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:39)(cid:68)(cid:78)(cid:82)(cid:87)(cid:68)(cid:3)(cid:42)(cid:85)(cid:82)(cid:88)(cid:83)(cid:3)(cid:54)(cid:68)(cid:81)(cid:71)(cid:17)
+
 9031 Feet
 Proposed Logs
 CBL/GRfromdeepestdepthobtainabletogroundsurface/mud
@@ -406,56 +406,56 @@ Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Late
 Invert Brine
 Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
 MWD Every 100 Feet 30 Feet 90 Feet LEAMDrillingServices
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:36)(cid:3)(cid:42)(cid:68)(cid:80)(cid:80)(cid:68)(cid:3)(cid:53)(cid:68)(cid:92)(cid:3)(cid:79)(cid:82)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:87)(cid:82)(cid:3)(cid:74)(cid:85)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:68)(cid:3)(cid:38)(cid:37)(cid:47)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:82)(cid:81)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:76)(cid:73)(cid:3)(cid:86)(cid:72)(cid:87)(cid:17)
-(cid:54)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:79)(cid:72)(cid:68)(cid:86)(cid:87)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:22)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:69)(cid:88)(cid:76)(cid:79)(cid:71)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:28)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:17)(cid:3)(cid:3)(cid:48)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)
-(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:3)(cid:90)(cid:75)(cid:72)(cid:81)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:76)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:76)(cid:81)(cid:74)(cid:18)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:76)(cid:81)(cid:74)(cid:3)(cid:88)(cid:81)(cid:76)(cid:87)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:86)(cid:72)(cid:87)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
-(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:70)(cid:72)(cid:81)(cid:68)(cid:85)(cid:76)(cid:82)(cid:86)(cid:29)(cid:3)(cid:3)(cid:20)(cid:12)(cid:3)(cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:81)(cid:74)(cid:79)(cid:72)(cid:3)(cid:69)(cid:72)(cid:87)(cid:90)(cid:72)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:83)(cid:72)(cid:70)(cid:87)(cid:76)(cid:89)(cid:72)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:20)(cid:19)(cid:3)(cid:71)(cid:72)(cid:74)(cid:85)(cid:72)(cid:72)(cid:86)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:72)(cid:86)(cid:86)(cid:30)(cid:3)(cid:82)(cid:85)(cid:3)(cid:21)(cid:12)(cid:3)(cid:44)(cid:73)(cid:3)(cid:44)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:92)(cid:3)(cid:86)(cid:87)(cid:68)(cid:81)(cid:71)(cid:68)(cid:85)(cid:71)
-(cid:80)(cid:72)(cid:87)(cid:75)(cid:82)(cid:71)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:84)(cid:88)(cid:76)(cid:83)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:88)(cid:87)(cid:76)(cid:79)(cid:76)(cid:93)(cid:72)(cid:71)(cid:17)(cid:3)(cid:3)(cid:38)(cid:82)(cid:81)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:70)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:73)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:82)(cid:85)(cid:71)(cid:72)(cid:85)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:17)
-(cid:3)
-(cid:44)(cid:73)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:15)(cid:3)(cid:68)(cid:3)(cid:21)(cid:131)(cid:3)(cid:48)(cid:58)(cid:39)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:69)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)
-(cid:69)(cid:82)(cid:85)(cid:72)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:76)(cid:86)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:46)(cid:50)(cid:51)(cid:3)(cid:87)(cid:82)(cid:3)(cid:55)(cid:39)(cid:17)
-(cid:53)(cid:40)(cid:52)(cid:56)(cid:44)(cid:53)(cid:40)(cid:39)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:29)(cid:3)(cid:3)(cid:38)(cid:72)(cid:85)(cid:87)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:82)(cid:85)(cid:10)(cid:86)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:74)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)(cid:87)(cid:82)(cid:83)(cid:86)(cid:15)(cid:3)proposed mud/cementing plan,
+
+
+
+
+
+
+
+
+proposed mud/cementing plan,
 directionalplot/plan,$100fee.
-(cid:54)(cid:72)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:21)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:69)(cid:79)(cid:82)(cid:70)(cid:78)(cid:17)
+
 Page 2
 SFN 54269 (08-2005)
-(cid:38)(cid:50)(cid:48)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:15)(cid:3)(cid:36)(cid:39)(cid:39)(cid:44)(cid:55)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:15)(cid:3)(cid:36)(cid:49)(cid:39)(cid:18)(cid:50)(cid:53)(cid:3)(cid:47)(cid:44)(cid:54)(cid:55)(cid:3)(cid:50)(cid:41)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)
+
 Lateral 2
 KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 3
 KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 4
 KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 5
 KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Date
 I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
 6 / 12 / 2012
@@ -463,9 +463,9 @@ Signature Printed Name Title
 ePermit
 TerryL.Olson RegulatoryComplianceSpecialist
 Email Address(es)
-(cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60) (cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60)
+ 
 Permit and File Number API Number Date Approved
-25160 (cid:22)(cid:22) (cid:16) 053 (cid:16) 04856 3 / 11 / 2013
+25160   053  04856 3 / 11 / 2013
 Field By
 BAKER DavidTabor
 Pool Permit Type Title
@@ -544,3 +544,207 @@ Drilling Operations Coordinator
 302 N. Independence
 P. O. Box 1032 Enid, Oklahoma 73702
 (580) 233-8955
+Continental Resources
+Field: McKenzie County, ND T
+Azimuths to True North Site: Columbus Federal 3 M Magnetic North: 8.65°
+Well: 3-16H
+Wellpath: OH Magnetic Field
+Plan: Plan #3 Strength: 56676nT
+Dip Angle: 73.09°
+Date: 04/18/2012
+Model: IGRF2010
+200' FSL of Sec. 9
+200' Hard Line
+Center Line of Sec. 16
+West(-)/East(+) [2500ft/in]
+Plan: Plan #3 (3-16H/OH)
+LEAM DRILLING SYSTEMS LLC
+Created By: David Vogler Date: 03/05/2013
+2010 East Davis, Conroe, Texas 77301 Checked: ____________________ Date: __________
+Phone: 936-756-7577 Fax: 936-756-7595 Reviewed: ____________________ Date: __________
+Approved: ____________________ Date: __________
+]ni/tf0052[
+)+(htroN/)-(htuoS
+PBHL 3-16H
+1100554433 12500
+Start Hold
+10000
+Start DLS 3.00 TFO 90.00
+7500
+5000
+2500
+Start Hold
+Start DLS 3.00 TFO 90.00
+7" - 1952' FNL & 500' FEL
+Start Hold
+0
+Start Build 13.00
+SHL 3-16H
+-5000 -2500 0 2500
+Section
+Lines
+200' Hard Line
+CASING DETAILS
+No. TVD MD Name Size
+1 10543.00 10951.72 7" 7.00
+Sec. 4
+Sec. 9
+TARGET DETAILS
+Name TVD +N/-S +E/-W Northing Easting Latitude Longitude Shape
+SHL 3-16H 0.00 0.00 0.00 408237.43 1193849.30 48°04'31.639N 103°40'11.004W Point
+PBHL 3-16H10543.00 12716.00 -461.00 420961.63 1193912.02 48°06'37.133N 103°40'17.797W Point
+SECTION DETAILS
+Sec MD Inc Azi TVD +N/-S +E/-W DLeg TFace VSec Target Sec. 9
+1 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+2 10102.26 0.00 0.00 10102.26 0.00 0.00 0.00 0.00 0.00
+3 10794.57 90.00 329.76 10543.00 380.76 -221.97 13.00 329.76 388.53 Sec. 16
+4 10951.72 90.00 329.76 10543.00 516.53 -301.11 0.00 0.00 527.07
+5 11959.72 90.00 360.00 10543.00 1478.38 -561.00 3.00 90.00 1497.68
+6 20636.34 90.00 360.00 10543.00 10155.00 -561.00 0.00 0.00 10168.64
+7 20711.99 90.00 2.27 10543.00 10230.63 -559.50 3.00 90.00 10244.17
+8 23199.31 90.00 2.27 10543.00 12716.00 -461.00 0.00 0.00 12724.35 PBHL 3-16H
+500'
+Hard
+Line
+Vertical Section at 357.93° [2000ft/in]
+]ni/tf0002[
+htpeD
+lacitreV
+eurT
+SITE DETAILS
+Columbus 3
+Sec. 16 - T153N - R101W
+SHL 2469' FNL & 199' FEL
+PBHL 200' FNL & 1980' FEL
+Latitude: 48°04'31.639N
+Longitude: 103°40'11.004W
+Ground Level: 1920.00
+KB: 21.00
+8000
+10000 0° 10102 MD Start Build 13.00
+10102 90° 10795 MD Start Hold 90° 20636 MD Start DLS 3.00 TFO 90.00
+111111000000555555444444333333 90° 10952 MD Start DLS 3.00 TFO 90.00 90° 20712 MD Start Hold90° 23199 MD TD
+90° 11960 MD Start Hold
+PBHL 3-16H
+7"
+527 10244
+389 1498 10169 12724
+-2000 0 2000 4000 6000 8000 10000 12000 14000 16000
+LEAM Drilling Systems LLC
+Planning Report
+Company: Continental Resources Date: 03/05/2013 Time: 16:13:18 Page: 1
+Field: McKenzie County, ND Co-ordinate(NE) Reference: Well: 3-16H, True North
+Site: Columbus Federal 3 Vertical (TVD) Reference: GL 1920+KB 21 1941.0
+Well: 3-16H Section (VS) Reference: Well (0.00N,0.00E,357.93Azi)
+Wellpath: OH Survey Calculation Method: Minimum Curvature Db: Adapti
+Field: McKenzie County, ND
+Map System:U S State Plane Coordinate System 1983 Map Zone: North Dakota, Northern Zone
+Geo Datum: G RS 1980 Coordinate System: Well Centre
+Sys Datum: Mean Sea Level Geomagnetic Model: IGRF2010
+Site: Columbus Federal 3
+Sec. 16 - T153N - R101W
+2469' FNL & 199' FEL
+Site Position: Northing: 408237.43 ft Latitude: 48 4 31.639 N
+From: Geographic Easting: 1193849.30 ft Longitude: 103 40 11.004 W
+Position Uncertainty: 0.00 ft North Reference: True
+Ground Level: 1920.00 ft Grid Convergence: -2.36 deg
+Well: 3-16H Slot Name:
+Well Position: +N/-S 0.00 ft Northing: 408237.43 ft Latitude: 48 4 31.639 N
++E/-W 0.00 ft Easting : 1193849.30 ft Longitude: 103 40 11.004 W
+Position Uncertainty: 0.00 ft
+Wellpath: OH Drilled From: Surface
+Tie-on Depth: 0.00 ft
+Current Datum: GL 1920+KB 21 Height 1941.00 ft Above System Datum: Mean Sea Level
+Magnetic Data: 04/18/2012 Declination: 8.65 deg
+Field Strength: 56676 nT Mag Dip Angle: 73.09 deg
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+ft ft ft deg
+0.00 0.00 0.00 357.93
+Plan: Plan #3 Date Composed: 03/05/2013
+Version: 1
+Principal: Yes Tied-to: User Defined
+Plan Section Information
+MD Incl Azim TVD +N/-S +E/-W DLS Build Turn TFO Target
+ft deg deg ft ft ft deg/100ft deg/100ft deg/100ft deg
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+10102.26 0.00 0.00 10102.26 0.00 0.00 0.00 0.00 0.00 0.00
+10794.57 90.00 329.76 10543.00 380.76 -221.97 13.00 13.00 0.00 329.76
+10951.72 90.00 329.76 10543.00 516.53 -301.11 0.00 0.00 0.00 0.00
+11959.72 90.00 360.00 10543.00 1478.38 -561.00 3.00 0.00 3.00 90.00
+20636.34 90.00 360.00 10543.00 10155.00 -561.00 0.00 0.00 0.00 0.00
+20711.99 90.00 2.27 10543.00 10230.63 -559.50 3.00 0.00 3.00 90.00
+23199.31 90.00 2.27 10543.00 12716.00 -461.00 0.00 0.00 0.00 0.00 PBHL 3-16H
+Survey
+MD Incl Azim TVD N/S E/W VS DLS Build Turn Tool/Comment
+ft deg deg ft ft ft ft deg/100ft deg/100ft deg/100ft
+10102.26 0.00 0.00 10102.26 0.00 0.00 0.00 0.00 0.00 0.00
+10125.00 2.96 329.76 10124.99 0.51 -0.30 0.52 13.00 13.00 0.00
+10150.00 6.21 329.76 10149.91 2.23 -1.30 2.28 13.00 13.00 0.00
+10175.00 9.46 329.76 10174.67 5.17 -3.02 5.28 13.00 13.00 0.00
+10200.00 12.71 329.76 10199.20 9.32 -5.44 9.51 13.00 13.00 0.00
+10225.00 15.96 329.76 10223.42 14.67 -8.55 14.97 13.00 13.00 0.00
+10250.00 19.21 329.76 10247.25 21.19 -12.35 21.63 13.00 13.00 0.00
+10275.00 22.46 329.76 10270.61 28.87 -16.83 29.46 13.00 13.00 0.00
+10300.00 25.71 329.76 10293.43 37.68 -21.97 38.45 13.00 13.00 0.00
+10325.00 28.96 329.76 10315.64 47.60 -27.75 48.57 13.00 13.00 0.00
+10350.00 32.21 329.76 10337.16 58.59 -34.15 59.78 13.00 13.00 0.00
+10375.00 35.46 329.76 10357.92 70.61 -41.16 72.05 13.00 13.00 0.00
+10400.00 38.71 329.76 10377.86 83.63 -48.75 85.34 13.00 13.00 0.00
+10425.00 41.96 329.76 10396.92 97.61 -56.90 99.60 13.00 13.00 0.00
+LEAM Drilling Systems LLC
+Planning Report
+Company: Continental Resources Date: 03/05/2013 Time: 16:13:18 Page: 4
+Field: McKenzie County, ND Co-ordinate(NE) Reference: Well: 3-16H, True North
+Site: Columbus Federal 3 Vertical (TVD) Reference: GL 1920+KB 21 1941.0
+Well: 3-16H Section (VS) Reference: Well (0.00N,0.00E,357.93Azi)
+Wellpath: OH Survey Calculation Method: Minimum Curvature Db: Adapti
+Survey
+MD Incl Azim TVD N/S E/W VS DLS Build Turn Tool/Comment
+ft deg deg ft ft ft ft deg/100ft deg/100ft deg/100ft
+19400.00 90.00 360.00 10543.00 8918.66 -561.00 8933.10 0.00 0.00 0.00
+19500.00 90.00 360.00 10543.00 9018.66 -561.00 9033.04 0.00 0.00 0.00
+19600.00 90.00 360.00 10543.00 9118.66 -561.00 9132.97 0.00 0.00 0.00
+19700.00 90.00 360.00 10543.00 9218.66 -561.00 9232.91 0.00 0.00 0.00
+19800.00 90.00 360.00 10543.00 9318.66 -561.00 9332.84 0.00 0.00 0.00
+19900.00 90.00 360.00 10543.00 9418.66 -561.00 9432.78 0.00 0.00 0.00
+20000.00 90.00 360.00 10543.00 9518.66 -561.00 9532.71 0.00 0.00 0.00
+20100.00 90.00 360.00 10543.00 9618.66 -561.00 9632.65 0.00 0.00 0.00
+20200.00 90.00 360.00 10543.00 9718.66 -561.00 9732.58 0.00 0.00 0.00
+20300.00 90.00 360.00 10543.00 9818.66 -561.00 9832.52 0.00 0.00 0.00
+20400.00 90.00 360.00 10543.00 9918.66 -561.00 9932.45 0.00 0.00 0.00
+20500.00 90.00 360.00 10543.00 10018.66 -561.00 10032.39 0.00 0.00 0.00
+20600.00 90.00 360.00 10543.00 10118.66 -561.00 10132.32 0.00 0.00 0.00
+20636.34 90.00 360.00 10543.00 10155.00 -561.00 10168.64 0.00 0.00 0.00
+20700.00 90.00 1.91 10543.00 10218.65 -559.94 10232.21 3.00 0.00 3.00
+20711.99 90.00 2.27 10543.00 10230.63 -559.50 10244.17 3.00 0.00 3.00
+20800.00 90.00 2.27 10543.00 10318.57 -556.02 10331.92 0.00 0.00 0.00
+20900.00 90.00 2.27 10543.00 10418.49 -552.06 10431.63 0.00 0.00 0.00
+21000.00 90.00 2.27 10543.00 10518.41 -548.10 10531.35 0.00 0.00 0.00
+21100.00 90.00 2.27 10543.00 10618.34 -544.14 10631.06 0.00 0.00 0.00
+21200.00 90.00 2.27 10543.00 10718.26 -540.18 10730.77 0.00 0.00 0.00
+21300.00 90.00 2.27 10543.00 10818.18 -536.22 10830.49 0.00 0.00 0.00
+21400.00 90.00 2.27 10543.00 10918.10 -532.26 10930.20 0.00 0.00 0.00
+21500.00 90.00 2.27 10543.00 11018.02 -528.30 11029.91 0.00 0.00 0.00
+21600.00 90.00 2.27 10543.00 11117.94 -524.34 11129.63 0.00 0.00 0.00
+21700.00 90.00 2.27 10543.00 11217.87 -520.38 11229.34 0.00 0.00 0.00
+21800.00 90.00 2.27 10543.00 11317.79 -516.41 11329.05 0.00 0.00 0.00
+21900.00 90.00 2.27 10543.00 11417.71 -512.45 11428.77 0.00 0.00 0.00
+22000.00 90.00 2.27 10543.00 11517.63 -508.49 11528.48 0.00 0.00 0.00
+22100.00 90.00 2.27 10543.00 11617.55 -504.53 11628.19 0.00 0.00 0.00
+22200.00 90.00 2.27 10543.00 11717.47 -500.57 11727.91 0.00 0.00 0.00
+22300.00 90.00 2.27 10543.00 11817.39 -496.61 11827.62 0.00 0.00 0.00
+22400.00 90.00 2.27 10543.00 11917.32 -492.65 11927.33 0.00 0.00 0.00
+22500.00 90.00 2.27 10543.00 12017.24 -488.69 12027.05 0.00 0.00 0.00
+22600.00 90.00 2.27 10543.00 12117.16 -484.73 12126.76 0.00 0.00 0.00
+22700.00 90.00 2.27 10543.00 12217.08 -480.77 12226.47 0.00 0.00 0.00
+22800.00 90.00 2.27 10543.00 12317.00 -476.81 12326.19 0.00 0.00 0.00
+22900.00 90.00 2.27 10543.00 12416.92 -472.85 12425.90 0.00 0.00 0.00
+23000.00 90.00 2.27 10543.00 12516.85 -468.89 12525.61 0.00 0.00 0.00
+23100.00 90.00 2.27 10543.00 12616.77 -464.93 12625.33 0.00 0.00 0.00
+23199.31 90.00 2.27 10543.00 12716.00 -461.00 12724.35 0.00 0.00 0.00 PBHL 3-16H
+Targets
+Map Map <---- Latitude ----> <--- Longitude --->
+Name Description TVD +N/-S +E/-W Northing Easting Deg Min Sec Deg Min Sec
+Dip. Dir. ft ft ft ft ft
+SHL 3-16H 0.00 0.00 0.00 408237.431193849.30 48 4 31.639N 103 40 11.004W
+PBHL 3-16H 10543.00 12716.00 -461.00 420961.631193912.02 48 6 37.133N 103 40 17.797W

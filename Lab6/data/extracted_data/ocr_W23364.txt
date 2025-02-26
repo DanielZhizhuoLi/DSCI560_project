@@ -639,29 +639,29 @@ Atlanta 14 Well Eco Pad
 OPERATOR: Continental Resources, Inc.
 P.O. Box 269000
 Oklahoma City, Ok 73126
-SURFACE LOCATION: 495(cid:8217) FNL & 1260(cid:8217) FWL
+SURFACE LOCATION: 495 FNL & 1260 FWL
 NENW Section 6: T153N, R101W
-CASING: 7(cid:8221) intermediate casing set at 10874(cid:8217) MD, 10526(cid:8217) TVD
-822(cid:8217) FNL & 1717(cid:8217) FWL
+CASING: 7 intermediate casing set at 10874 MD, 10526 TVD
+822 FNL & 1717 FWL
 NENW Section 6: T153N, R101W
-BOTTOM HOLE LOCATION: Projection to Bit: 21315(cid:8217) MD; 10531(cid:8217) TVD
-1667(cid:8217) FNL & 227(cid:8217) FEL
+BOTTOM HOLE LOCATION: Projection to Bit: 21315 MD; 10531 TVD
+1667 FNL & 227 FEL
 SENE Section 8, T153N, R101W
 FIELD/AREA: Williston
 COUNTY: Williams & McKenzie
 STATE: North Dakota
 API#: 33-105-02724
-ELEVATION: GL: 1945(cid:8217) KB: 1967(cid:8217)
+ELEVATION: GL: 1945 KB: 1967
 SPUD: August 20th, 2013
 DRILLED OUT OF CASING (Lateral): August 27th, 2013
-TOTAL DEPTH/DATE: 21315(cid:8217) MD on September 1st, 2013
+TOTAL DEPTH/DATE: 21315 MD on September 1st, 2013
 Total Days: 12
 BOTTOM HOLE DATA:
-Kick-off Point: 10050(cid:8217) MD; 10049(cid:8217) TVD
-Vertical Section: 11000.47(cid:8217)
+Kick-off Point: 10050 MD; 10049 TVD
+Vertical Section: 11000.47
 Drift of Azimuth 125.02°
 Average Inclination (lateral): 89.91°
-Lateral footage: 10441(cid:8217)
+Lateral footage: 10441
 WELL STATUS: To be completed as a Middle Bakken oil well
 MWD REP: MS Energy (Tim Coleman, Kevin Krenz and Brent Boyd)
 DIRECTIONAL REP: MS Energy (Kurt Wortley and Justin Klauzer)
@@ -670,12 +670,12 @@ Well Information
 MUD LOGGING SERVICE: Geo-Link Inc.
 GEOLOGICAL CONSULTANT: Jed D Nelson & Adam Swoboda
 SECOND HAND: RC Whitmore & Joe Dunn
-GAS EQUIPMENT: M-Logger / M-Control (cid:8211) SN ML-137
+GAS EQUIPMENT: M-Logger / M-Control  SN ML-137
 Spare: ML-077
-SAMPLE PROGRAM: 30(cid:8217) Samples lagged and caught by mud loggers 8800(cid:8217)-10870(cid:8217)
+SAMPLE PROGRAM: 30 Samples lagged and caught by mud loggers 8800-10870
 Logging: Charles Salt, Mission Canyon, Lodgepole, Upper
 Bakken Shale, Middle Bakken Member
-100(cid:8217) Samples lagged and caught by mud loggers 10900(cid:8217)-21315(cid:8217)
+100 Samples lagged and caught by mud loggers 10900-21315
 Logging: Middle Bakken Member
 One set sent to NDGS Core Library (Grand Forks)
 Continental Resources, Inc.
@@ -1240,7 +1240,7 @@ Sincerely .
 Richard A. Suggs
 Geologist
 600 E Boulevard Ave - Dept 405, Bismarck, North Dakota 58505-0840 Phone (701)328-8020 Fax (701)328-8022
-(cid:36)(cid:51)(cid:51)(cid:47)(cid:44)(cid:38)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:41)(cid:50)(cid:53)(cid:3)(cid:51)(cid:40)(cid:53)(cid:48)(cid:44)(cid:55)(cid:3)(cid:55)(cid:50)(cid:3)(cid:39)(cid:53)(cid:44)(cid:47)(cid:47)(cid:3)(cid:43)(cid:50)(cid:53)(cid:44)(cid:61)(cid:50)(cid:49)(cid:55)(cid:36)(cid:47)(cid:3)(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:16)(cid:3)(cid:41)(cid:50)(cid:53)(cid:48)(cid:3)(cid:20)(cid:43)
+
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
 OIL AND GAS DIVISION
 600 EAST BOULEVARD DEPT 405
@@ -1257,33 +1257,33 @@ P.O.Box1032 Enid OK 73702
 Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
 ✔ ✔
 permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
-(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:11)(cid:44)(cid:73)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:82)(cid:81)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:82)(cid:86)(cid:72)(cid:71)(cid:15)(cid:3)enter data for additional laterals on page 2)
+enter data for additional laterals on page 2)
 Well Name Well Number
 ATLANTAFEDERAL 9-6H
 Surface Footages Qtr-Qtr Section Township Range County
-495 F N L 1260 F W L NENW 6 153 (cid:49) 101 (cid:58) Williams
+495 F N L 1260 F W L NENW 6 153  101  Williams
 Longstring Casing Point Footages Qtr-Qtr Section Township Range County
-823 F N L 1728 F W L NENW 6 153 (cid:49) 101 (cid:58) Williams
+823 F N L 1728 F W L NENW 6 153  101  Williams
 Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
-328 S From WH 468 E From WH 125 (cid:158) 10856 Feet MD 10530 Feet TVD
+328 S From WH 468 E From WH 125  10856 Feet MD 10530 Feet TVD
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-1688 F N L 200 F E L SENE 8 153 (cid:49) 101 (cid:58) McKenzie
+1688 F N L 200 F E L SENE 8 153  101  McKenzie
 Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
-6335 S From WH 9039 E From WH 9957 Feet MD 125 (cid:158) 21322 Feet MD 10547 Feet TVD
+6335 S From WH 9039 E From WH 9957 Feet MD 125  21322 Feet MD 10547 Feet TVD
 Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
-48 (cid:131) 06 (cid:10) 33.65(cid:5) -103 (cid:131) 43 (cid:10) 42.37 (cid:5) NAD83 SpacingUnit: Sec5,6,7,&8T153NR101W
+48  06  33.65 -103  43  42.37  NAD83 SpacingUnit: Sec5,6,7,&8T153NR101W
 Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
 1943 Feet Above S.L. 2560 FeetN/S FeetFEe/eWt 19840
 North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
 10516 Feet 10510 Feet 10422 Feet 10367 Feet
 Objective Horizons Pierre Shale Top
 MiddleBakken 1867
-Proposed Size Weight Depth Cement Volume (cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:54)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:75)(cid:82)(cid:79)(cid:72)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:72)(cid:71)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:73)(cid:85)(cid:72)(cid:86)(cid:75)(cid:3)(cid:90)(cid:68)(cid:87)(cid:72)(cid:85)
-Surface Casing 9 (cid:16) 5/8 (cid:5) 36 Lb./Ft. 1970 Feet 743 Sacks (cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:87)(cid:82)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:17)
+Proposed Size Weight Depth Cement Volume 
+Surface Casing 9  5/8  36 Lb./Ft. 1970 Feet 743 Sacks 
 Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
-Longstring Casing 7 (cid:16) (cid:5) 26-32 Lb./Ft. 10856Feet MD 10530 Feet TVD 833 Sacks 0 Feet 4925 Feet
+Longstring Casing 7   26-32 Lb./Ft. 10856Feet MD 10530 Feet TVD 833 Sacks 0 Feet 4925 Feet
 BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:69)(cid:82)(cid:89)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:39)(cid:68)(cid:78)(cid:82)(cid:87)(cid:68)(cid:3)(cid:42)(cid:85)(cid:82)(cid:88)(cid:83)(cid:3)(cid:54)(cid:68)(cid:81)(cid:71)(cid:17)
+
 9011 Feet
 Proposed Logs
 CBL/GRfromdeepestdepthobtainabletogroundsurface/mud
@@ -1291,57 +1291,57 @@ Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Late
 Invert Brine
 Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
 MWD Every 100 Feet 30 Feet 90 Feet BakerHughes
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:36)(cid:3)(cid:42)(cid:68)(cid:80)(cid:80)(cid:68)(cid:3)(cid:53)(cid:68)(cid:92)(cid:3)(cid:79)(cid:82)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:87)(cid:82)(cid:3)(cid:74)(cid:85)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:68)(cid:3)(cid:38)(cid:37)(cid:47)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:82)(cid:81)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:76)(cid:73)(cid:3)(cid:86)(cid:72)(cid:87)(cid:17)
-(cid:54)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:79)(cid:72)(cid:68)(cid:86)(cid:87)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:22)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:69)(cid:88)(cid:76)(cid:79)(cid:71)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:28)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:17)(cid:3)(cid:3)(cid:48)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)
-(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:3)(cid:90)(cid:75)(cid:72)(cid:81)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:76)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:76)(cid:81)(cid:74)(cid:18)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:76)(cid:81)(cid:74)(cid:3)(cid:88)(cid:81)(cid:76)(cid:87)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:86)(cid:72)(cid:87)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
-(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:70)(cid:72)(cid:81)(cid:68)(cid:85)(cid:76)(cid:82)(cid:86)(cid:29)(cid:3)(cid:3)(cid:20)(cid:12)(cid:3)(cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:81)(cid:74)(cid:79)(cid:72)(cid:3)(cid:69)(cid:72)(cid:87)(cid:90)(cid:72)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:83)(cid:72)(cid:70)(cid:87)(cid:76)(cid:89)(cid:72)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:20)(cid:19)(cid:3)(cid:71)(cid:72)(cid:74)(cid:85)(cid:72)(cid:72)(cid:86)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:72)(cid:86)(cid:86)(cid:30)(cid:3)(cid:82)(cid:85)(cid:3)(cid:21)(cid:12)(cid:3)(cid:44)(cid:73)(cid:3)(cid:44)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:92)(cid:3)(cid:86)(cid:87)(cid:68)(cid:81)(cid:71)(cid:68)(cid:85)(cid:71)
-(cid:80)(cid:72)(cid:87)(cid:75)(cid:82)(cid:71)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:84)(cid:88)(cid:76)(cid:83)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:88)(cid:87)(cid:76)(cid:79)(cid:76)(cid:93)(cid:72)(cid:71)(cid:17)(cid:3)(cid:3)(cid:38)(cid:82)(cid:81)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:70)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:73)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:82)(cid:85)(cid:71)(cid:72)(cid:85)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:17)
-(cid:3)
-(cid:44)(cid:73)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:15)(cid:3)(cid:68)(cid:3)(cid:21)(cid:131)(cid:3)(cid:48)(cid:58)(cid:39)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:69)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)
-(cid:69)(cid:82)(cid:85)(cid:72)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:76)(cid:86)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:46)(cid:50)(cid:51)(cid:3)(cid:87)(cid:82)(cid:3)(cid:55)(cid:39)(cid:17)
-(cid:53)(cid:40)(cid:52)(cid:56)(cid:44)(cid:53)(cid:40)(cid:39)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:29)(cid:3)(cid:3)(cid:38)(cid:72)(cid:85)(cid:87)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:82)(cid:85)(cid:10)(cid:86)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:74)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)(cid:87)(cid:82)(cid:83)(cid:86)(cid:15)(cid:3)proposed mud/cementing plan,
+
+
+
+
+
+
+
+
+proposed mud/cementing plan,
 directionalplot/plan,$100fee.
-(cid:54)(cid:72)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:21)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:69)(cid:79)(cid:82)(cid:70)(cid:78)(cid:17)
+
 Page 2
 SFN 54269 (08-2005)
-(cid:38)(cid:50)(cid:48)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:15)(cid:3)(cid:36)(cid:39)(cid:39)(cid:44)(cid:55)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:15)(cid:3)(cid:36)(cid:49)(cid:39)(cid:18)(cid:50)(cid:53)(cid:3)(cid:47)(cid:44)(cid:54)(cid:55)(cid:3)(cid:50)(cid:41)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)
+
 Proposed FW casing: 13 3/8, 48#, 0-500', 189 sks cmt. Setbacks: 500' N&W 200' E&S
 Lateral 2
 KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 3
 KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 4
 KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 5
 KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Date
 I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
 5 / 7 / 2012
@@ -1349,9 +1349,9 @@ Signature Printed Name Title
 ePermit
 TerryL.Olson RegulatoryComplianceSpecialist
 Email Address(es)
-(cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60) (cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60)
+ 
 Permit and File Number API Number Date Approved
-23364 (cid:22)(cid:22) (cid:16) 105 (cid:16) 02724 7 / 20 / 2012
+23364   105  02724 7 / 20 / 2012
 Field By
 BAKER ToddL.Holweger
 Pool Permit Type Title
@@ -1429,6 +1429,131 @@ Drilling Operations Coordinator
 302 N. Independence
 P. O. Box 1032 Enid, Oklahoma 73702
 (580) 233-8955
+EndofTangent:0.00°Inc,9957.04ftMD,9957.04ftTVD,0.00ftVS
+10.00°/100ft
+7inCasingIntermediate:89.91°Inc,10856.11ftMD,10530.00ftTVD,572.03ftVS
+EndofBuild:89.91°Inc,10856.11ftMD,10530.00ftTVD,572.03ftVS EndofTangent:89.91°Inc,21322.17ftMD,10547.00ftTVD,11038.08ftVS
+ATLANTAFEDERAL9-6HBHLREV-5(1736'FNL&200'FEL,SEC.08)
+)tf(htpeDlacitreVeurT
+VerticalSection(ft) Scale1inch=1500ft
+Azimuth125.02°withreference0.00N,0.00E
+tf0051=hcni1elacS
+CONTINENTAL RESOURCES
+Location: NORTHDAKOTA Slot: SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06)
+Field: WILLIAMSCOUNTY Well: ATLANTAFEDERAL9-6H
+Facility: SEC.06-T153N-R101W Wellbore: ATLANTAFEDERAL9-6HPWB
+PlotreferencewellpathisATLANTAFEDERAL9-6H(REV-E.0)PWP
+TrueverticaldepthsarereferencedtoCYCLONE2(RKB) GridSystem:NAD83/LambertNorthDakotaSP,NorthernZone(3301),USfeet
+MeasureddepthsarereferencedtoCYCLONE2(RKB) NorthReference:Truenorth
+CYCLONE2(RKB)toMeanSeaLevel:1967feet Scale:Truedistance
+MeanSeaLeveltoMudline(AtSlot:SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06)):0feet Depthsareinfeet
+CoordinatesareinfeetreferencedtoSlot Createdby:painsetron5/25/2012
+LocationInformation
+FacilityName GridEast(USft) GridNorth(USft) Latitude Longitude
+SEC.06-T153N-R101W 1179034.199 421199.095 48°06'33.379"N 103°43'56.960"W
+Slot LocalN(ft) LocalE(ft) GridEast(USft) GridNorth(USft) Latitude Longitude
+SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06) 27.69 989.95 1180024.378 421185.213 48°06'33.652"N 103°43'42.373"W
+CYCLONE2(RKB)toMudline(AtSlot:SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06)) 1967ft
+MeanSeaLeveltoMudline(AtSlot:SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06)) 0ft
+CYCLONE2(RKB)toMeanSeaLevel 1967ft
+Targets
+Name MD(ft) TVD(ft) LocalN(ft) LocalE(ft) GridEast(USft) GridNorth(USft) Latitude Longitude
+ATLANTAFEDERAL9-6HSECTION06 0.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W
+ATLANTAFEDERAL9-6HSECTION08 0.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W
+ATLANTAFEDERAL9-6HSECTIONLINES 0.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W
+ATLANTA9-6HBHLONPLATREV-1(1736'FNL&500'FEL,SEC.08) 10531.00 -6471.04 8700.00 1188444.93 414355.63 48°05'29.774"N 103°41'34.222"W
+ATLANTA9-6HBHLREV-2(1736'FNL&200'FEL,SEC.08) 10531.00 -6521.04 9100.00 1188842.45 414288.92 48°05'29.279"N 103°41'28.331"W
+ATLANTAFEDERAL9-6HBHLREV-3(1736'FNL&200'FEL,SEC.08) 10547.00 -6334.70 9050.60 1188800.91 414477.15 48°05'31.118"N 103°41'29.057"W
+ATLANTAFEDERAL9-6HBHLREV-4(1736'FNL&200'FEL,SEC.08) 10547.00 -6334.70 9043.00 1188793.32 414477.47 48°05'31.118"N 103°41'29.169"W
+ATLANTAFEDERAL9-6HBHLREV-5(1736'FNL&200'FEL,SEC.08) 21322.17 10547.00 -6334.70 9039.40 1188789.72 414477.62 48°05'31.118"N 103°41'29.222"W
+ATLANTAFEDERAL9-6HHARDLINES(500'N/S&200'E/W) 10547.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W
+WellProfileData
+DesignComment MD(ft) Inc(°) Az(°) TVD(ft) LocalN(ft) LocalE(ft) DLS(°/100ft) VS(ft)
+TieOn 22.00 0.000 125.022 22.00 0.00 0.00 0.00 0.00
+EndofTangent 9957.04 0.000 125.022 9957.04 0.00 0.00 0.00 0.00
+EndofBuild 10856.11 89.907 125.022 10530.00 -328.28 468.45 10.00 572.03
+EndofTangent 21322.17 89.907 125.022 10547.00 -6334.70 9039.40 0.00 11038.08
+SENILNOITCESH6-9LAREDEFATNALTA
+)W/E'002&S/N'005(SENILDRAHH6-9LAREDEFATNALTA
+SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06)
+7inCasingIntermediate:10530.00ftTVD,328.28ftS,468.45ftE
+SECTION06
+SECTION08
+ATLANTAFEDERAL9-6HBHLREV-5
+(1736'FNL&200'FEL,SEC.08)
+Northing(ft)
+Easting(ft)
+Scale1inch=2500ft
+BGGM(1945.0to2013.0)Dip:73.08°Field:56635.5nT
+MagneticNorthis8.76degreesEastofTrueNorth(at2/10/2012)
+TocorrectazimuthfromMagnetictoTrueadd8.76degrees
+Forexample:iftheMagneticNorthAzimuth=90degs,thentheTrueNorthAzimuth=90+8.76=98.76
+Planned Wellpath Report
+ATLANTA FEDERAL9-6H(REV-E.0) PWP
+Page1of11
+REFERENCEWELLPATHIDENTIFICATION
+Operator CONTINENTALRESOURCES Slot SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06)
+Area NORTHDAKOTA Well ATLANTAFEDERAL9-6H
+Field WILLIAMSCOUNTY Wellbore ATLANTAFEDERAL9-6HPWB
+Facility SEC.06-T153N-R101W
+REPORTSETUPINFORMATION
+ProjectionSystem NAD83/LambertNorthDakotaSP, SoftwareSystem WellArchitect® 3.0.2
+NorthernZone(3301),USfeet
+NorthReference True User Painsetr
+Scale 0.999936 ReportGenerated 5/25/2012at10:00:08AM
+Convergenceatslot2.40°West Database/Sourcefile WA_Denver/ATLANTA_FEDERAL_9-6H_PWB.xml
+WELLPATHLOCATION
+Localcoordinates Gridcoordinates Geographiccoordinates
+North[ft] East[ft] Easting[USft] Northing[USft] Latitude Longitude
+SlotLocation 27.69 989.95 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W
+FacilityReferencePt 1179034.20 421199.10 48°06'33.379"N 103°43'56.960"W
+FieldReferencePt 1379474.78 594749.03 48°36'17.680"N 102°56'05.560"W
+WELLPATHDATUM
+Calculationmethod Minimumcurvature CYCLONE2(RKB)toFacilityVerticalDatum
+HorizontalReferencePt Slot CYCLONE2(RKB)toMeanSeaLevel
+VerticalReferencePt CYCLONE2(RKB)CYCLONE2(RKB)toMudLineatSlot(SLOT#09ATLANTAFEDERAL9-6H(495'FNL&
+MDReferencePt CYCLONE2(RKB)SectionOrigin
+FieldVerticalReference MeanSeaLevel SectionAzimuth
+5/25/2012
+Planned Wellpath Report
+ATLANTA FEDERAL9-6H(REV-E.0) PWP
+Page10of11
+REFERENCEWELLPATHIDENTIFICATION
+Operator CONTINENTALRESOURCES Slot SLOT#09ATLANTAFEDERAL9-6H(495'FNL&1260'FWL,SEC.06)
+Area NORTHDAKOTA Well ATLANTAFEDERAL9-6H
+Field WILLIAMSCOUNTY Wellbore ATLANTAFEDERAL9-6HPWB
+Facility SEC.06-T153N-R101W
+TARGETS
+Name MD TVD North East GridEast GridNorth Latitude Longitude Shape
+[ft] [ft] [ft] [ft] [USft] [USft]
+ATLANTAFEDERAL9-6H 0.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W polygon
+SECTION06
+ATLANTAFEDERAL9-6H 0.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W polygon
+SECTION08
+ATLANTAFEDERAL9-6H 0.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W polygon
+SECTIONLINES
+ATLANTA9-6HBHLON 10531.00 -6471.04 8700.00 1188444.93 414355.63 48°05'29.774"N 103°41'34.222"W point
+PLATREV-1(1736'FNL&
+500'FEL,SEC.08)
+1)ATLANTA9-6HBHLREV-2 10531.00 -6521.04 9100.00 1188842.45 414288.92 48°05'29.279"N 103°41'28.331"W point
+(1736'FNL&200'FEL,SEC.08)
+ATLANTAFEDERAL9-6H 10547.00 -6334.70 9050.60 1188800.91 414477.15 48°05'31.118"N 103°41'29.057"W point
+BHLREV-3(1736'FNL&
+200'FEL,SEC.08)
+ATLANTAFEDERAL9-6H 10547.00 -6334.70 9043.00 1188793.32 414477.47 48°05'31.118"N 103°41'29.169"W point
+BHLREV-4(1736'FNL&
+200'FEL,SEC.08)
+2)ATLANTAFEDERAL9-6H 21322.17 10547.00 -6334.70 9039.40 1188789.72 414477.62 48°05'31.118"N 103°41'29.222"W point
+BHLREV-5(1736'FNL&
+200'FEL,SEC.08)
+ATLANTAFEDERAL9-6H 10547.00 0.00 0.00 1180024.38 421185.21 48°06'33.652"N 103°43'42.373"W polygon
+HARDLINES(500'N/S&
+200'E/W)
+SURVEYPROGRAM- RefWellbore:ATLANTAFEDERAL9-6HPWB RefWellpath:ATLANTAFEDERAL9-6H(REV-E.0)PWP
+StartMD EndMD PositionalUncertaintyModel LogName/Comment Wellbore
+[ft] [ft]
+22.00 23000.00NaviTrak(Standard) ATLANTAFEDERAL9-6HPWB
+5/25/2012
 12. When available 24-hour radio or telephone communication will be provided at the rig.
 Emergency telephone numbers will be prominently posted: SHERIFF'S DEPARTMENT,
 AMBULANCE, HOSPITALS, DOCTORS, AND OPERATORS' SUPERVISORY PERSONNEL.

@@ -1089,7 +1089,7 @@ AEP—
 Richard A. Suggs
 Geologist
 600 E Boulevard Ave - Dept 405, Bismarck, North Dakota 58505-0840 Phone (701)328-8020 Fax (701)328-8022
-(cid:9)99=(cid:6)(cid:11)(cid:9)(cid:10)(cid:6)8(cid:14)(cid:8)?8(cid:2)(cid:8)9(cid:3)(cid:2)(cid:13)(cid:6)(cid:10)(cid:8)(cid:10)8(cid:8)(cid:7)(cid:2)(cid:6)==(cid:8)(cid:12)8(cid:2)(cid:6)A8(cid:14)(cid:10)(cid:9)=(cid:8)3(cid:3)==(cid:8)B(cid:8)?8(cid:2)(cid:13)(cid:8)1(cid:12)
+99=8?898==8A8=3==B?81
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
 OIL AND GAS DIVISION
 600 EAST BOULEVARD DEPT 405
@@ -1106,33 +1106,33 @@ Address City State Zip Code
 Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
 ✔ ✔
 permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
-3(cid:3)==(cid:8)(cid:6)(cid:14)?8(cid:2)(cid:13)(cid:9)(cid:10)(cid:6)8(cid:14)(cid:8)@(cid:6)(cid:21)(cid:8)%(cid:27)(cid:18)(cid:17)(cid:8)(cid:19)!(cid:31)#(cid:8)(cid:27)#(cid:17)(cid:8)(cid:30)(cid:31)(cid:19)(cid:17)(cid:18)(cid:31)(cid:30)(cid:8)(cid:29)(cid:18)(cid:27)(cid:29)(cid:27)(cid:23)(cid:17)(cid:22) (cid:8)enter data for additional laterals on page 2)
+3==?88@%!## enter data for additional laterals on page 2)
 Well Name Well Number
 BRAY 530143-12H
 Surface Footages Qtr-Qtr Section Township Range County
-250 F S L 1927 F E L SWSE 12 153 (cid:14) 101 3 McKenzie
+250 F S L 1927 F E L SWSE 12 153  101 3 McKenzie
 Longstring Casing Point Footages Qtr-Qtr Section Township Range County
-242 F N L 1927 F E L NWNE 13 153 (cid:14) 101 3 McKenzie
+242 F N L 1927 F E L NWNE 13 153  101 3 McKenzie
 Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
 492 S From WH 0 E From WH 180.0 > 11021 Feet MD 10734 Feet TVD
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-201 F S L 1927 F E L SWSE 24 153 (cid:14) 101 3 McKenzie
+201 F S L 1927 F E L SWSE 24 153  101 3 McKenzie
 Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
 10578 S From WH 0 E From WH 10256 Feet MD 180.0 > 21107 Feet MD 10709 Feet TVD
 Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
-48 6 04 (cid:28) 57.96: -103 6 36 (cid:28) 43.25 : WGS84 DrillingUnit: Section13&24T153NR101W
+48 6 04  57.96: -103 6 36  43.25 : WGS84 DrillingUnit: Section13&24T153NR101W
 Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
 2078 Feet Above S.L. 1280 200 FeetN/S 1220 FeetFEe/eWt 14007
 North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
 5279 Feet 5267 Feet 10520 Feet 10553 Feet
 Objective Horizons Pierre Shale Top
 Bakken 1941
-Proposed Size Weight Depth Cement Volume (cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:15)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)!(cid:27)(cid:30)(cid:17)(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:22)(cid:18)(cid:20)(cid:30)(cid:30)(cid:17)(cid:22)(cid:8),(cid:20)(cid:19)!(cid:8)(cid:21)(cid:18)(cid:17)(cid:23)!(cid:8),(cid:31)(cid:19)(cid:17)(cid:18)
-Surface Casing 9 B 5/8 : 36 Lb./Ft. 2045 Feet 611 Sacks (cid:31)#(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)$(cid:17)%(cid:17)#(cid:19)(cid:17)(cid:22)(cid:8)*(cid:31)$/(cid:8)(cid:19)(cid:27)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)-
+Proposed Size Weight Depth Cement Volume 8$!%*,!!,
+Surface Casing 9 B 5/8 : 36 Lb./Ft. 2045 Feet 611 Sacks #$$#&%*$%#*$/$-
 Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
 Longstring Casing 7 B : 29/32 Lb./Ft. 11021Feet MD 10734 Feet TVD 771 Sacks 4933 Feet 5433 Feet
 BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
-(cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:6)#(cid:19)(cid:17)(cid:18)%(cid:17)(cid:22)(cid:20)(cid:31)(cid:19)(cid:17)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:27)#&(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)$(cid:17)%(cid:17)#(cid:19)(cid:17)(cid:22)(cid:8)(cid:31)*(cid:27)(cid:25)(cid:17)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:19)(cid:27)(cid:29)(cid:8)(cid:7)(cid:31)/(cid:27)(cid:19)(cid:31)(cid:8);(cid:18)(cid:27)(cid:24)(cid:29)(cid:8)(cid:15)(cid:31)#(cid:22)-
+8#%#&#&$#&#&%*$%#*!/;#-
 9199 Feet
 Proposed Logs
 TripleCombo:KOP-KibbyGR/RES-BSCGR-SurfCBL/GR-TOC/GR-BSCMWDGR-KOP-TD
@@ -1140,20 +1140,20 @@ Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Late
 Invert SaltWaterGel
 Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
 MWD Every 100 Feet 30 Feet 90 Feet Ryan
-(cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:9)(cid:8);(cid:31)%%(cid:31)(cid:8)(cid:2)(cid:31)(cid:26)(cid:8)(cid:30)(cid:27)&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:18)(cid:24)#(cid:8)(cid:19)(cid:27)(cid:8)&(cid:18)(cid:27)(cid:24)#(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:31)(cid:8)(cid:11)<=(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:18)(cid:24)#(cid:8)(cid:27)#(cid:8)(cid:20)#(cid:19)(cid:17)(cid:18)%(cid:17)(cid:22)(cid:20)(cid:31)(cid:19)(cid:17)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:27)#&(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)(cid:20)(cid:21)(cid:8)(cid:23)(cid:17)(cid:19)-
-(cid:15)(cid:24)(cid:18)(cid:25)(cid:17)(cid:26)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)(cid:18)(cid:17)'(cid:24)(cid:20)(cid:18)(cid:17)(cid:22)(cid:8)(cid:31)(cid:19)(cid:8)(cid:30)(cid:17)(cid:31)(cid:23)(cid:19)(cid:8)(cid:17)(cid:25)(cid:17)(cid:18)(cid:26)(cid:8)()(cid:8)(cid:21)(cid:17)(cid:17)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)*(cid:24)(cid:20)(cid:30)(cid:22)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:31)#(cid:22)(cid:8)(cid:17)(cid:25)(cid:17)(cid:18)(cid:26)(cid:8)+)(cid:8)(cid:21)(cid:17)(cid:17)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)(cid:30)(cid:31)(cid:19)(cid:17)(cid:18)(cid:31)(cid:30)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:27)(cid:21)(cid:8)(cid:31)(cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8),(cid:17)(cid:30)(cid:30)-(cid:8)(cid:8)(cid:13)(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)
-(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:20)(cid:17)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)#(cid:27)(cid:19)(cid:8)$(cid:27)#(cid:23)(cid:20)(cid:22)(cid:17)(cid:18)(cid:17)(cid:22)(cid:8),!(cid:17)#(cid:8)(cid:22)(cid:17)(cid:19)(cid:17)(cid:18)%(cid:20)#(cid:20)#&(cid:8)$(cid:27)%(cid:29)(cid:30)(cid:20)(cid:31)#$(cid:17)(cid:8),(cid:20)(cid:19)!(cid:8)(cid:19)!(cid:17)(cid:8)(cid:23)(cid:29)(cid:31)$(cid:20)#&.(cid:22)(cid:18)(cid:20)(cid:30)(cid:30)(cid:20)#&(cid:8)(cid:24)#(cid:20)(cid:19)(cid:8)*(cid:27)(cid:24)#(cid:22)(cid:31)(cid:18)(cid:26)(cid:8)(cid:23)(cid:17)(cid:19)*(cid:31)$/(cid:8)(cid:18)(cid:17)'(cid:24)(cid:20)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:17)0$(cid:17)(cid:29)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)
-(cid:21)(cid:27)(cid:30)(cid:30)(cid:27),(cid:20)#&(cid:8)(cid:23)$(cid:17)#(cid:31)(cid:18)(cid:20)(cid:27)(cid:23)(cid:16)(cid:8)(cid:8)12(cid:8)3!(cid:17)#(cid:8)(cid:19)!(cid:17)(cid:8)(cid:31)#&(cid:30)(cid:17)(cid:8)*(cid:17)(cid:19),(cid:17)(cid:17)#(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)*(cid:27)(cid:18)(cid:17)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:18)(cid:17)(cid:23)(cid:29)(cid:17)$(cid:19)(cid:20)(cid:25)(cid:17)(cid:8)*(cid:27)(cid:24)#(cid:22)(cid:31)(cid:18)(cid:26)(cid:8)(cid:20)(cid:23)(cid:8)1)(cid:8)(cid:22)(cid:17)&(cid:18)(cid:17)(cid:17)(cid:23)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:17)(cid:23)(cid:23)4(cid:8)(cid:27)(cid:18)(cid:8)52(cid:8)(cid:6)(cid:21)(cid:8)(cid:6)#(cid:22)(cid:24)(cid:23)(cid:19)(cid:18)(cid:26)(cid:8)(cid:23)(cid:19)(cid:31)#(cid:22)(cid:31)(cid:18)(cid:22)
-%(cid:17)(cid:19)!(cid:27)(cid:22)(cid:23)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:17)'(cid:24)(cid:20)(cid:29)%(cid:17)#(cid:19)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)#(cid:27)(cid:19)(cid:8)(cid:24)(cid:19)(cid:20)(cid:30)(cid:20)"(cid:17)(cid:22)-(cid:8)(cid:8)(cid:11)(cid:27)#(cid:23)(cid:24)(cid:30)(cid:19)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)$(cid:31)*(cid:30)(cid:17)(cid:8)(cid:21)(cid:20)(cid:17)(cid:30)(cid:22)(cid:8)(cid:27)(cid:18)(cid:22)(cid:17)(cid:18)(cid:8)(cid:21)(cid:27)(cid:18)(cid:8)(cid:17)0$(cid:17)(cid:29)(cid:19)(cid:20)(cid:27)#(cid:23)-
-(cid:8)
-(cid:6)(cid:21)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:20)(cid:17)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)(cid:18)(cid:17)'(cid:24)(cid:20)(cid:18)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)*(cid:17)(cid:8)$(cid:27)#(cid:23)(cid:20)(cid:22)(cid:17)(cid:18)(cid:17)(cid:22) (cid:8)(cid:31)(cid:8)56(cid:8)(cid:13)3(cid:7)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:26)(cid:8),(cid:20)(cid:30)(cid:30)(cid:8)*(cid:17)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)(cid:19)!(cid:17)(cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8)(cid:29)(cid:27)(cid:18)(cid:19)(cid:20)(cid:27)#(cid:8)(cid:27)(cid:21)(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)
-*(cid:27)(cid:18)(cid:17)-(cid:8)(cid:8)(cid:10)!(cid:20)(cid:23)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:26)(cid:8)(cid:20)(cid:23)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)*(cid:27)(cid:18)(cid:17)(cid:8)(cid:21)(cid:18)(cid:27)%(cid:8)789(cid:8)(cid:19)(cid:27)(cid:8)(cid:10)(cid:7)-
-(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:2)(cid:3)(cid:7)(cid:8)(cid:9)(cid:10)(cid:10)(cid:9)(cid:11)(cid:12)(cid:13)(cid:3)(cid:14)(cid:10)(cid:15)(cid:16)(cid:8)(cid:8)(cid:11)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:20)(cid:17)(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:25)(cid:17)(cid:26)(cid:27)(cid:18)(cid:28)(cid:23)(cid:8)(cid:29)(cid:30)(cid:31)(cid:19) (cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:29)(cid:30)(cid:31)(cid:19) (cid:8)(cid:17)(cid:23)(cid:19)(cid:20)%(cid:31)(cid:19)(cid:17)(cid:22)(cid:8)&(cid:17)(cid:27)(cid:30)(cid:27)&(cid:20)$(cid:31)(cid:30)(cid:8)(cid:19)(cid:27)(cid:29)(cid:23) (cid:8)proposed mud/cementing plan,
+8;%%&%*#&#$#<=%*###%#&#&$#&#&-
+'()#!*$##+)#!$#!"#,-%#
+#$$$#$#,!#%##&$%#$,!!$#&.#&#*#*$/'%#0$#!
+,#&$#123!#!#&*,#!,*#!$*#1)&452##
+%!#'%##"-#!$*0$#-
+
+%%##$$$'*$# 563%%##$$$,*!!"##!,
+*-!%%##$$$!,*%789-
+ !"#$# %&&$ proposed mud/cementing plan,
 directionalplot/plan,$100fee.
-(cid:15)(cid:17)(cid:17)(cid:8)9(cid:31)&(cid:17)(cid:8)5(cid:8)(cid:21)(cid:27)(cid:18)(cid:8)(cid:11)(cid:27)%%(cid:17)#(cid:19)(cid:23)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:31)#(cid:22)(cid:8)(cid:23)(cid:20)&#(cid:31)(cid:19)(cid:24)(cid:18)(cid:17)(cid:8)*(cid:30)(cid:27)$/-
+9&5%%#$##&#*$/-
 Page 2
 SFN 54269 (08-2005)
-(cid:11)8(cid:13)(cid:13)(cid:3)(cid:14)(cid:10)(cid:15) (cid:8)(cid:9)(cid:7)(cid:7)(cid:6)(cid:10)(cid:6)8(cid:14)(cid:9)=(cid:8)(cid:6)(cid:14)?8(cid:2)(cid:13)(cid:9)(cid:10)(cid:6)8(cid:14) (cid:8)(cid:9)(cid:14)(cid:7).8(cid:2)(cid:8)=(cid:6)(cid:15)(cid:10)(cid:8)8?(cid:8)(cid:9)(cid:10)(cid:10)(cid:9)(cid:11)(cid:12)(cid:13)(cid:3)(cid:14)(cid:10)(cid:15)
+8 8=?88 .8=8?
 AdditionalAttachments:DrillPlanwithgeologicaltops/mudWellSummarywithcasingandcementplansDirectionalplan/plotand
 surveyor'splats.
 Lateral 2
@@ -1162,36 +1162,36 @@ Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Lateral 3
 KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
 Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Lateral 4
 KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
 Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Lateral 5
 KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
 Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Date
 I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
 04 / 21 / 2011
@@ -1199,7 +1199,7 @@ Signature Printed Name Title
 ePermit
 BrandiTerry EngineeringTech
 Email Address(es)
-?8(cid:2)(cid:8)(cid:15)(cid:10)(cid:9)(cid:10)(cid:3)(cid:8)(cid:5)(cid:15)(cid:3)(cid:8)8(cid:14)=C ?8(cid:2)(cid:8)(cid:15)(cid:10)(cid:9)(cid:10)(cid:3)(cid:8)(cid:5)(cid:15)(cid:3)(cid:8)8(cid:14)=C
+?88=C ?88=C
 Permit and File Number API Number Date Approved
 20864 (( B 053 B 03609 5 / 11 / 2011
 Field By
@@ -1373,3 +1373,168 @@ a) Based on full casing evacuation with 9.5 ppg fluid on backside @ 10,734’ TV
 b) Burst pressure based on 9,000 psi Stimulation pressure with 10.2 ppg internal fluid
 gradient with 9.0 ppg gradient on backside at 10,734’ TVD.
 c) Based on string weight in 9.5 ppg fluid (Buoyed weight: 108k lbs.) plus 100k lbs overpull.
+0
+-2000
+-4000
+-6000
+-8000
+-10000
+)+(htroN/)-(htuoS
+2000 0 -2000
+West(-)/East(+)
+9000
+9600
+10200
+10800
+11400
+htpeD
+lacitreV
+eurT
+Project: McKenzie County, ND
+Site: Sec. 12 T153N R101W
+Well: Bray 5301 43-12H
+Wellbore: OH
+Design: Plan #1
+4500
+6000
+T Azimuths to True North
+M
+Magnetic North: 8.78°
+Magnetic Field
+7500
+Strength: 56772.0snT
+Dip Angle: 73.15°
+Date: 4/14/2011
+Model: IGRF2010 9000
+10500
+12000
+Start Build 12.00
+7" TD at 21107.1
+Start 13.3 hold at 11007.8 MD
+0 600 1200 1800 2400 3000 3600 4200 4800 5400 6000 6600 7200 7800 8400 9000 9600 10200 10800
+Vertical Section at 180.00°
+htpeD
+lacitreV
+eurT
+SITE DETAILS: Sec. 12 T153N R101W
+SHL
+12 250' FSL Site Centre Latitude: 48° 4' 57.960 N
+1927' FEL
+Longitude: 103° 36' 43.250 W
+Positional Uncertainity: 0.0
+Convergence: -2.32
+Local North: True
+13
+Setbacks
+1220' E/W
+200' N/S
+24 Start Build 12.00
+7"
+BHL Start 13.3 hold at 11007.8 MD
+200' FSL
+1927' FEL
+Horizontal Departure
+0 1500 3000 4500 6000 7500 9000
+SECTIOANN DNEOTTAAITLISONS
+TVD MD MDInc IAnczi TVADzi ++NN//--SS ++EE//--WW VDSleecgtDTeapragretutre Annotation
+10256.6 100.0256.06.00 00..0000 00.0.00 00..00 00..00 0.00.00 0.0 Start Build 12.00
+1073140.025161.0607.08.00 900..104010128506.0.60 -4708..07 00..00 407.80.07 478.7 Start 13.3 hold at 11007.8 MD
+1073141.000171.08219.00.1419800..104010178304.0.00 --447981..79 00..00 1429.10.09 491.9 Start DLS 0.00 TFO 180.00
+1070191.002211.10079.01.141I9n80t0e..1r0p40 @101 71830074.04.003.-01 -0(4B59r7a18y..90 5301 4003..-00121H0 5O07H.80 .0P0la1n0 5#718).0 TD at 21107.1
+21107.1 90.14180.0010709.0-10578.0 Bray 05.3001 430-1.020H PBHL
+Planning Report
+Database: EDM Network Local Co-ordinate Reference: Well Bray 5301 43-12H
+Company: Oasis TVD Reference: WELL @ 2090.5ft (Original Well Elev)
+Project: McKenzie County, ND MD Reference: WELL @ 2090.5ft (Original Well Elev)
+Site: Sec. 12 T153N R101W North Reference: True
+Well: Bray 5301 43-12H Survey Calculation Method: Minimum Curvature
+Wellbore: OH
+Design: Plan #1
+Project McKenzie County, ND
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site Sec. 12 T153N R101W
+Site Position: Northing: 125,065.82 m Latitude: 48° 4' 57.940 N
+From: Lat/Long Easting: 368,244.93 m Longitude: 103° 36' 41.780 W
+Position Uncertainty: 0.0 ft Slot Radius: 13.200 in Grid Convergence: -2.32 °
+Well Bray 5301 43-12H
+Well Position +N/-S 0.0 ft Northing: 125,067.05 m Latitude: 48° 4' 57.940 N
++E/-W -100.0 ft Easting: 368,214.48 m Longitude: 103° 36' 43.253 W
+Position Uncertainty 0.0 ft Wellhead Elevation: Ground Level: 2,074.0 ft
+Wellbore OH
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(°) (°) (nT)
+IGRF2010 4/14/2011 8.78 73.15 56,772
+Design Plan #1
+Audit Notes:
+Version: Phase: PROTOTYPE Tie On Depth: 0.0
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(ft) (ft) (ft) (°)
+0.0 0.0 0.0 180.00
+Plan Sections
+Measured Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Rate Rate Rate TFO
+(ft) (°) (°) (ft) (ft) (ft) (°/100ft) (°/100ft) (°/100ft) (°) Target
+0.0 0.00 0.00 0.0 0.0 0.0 0.00 0.00 0.00 0.00
+10,256.6 0.00 0.00 10,256.6 0.0 0.0 0.00 0.00 0.00 0.00
+11,007.8 90.14 180.00 10,734.0 -478.7 0.0 12.00 12.00 0.00 180.00
+11,021.0 90.14 180.00 10,734.0 -491.9 0.0 0.00 0.00 0.00 0.00 Interp @ 10743.0 (Bray 5301 43-12H OH Plan #1)
+21,107.1 90.14 180.00 10,709.0 -10,578.0 0.0 0.00 0.00 0.00 180.00 Bray 5301 43-12H PBHL
+4/21/2011 12:31:55PM Page 2 COMPASS 5000.1 Build 41
+Planning Report
+Database: EDM Network Local Co-ordinate Reference: Well Bray 5301 43-12H
+Company: Oasis TVD Reference: WELL @ 2090.5ft (Original Well Elev)
+Project: McKenzie County, ND MD Reference: WELL @ 2090.5ft (Original Well Elev)
+Site: Sec. 12 T153N R101W North Reference: True
+Well: Bray 5301 43-12H Survey Calculation Method: Minimum Curvature
+Wellbore: OH
+Design: Plan #1
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate Rate Rate
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (°/100ft) (°/100ft)
+18,000.0 90.14 180.00 10,716.7 -7,470.9 0.0 7,470.9 0.00 0.00 0.00
+18,100.0 90.14 180.00 10,716.4 -7,570.9 0.0 7,570.9 0.00 0.00 0.00
+18,200.0 90.14 180.00 10,716.2 -7,670.9 0.0 7,670.9 0.00 0.00 0.00
+18,300.0 90.14 180.00 10,715.9 -7,770.9 0.0 7,770.9 0.00 0.00 0.00
+18,400.0 90.14 180.00 10,715.7 -7,870.9 0.0 7,870.9 0.00 0.00 0.00
+18,500.0 90.14 180.00 10,715.4 -7,970.9 0.0 7,970.9 0.00 0.00 0.00
+18,600.0 90.14 180.00 10,715.2 -8,070.9 0.0 8,070.9 0.00 0.00 0.00
+18,700.0 90.14 180.00 10,714.9 -8,170.9 0.0 8,170.9 0.00 0.00 0.00
+18,800.0 90.14 180.00 10,714.7 -8,270.9 0.0 8,270.9 0.00 0.00 0.00
+18,900.0 90.14 180.00 10,714.4 -8,370.9 0.0 8,370.9 0.00 0.00 0.00
+19,000.0 90.14 180.00 10,714.2 -8,470.9 0.0 8,470.9 0.00 0.00 0.00
+19,100.0 90.14 180.00 10,713.9 -8,570.9 0.0 8,570.9 0.00 0.00 0.00
+19,200.0 90.14 180.00 10,713.7 -8,670.9 0.0 8,670.9 0.00 0.00 0.00
+19,300.0 90.14 180.00 10,713.5 -8,770.9 0.0 8,770.9 0.00 0.00 0.00
+19,400.0 90.14 180.00 10,713.2 -8,870.9 0.0 8,870.9 0.00 0.00 0.00
+19,500.0 90.14 180.00 10,713.0 -8,970.9 0.0 8,970.9 0.00 0.00 0.00
+19,600.0 90.14 180.00 10,712.7 -9,070.9 0.0 9,070.9 0.00 0.00 0.00
+19,700.0 90.14 180.00 10,712.5 -9,170.9 0.0 9,170.9 0.00 0.00 0.00
+19,800.0 90.14 180.00 10,712.2 -9,270.9 0.0 9,270.9 0.00 0.00 0.00
+19,900.0 90.14 180.00 10,712.0 -9,370.9 0.0 9,370.9 0.00 0.00 0.00
+20,000.0 90.14 180.00 10,711.7 -9,470.9 0.0 9,470.9 0.00 0.00 0.00
+20,100.0 90.14 180.00 10,711.5 -9,570.9 0.0 9,570.9 0.00 0.00 0.00
+20,200.0 90.14 180.00 10,711.2 -9,670.9 0.0 9,670.9 0.00 0.00 0.00
+20,300.0 90.14 180.00 10,711.0 -9,770.9 0.0 9,770.9 0.00 0.00 0.00
+20,400.0 90.14 180.00 10,710.7 -9,870.9 0.0 9,870.9 0.00 0.00 0.00
+20,500.0 90.14 180.00 10,710.5 -9,970.9 0.0 9,970.9 0.00 0.00 0.00
+20,600.0 90.14 180.00 10,710.2 -10,070.9 0.0 10,070.9 0.00 0.00 0.00
+20,700.0 90.14 180.00 10,710.0 -10,170.9 0.0 10,170.9 0.00 0.00 0.00
+20,800.0 90.14 180.00 10,709.8 -10,270.9 0.0 10,270.9 0.00 0.00 0.00
+20,900.0 90.14 180.00 10,709.5 -10,370.9 0.0 10,370.9 0.00 0.00 0.00
+21,000.0 90.14 180.00 10,709.3 -10,470.9 0.0 10,470.9 0.00 0.00 0.00
+21,107.1 90.14 180.00 10,709.0 -10,578.0 0.0 10,578.0 0.00 0.00 0.00
+TD at 21107.1
+Design Targets
+Target Name
+- hit/miss target Dip Angle Dip Dir. TVD +N/-S +E/-W Northing Easting
+- Shape (°) (°) (ft) (ft) (ft) (m) (m) Latitude Longitude
+Bray 5301 43-12H PBHL 0.00 0.00 10,709.0 -10,578.0 0.0 121,845.51 368,084.20 48° 3' 13.546 N 103° 36' 43.253 W
+- plan hits target center
+- Point
+Interp @ 10743.0 (Bray 5301 43-102.0H0 OH Pla0n. 0#01) 10,734.0 -491.9 0.0 124,917.23 368,208.42 48° 4' 53.085 N 103° 36' 43.253 W
+- plan hits target center
+- Point
+4/21/2011 12:31:55PM Page 8 COMPASS 5000.1 Build 41

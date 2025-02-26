@@ -335,17 +335,17 @@ Formation/
 Dist to
 Est. TVD MSL Datum Thickness
 Zone target
-Kibbey Lime (cid:56)(cid:44)(cid:51)(cid:56)(cid:50)(cid:39) -8,382' 178' -8,382'
-Charles Salt (cid:56)(cid:44)(cid:53)(cid:54)(cid:48)(cid:39) -8,560' 646' -8,560'
-Base Last Salt (cid:57)(cid:44)(cid:50)(cid:48)(cid:54)(cid:39) -9,206' 222' -9,206'
-Mission Canyon (cid:57)(cid:44)(cid:52)(cid:50)(cid:56)(cid:39) -9,428' 547' -9,428'
-Lodgepole (cid:57)(cid:44)(cid:57)(cid:55)(cid:53)(cid:39) -9,975' 730' -9,975'
-False Bakken (cid:49)(cid:48)(cid:44)(cid:55)(cid:48)(cid:53)(cid:39) -10,705' 7' -10,705'
-Upper Bakken Shale (cid:49)(cid:48)(cid:44)(cid:55)(cid:49)(cid:50)(cid:39) -10,712' 18' -10,712'
-Middle Bakken (cid:49)(cid:48)(cid:44)(cid:55)(cid:51)(cid:48)(cid:39) -10,730' 40' -10,730'
-Lower Bakken (cid:49)(cid:48)(cid:44)(cid:55)(cid:55)(cid:48)(cid:39) -10,770' 12' -10,770'
-Pronghorn (cid:49)(cid:48)(cid:44)(cid:55)(cid:56)(cid:50)(cid:39) -10,782' 17' -10,782'
-Three Forks (cid:49)(cid:48)(cid:44)(cid:55)(cid:57)(cid:57)(cid:39) -10,799' 10,799' -10,799'
+Kibbey Lime  -8,382' 178' -8,382'
+Charles Salt  -8,560' 646' -8,560'
+Base Last Salt  -9,206' 222' -9,206'
+Mission Canyon  -9,428' 547' -9,428'
+Lodgepole  -9,975' 730' -9,975'
+False Bakken  -10,705' 7' -10,705'
+Upper Bakken Shale  -10,712' 18' -10,712'
+Middle Bakken  -10,730' 40' -10,730'
+Lower Bakken  -10,770' 12' -10,770'
+Pronghorn  -10,782' 17' -10,782'
+Three Forks  -10,799' 10,799' -10,799'
 Control Well
 Operator: Oasis Petroleum
 Well Name: Kline Federal 5300 41-18 14BX
@@ -365,7 +365,7 @@ False Bakken 10,704 -8,622' 8' 113'
 Upper Bakken Shale 10,712 -8,630' 16' 105'
 Middle Bakken 10,728 -8,646' 27' 89'
 Table 1: Distance from Formation tops in the control wells were utilized to determine an initial drilling target.
-(cid:75)(cid:108)(cid:105)(cid:110)(cid:101)(cid:32)(cid:70)(cid:101)(cid:100)(cid:101)(cid:114)(cid:97)(cid:108)(cid:32)(cid:49)(cid:50)(cid:84)(cid:88)(cid:32)(cid:84)(cid:97)(cid:114)(cid:103)(cid:101)(cid:116)(cid:32)(cid:76)(cid:97)(cid:110)(cid:100)(cid:105)(cid:110)(cid:103)(cid:32)(cid:67)(cid:104)(cid:97)(cid:114)(cid:116)
+
 Operator: Oasis Petroleum Oasis Petroleum Oasis Petroleum
 Well Name: Kline Federal 5300 41-18 12TX Kline Federal 5300 41-18 13T2X Kline Federal 5300 41-18 14BX
 Location: SW SW Sec. 18 T153N, R100W SW SW Sec. 18 T153N, R100W SW SW Sec. 18 T153N, R100W
@@ -376,24 +376,24 @@ Offset Tops Offset Tops Primary Tops Proj. Target
 Formation / Zone TVD Thickness TVD Thickness TVD Thickness
 MSL MSL MSL Landing
 (gamma) (gamma) (gamma)
-Kibbey 8,384' (cid:45)(cid:54)(cid:44)(cid:51)(cid:48)(cid:50)(cid:39) 172' 8,382' -6,300' 178' 8,382' -6,300' 182' 10,819'
-Charles 8,556' (cid:45)(cid:54)(cid:44)(cid:52)(cid:55)(cid:52)(cid:39) 650' 8,560' -6,478' 646' 8,564' -6,482' 641' 10,826'
-Base Last Salt 9,206' (cid:45)(cid:55)(cid:44)(cid:49)(cid:50)(cid:52)(cid:39) 222' 9,206' -7,124' 222' 9,205' -7,123' 223' 10,819'
-Mission Canyon 9,428' (cid:45)(cid:55)(cid:44)(cid:51)(cid:52)(cid:54)(cid:39) 547' 9,428' -7,346' 547' 9,428' -7,346' 548' 10,820'
-Lodgepole 9,975' (cid:45)(cid:55)(cid:44)(cid:56)(cid:57)(cid:51)(cid:39) 115' 9,975' -7,893' 112' 9,976' -7,894' 114' 10,821'
-LPA 10,090' (cid:45)(cid:56)(cid:44)(cid:48)(cid:48)(cid:56)(cid:39) 75' 10,087' -8,005' 70' 10,090' -8,008' 74' 10,822'
-LPB 10,165' (cid:45)(cid:56)(cid:44)(cid:48)(cid:56)(cid:51)(cid:39) 46' 10,157' -8,075' 54' 10,164' -8,082' 45' 10,823'
-LPC 10,211' (cid:45)(cid:56)(cid:44)(cid:49)(cid:50)(cid:57)(cid:39) 188' 10,211' -8,129' 186' 10,209' -8,127' 194' 10,818'
-LPD 10,399' (cid:45)(cid:56)(cid:44)(cid:51)(cid:49)(cid:55)(cid:39) 161' 10,397' -8,315' 162' 10,403' -8,321' 154' 10,825'
-LPE 10,560' (cid:45)(cid:56)(cid:44)(cid:52)(cid:55)(cid:56)(cid:39) 65' 10,559' -8,477' 67' 10,557' -8,475' 68' 10,818'
-LPF 10,625' (cid:45)(cid:56)(cid:44)(cid:53)(cid:52)(cid:51)(cid:39) 79' 10,626' -8,544' 79' 10,625' -8,543' 77' 10,820'
-False Bakken 10,704' (cid:45)(cid:56)(cid:44)(cid:54)(cid:50)(cid:50)(cid:39) 9' 10,705' -8,623' 7' 10,702' -8,620' 10' 10,818'
-Upper Bakken Shale 10,713' (cid:45)(cid:56)(cid:44)(cid:54)(cid:51)(cid:49)(cid:39) 17' 10,712' -8,630' 18' 10,712' -8,630' 16' 10,820'
-Middle Bakken 10,730' (cid:45)(cid:56)(cid:44)(cid:54)(cid:52)(cid:56)(cid:39) 41' 10,730' -8,648' - 10,728' -8,646' - 10,818'
-Lower Bakken 10,771' (cid:45)(cid:56)(cid:44)(cid:54)(cid:56)(cid:57)(cid:39) 12' 10,770' - - - - - -
-Pronghorn 10,783' (cid:45)(cid:56)(cid:44)(cid:55)(cid:48)(cid:49)(cid:39) 16' 10,771' - - - - - -
-Three Forks 10,799' (cid:45)(cid:56)(cid:44)(cid:55)(cid:49)(cid:55)(cid:39) 21' 10,799' - - - - - -
-Target 10,820' (cid:45)(cid:56)(cid:44)(cid:55)(cid:51)(cid:56)(cid:39) -10,820' 10,820' -8,738' - 10,817' -8,735' - 10,817'
+Kibbey 8,384'  172' 8,382' -6,300' 178' 8,382' -6,300' 182' 10,819'
+Charles 8,556'  650' 8,560' -6,478' 646' 8,564' -6,482' 641' 10,826'
+Base Last Salt 9,206'  222' 9,206' -7,124' 222' 9,205' -7,123' 223' 10,819'
+Mission Canyon 9,428'  547' 9,428' -7,346' 547' 9,428' -7,346' 548' 10,820'
+Lodgepole 9,975'  115' 9,975' -7,893' 112' 9,976' -7,894' 114' 10,821'
+LPA 10,090'  75' 10,087' -8,005' 70' 10,090' -8,008' 74' 10,822'
+LPB 10,165'  46' 10,157' -8,075' 54' 10,164' -8,082' 45' 10,823'
+LPC 10,211'  188' 10,211' -8,129' 186' 10,209' -8,127' 194' 10,818'
+LPD 10,399'  161' 10,397' -8,315' 162' 10,403' -8,321' 154' 10,825'
+LPE 10,560'  65' 10,559' -8,477' 67' 10,557' -8,475' 68' 10,818'
+LPF 10,625'  79' 10,626' -8,544' 79' 10,625' -8,543' 77' 10,820'
+False Bakken 10,704'  9' 10,705' -8,623' 7' 10,702' -8,620' 10' 10,818'
+Upper Bakken Shale 10,713'  17' 10,712' -8,630' 18' 10,712' -8,630' 16' 10,820'
+Middle Bakken 10,730'  41' 10,730' -8,648' - 10,728' -8,646' - 10,818'
+Lower Bakken 10,771'  12' 10,770' - - - - - -
+Pronghorn 10,783'  16' 10,771' - - - - - -
+Three Forks 10,799'  21' 10,799' - - - - - -
+Target 10,820'  -10,820' 10,820' -8,738' - 10,817' -8,735' - 10,817'
 Average ---> 10,820'
 Table 2: Estimated landing point based on offset well formation tops.
 Geologic Assessment
@@ -422,21 +422,21 @@ The Upper Shale of the Bakken formation [Mississippian – Devonian] was drilled
 MD (10,713’ TVD) (-8,631’) with sample returns of black, carbonaceous, and petroliferous shale
 (Figure 5) characterized by gamma ray values in excess of 255 API counts. The Upper Shale was
 2’ low to the Kline Federal 5300 41-18 13T2X. Samples were described as:
-(cid:83)(cid:72)(cid:65)(cid:76)(cid:69)(cid:58)(cid:32)(cid:98)(cid:108)(cid:97)(cid:99)(cid:107)(cid:44)(cid:32)(cid:102)(cid:105)(cid:114)(cid:109)(cid:44)(cid:32)(cid:101)(cid:97)(cid:114)(cid:116)(cid:104)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:119)(cid:97)(cid:120)(cid:121)(cid:32)(cid:116)(cid:101)(cid:120)(cid:116)(cid:117)(cid:114)(cid:101)(cid:44)(cid:32)(cid:112)(cid:121)(cid:114)(cid:105)(cid:116)(cid:101)(cid:44)(cid:32)(cid:32)
-(cid:99)(cid:97)(cid:114)(cid:98)(cid:111)(cid:110)(cid:97)(cid:99)(cid:101)(cid:111)(cid:117)(cid:115)(cid:44)(cid:32)(cid:112)(cid:108)(cid:97)(cid:116)(cid:121)(cid:44)(cid:32)(cid:118)(cid:105)(cid:115)(cid:105)(cid:98)(cid:108)(cid:101)(cid:32)(cid:102)(cid:114)(cid:97)(cid:99)(cid:116)(cid:117)(cid:114)(cid:101)(cid:32)(cid:112)(cid:111)(cid:114)(cid:111)(cid:115)(cid:105)(cid:116)(cid:121)(cid:32)
-(cid:32)
+
+
+
 Figure 5: Photograph sample from the Upper Bakken Shale.
 The Middle Member of the Bakken formation was penetrated at 10,829’ MD, (10,730’ TVD)
 (-8,648’), flat to the Kline Federal 5300 41-18 13T2X. The Middle Member contained layers of
 sandstone and silty sandstones with varying amounts of porosity and oil stain (Figure 6).
 Samples from the Middle Member were described as:
-(cid:32)
-(cid:83)(cid:76)(cid:84)(cid:89)(cid:32)(cid:83)(cid:65)(cid:78)(cid:68)(cid:83)(cid:84)(cid:79)(cid:78)(cid:69)(cid:58)(cid:32)(cid:99)(cid:111)(cid:109)(cid:109)(cid:111)(cid:110)(cid:32)(cid:115)(cid:97)(cid:108)(cid:116)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:112)(cid:101)(cid:112)(cid:112)(cid:101)(cid:114)(cid:44)(cid:32)(cid:111)(cid:99)(cid:99)(cid:97)(cid:115)(cid:105)(cid:111)(cid:110)(cid:97)(cid:108)(cid:32)(cid:108)(cid:105)(cid:103)(cid:104)(cid:116)(cid:32)(cid:103)(cid:114)(cid:97)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:109)(cid:101)(cid:100)(cid:105)(cid:117)(cid:109)(cid:32)(cid:103)(cid:114)(cid:97)(cid:121)(cid:44)(cid:32)
-(cid:118)(cid:105)(cid:115)(cid:105)(cid:98)(cid:108)(cid:101)(cid:32)(cid:119)(cid:104)(cid:105)(cid:116)(cid:101)(cid:44)(cid:32)(cid:118)(cid:101)(cid:114)(cid:121)(cid:32)(cid:102)(cid:105)(cid:110)(cid:101)(cid:32)(cid:103)(cid:114)(cid:97)(cid:105)(cid:110)(cid:101)(cid:100)(cid:44)(cid:32)(cid:115)(cid:111)(cid:102)(cid:116)(cid:32)(cid:116)(cid:111)(cid:32)(cid:102)(cid:105)(cid:114)(cid:109)(cid:44)(cid:32)(cid:109)(cid:111)(cid:100)(cid:101)(cid:114)(cid:97)(cid:116)(cid:101)(cid:108)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:119)(cid:101)(cid:108)(cid:108)(cid:32)(cid:115)(cid:111)(cid:114)(cid:116)(cid:101)(cid:100)(cid:44)(cid:32)(cid:114)(cid:111)(cid:117)(cid:110)(cid:100)(cid:101)(cid:100)(cid:32)(cid:116)(cid:111)(cid:32)(cid:115)(cid:117)(cid:98)(cid:32)
-(cid:114)(cid:111)(cid:117)(cid:110)(cid:100)(cid:101)(cid:100)(cid:44)(cid:32)(cid:109)(cid:111)(cid:100)(cid:101)(cid:114)(cid:97)(cid:116)(cid:101)(cid:108)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:112)(cid:111)(cid:111)(cid:114)(cid:108)(cid:121)(cid:32)(cid:99)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:101)(cid:100)(cid:44)(cid:32)(cid:118)(cid:105)(cid:115)(cid:105)(cid:98)(cid:108)(cid:101)(cid:32)(cid:99)(cid:97)(cid:108)(cid:99)(cid:97)(cid:114)(cid:101)(cid:111)(cid:117)(cid:115)(cid:32)(cid:102)(cid:105)(cid:108)(cid:108)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:97)(cid:99)(cid:116)(cid:117)(cid:114)(cid:101)(cid:115)(cid:44)(cid:32)(cid:112)(cid:111)(cid:115)(cid:115)(cid:105)(cid:98)(cid:108)(cid:101)(cid:32)
-(cid:102)(cid:114)(cid:97)(cid:99)(cid:116)(cid:117)(cid:114)(cid:101)(cid:32)(cid:112)(cid:111)(cid:114)(cid:111)(cid:115)(cid:105)(cid:116)(cid:121)(cid:44)(cid:32)(cid:99)(cid:111)(cid:109)(cid:109)(cid:111)(cid:110)(cid:32)(cid:105)(cid:110)(cid:116)(cid:101)(cid:114)(cid:103)(cid:114)(cid:97)(cid:110)(cid:117)(cid:108)(cid:97)(cid:114)(cid:32)(cid:112)(cid:111)(cid:114)(cid:111)(cid:115)(cid:105)(cid:116)(cid:121)(cid:44)(cid:32)(cid:118)(cid:105)(cid:115)(cid:105)(cid:98)(cid:108)(cid:101)(cid:32)(cid:108)(cid:105)(cid:103)(cid:104)(cid:116)(cid:32)(cid:98)(cid:114)(cid:111)(cid:119)(cid:110)(cid:32)(cid:115)(cid:112)(cid:111)(cid:116)(cid:116)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:101)(cid:118)(cid:101)(cid:110)(cid:32)(cid:111)(cid:105)(cid:108)(cid:32)
-(cid:115)(cid:116)(cid:97)(cid:105)(cid:110)(cid:32)
-(cid:32)
+
+
+
+
+
+
+
 Well Information
 Operator: Oasis Petroleum North America API #: 33-053-06030
 Address: 1001 Fannin Suite 1500 NDIC Well File #: 28658
@@ -515,40 +515,40 @@ Lower Bakken 10,770' -8,688' 12' 49'
 Pronghorn 10,782' -8,700' 17' 37'
 Three Forks 10,799' -8,717' 20' 20'
 Target 10,819' -8,737' 20' '
-Co: (cid:82)(cid:80)(cid:77)(cid:32)(cid:67)(cid:111)(cid:110)(cid:115)(cid:117)(cid:108)(cid:116)(cid:105)(cid:110)(cid:103)(cid:32)(cid:73)(cid:110)(cid:99) Units: (cid:70)(cid:101)(cid:101)(cid:116)(cid:44)(cid:32)(cid:176)(cid:44)(cid:32)(cid:176)(cid:47)(cid:49)(cid:48)(cid:48)(cid:102)(cid:116) VS Az: (cid:57)(cid:48)(cid:46)(cid:48)(cid:48)
-Drillers: (cid:67)(cid:101)(cid:121)(cid:110)(cid:97)(cid:114) Elevation: (cid:50)(cid:48)(cid:56)(cid:50)(cid:46)(cid:48)(cid:48) Method: (cid:77)(cid:105)(cid:110)(cid:105)(cid:109)(cid:117)(cid:109)(cid:32)(cid:67)(cid:117)(cid:114)(cid:118)(cid:97)(cid:116)(cid:117)(cid:114)(cid:101)
-Well Name: (cid:75)(cid:108)(cid:105)(cid:110)(cid:101)(cid:32)(cid:70)(cid:101)(cid:100)(cid:101)(cid:114)(cid:97)(cid:108)(cid:32)(cid:53)(cid:51)(cid:48)(cid:48)(cid:32)(cid:52)(cid:49)(cid:45)(cid:49)(cid:56)(cid:32)(cid:49)(cid:50)(cid:84)(cid:88) Northing: (cid:52)(cid:48)(cid:53)(cid:49)(cid:51)(cid:55)(cid:46)(cid:52)(cid:53) Latitude: (cid:52)(cid:56)(cid:46)(cid:48)(cid:54)(cid:56)(cid:55)(cid:54)(cid:52)
-Location: (cid:49)(cid:53)(cid:51)(cid:78)(cid:45)(cid:49)(cid:48)(cid:48)(cid:87)(cid:45)(cid:49)(cid:55)(cid:47)(cid:49)(cid:56) Easting: (cid:49)(cid:50)(cid:48)(cid:57)(cid:57)(cid:55)(cid:48)(cid:46)(cid:54)(cid:51) Longitude: (cid:45)(cid:49)(cid:48)(cid:51)(cid:46)(cid:54)(cid:48)(cid:51)(cid:51)(cid:49)(cid:57)
+Co:  Units:  VS Az: 
+Drillers:  Elevation:  Method: 
+Well Name:  Northing:  Latitude: 
+Location:  Easting:  Longitude: 
 Indian Hills: 153N-100W-17/18: Kline Fed 5300 41-18 12TX: Kline Fed 12TX Surveys
 No. MD CL Inc. Azi. TVD VS +N/S- +E/W- BR WR DLS
-(cid:49) (cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48)
-(cid:50) (cid:49)(cid:52)(cid:48)(cid:46)(cid:48)(cid:48) (cid:49)(cid:52)(cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:51)(cid:53) (cid:49)(cid:52)(cid:54)(cid:46)(cid:48)(cid:56) (cid:49)(cid:52)(cid:48)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:50)(cid:52) (cid:45)(cid:48)(cid:46)(cid:51)(cid:53) (cid:48)(cid:46)(cid:50)(cid:52) (cid:48)(cid:46)(cid:50)(cid:53) (cid:49)(cid:48)(cid:52)(cid:46)(cid:51)(cid:52) (cid:48)(cid:46)(cid:50)(cid:53)
-(cid:51) (cid:50)(cid:51)(cid:52)(cid:46)(cid:48)(cid:48) (cid:57)(cid:52)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:54)(cid:54) (cid:49)(cid:52)(cid:51)(cid:46)(cid:48)(cid:57) (cid:50)(cid:51)(cid:52)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:55)(cid:50) (cid:45)(cid:49)(cid:46)(cid:48)(cid:51) (cid:48)(cid:46)(cid:55)(cid:50) (cid:48)(cid:46)(cid:51)(cid:51) (cid:45)(cid:51)(cid:46)(cid:49)(cid:56) (cid:48)(cid:46)(cid:51)(cid:51)
-(cid:52) (cid:51)(cid:50)(cid:55)(cid:46)(cid:48)(cid:48) (cid:57)(cid:51)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:53)(cid:55) (cid:49)(cid:55)(cid:50)(cid:46)(cid:56)(cid:48) (cid:51)(cid:50)(cid:54)(cid:46)(cid:57)(cid:57) (cid:49)(cid:46)(cid:49)(cid:48) (cid:45)(cid:49)(cid:46)(cid:57)(cid:49) (cid:49)(cid:46)(cid:49)(cid:48) (cid:45)(cid:48)(cid:46)(cid:49)(cid:48) (cid:51)(cid:49)(cid:46)(cid:57)(cid:53) (cid:48)(cid:46)(cid:51)(cid:53)
-(cid:53) (cid:52)(cid:50)(cid:49)(cid:46)(cid:48)(cid:48) (cid:57)(cid:52)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:52)(cid:56) (cid:49)(cid:53)(cid:52)(cid:46)(cid:55)(cid:56) (cid:52)(cid:50)(cid:48)(cid:46)(cid:57)(cid:57) (cid:49)(cid:46)(cid:51)(cid:51) (cid:45)(cid:50)(cid:46)(cid:55)(cid:51) (cid:49)(cid:46)(cid:51)(cid:51) (cid:45)(cid:48)(cid:46)(cid:49)(cid:48) (cid:45)(cid:49)(cid:57)(cid:46)(cid:49)(cid:55) (cid:48)(cid:46)(cid:50)(cid:48)
-(cid:54) (cid:53)(cid:49)(cid:54)(cid:46)(cid:48)(cid:48) (cid:57)(cid:53)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:52)(cid:48) (cid:49)(cid:51)(cid:57)(cid:46)(cid:55)(cid:53) (cid:53)(cid:49)(cid:53)(cid:46)(cid:57)(cid:56) (cid:49)(cid:46)(cid:55)(cid:49) (cid:45)(cid:51)(cid:46)(cid:51)(cid:53) (cid:49)(cid:46)(cid:55)(cid:49) (cid:45)(cid:48)(cid:46)(cid:48)(cid:56) (cid:45)(cid:49)(cid:53)(cid:46)(cid:56)(cid:50) (cid:48)(cid:46)(cid:49)(cid:53)
-(cid:55) (cid:54)(cid:48)(cid:55)(cid:46)(cid:48)(cid:48) (cid:57)(cid:49)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:55)(cid:57) (cid:49)(cid:53)(cid:48)(cid:46)(cid:48)(cid:52) (cid:54)(cid:48)(cid:54)(cid:46)(cid:57)(cid:56) (cid:50)(cid:46)(cid:50)(cid:51) (cid:45)(cid:52)(cid:46)(cid:49)(cid:51) (cid:50)(cid:46)(cid:50)(cid:51) (cid:48)(cid:46)(cid:52)(cid:51) (cid:49)(cid:49)(cid:46)(cid:51)(cid:49) (cid:48)(cid:46)(cid:52)(cid:52)
-(cid:56) (cid:54)(cid:57)(cid:57)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:52)(cid:52) (cid:49)(cid:55)(cid:56)(cid:46)(cid:53)(cid:49) (cid:54)(cid:57)(cid:56)(cid:46)(cid:57)(cid:55) (cid:50)(cid:46)(cid:53)(cid:54) (cid:45)(cid:53)(cid:46)(cid:48)(cid:52) (cid:50)(cid:46)(cid:53)(cid:54) (cid:45)(cid:48)(cid:46)(cid:51)(cid:56) (cid:51)(cid:48)(cid:46)(cid:57)(cid:53) (cid:48)(cid:46)(cid:52)(cid:57)
-(cid:57) (cid:55)(cid:57)(cid:49)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:54)(cid:54) (cid:49)(cid:53)(cid:56)(cid:46)(cid:57)(cid:49) (cid:55)(cid:57)(cid:48)(cid:46)(cid:57)(cid:55) (cid:50)(cid:46)(cid:55)(cid:54) (cid:45)(cid:53)(cid:46)(cid:56)(cid:56) (cid:50)(cid:46)(cid:55)(cid:54) (cid:48)(cid:46)(cid:50)(cid:52) (cid:45)(cid:50)(cid:49)(cid:46)(cid:51)(cid:48) (cid:48)(cid:46)(cid:51)(cid:49)
-(cid:49)(cid:48) (cid:56)(cid:56)(cid:50)(cid:46)(cid:48)(cid:48) (cid:57)(cid:49)(cid:46)(cid:48)(cid:48) (cid:49)(cid:46)(cid:52)(cid:49) (cid:49)(cid:53)(cid:55)(cid:46)(cid:48)(cid:55) (cid:56)(cid:56)(cid:49)(cid:46)(cid:57)(cid:53) (cid:51)(cid:46)(cid:51)(cid:56) (cid:45)(cid:55)(cid:46)(cid:52)(cid:48) (cid:51)(cid:46)(cid:51)(cid:56) (cid:48)(cid:46)(cid:56)(cid:50) (cid:45)(cid:50)(cid:46)(cid:48)(cid:50) (cid:48)(cid:46)(cid:56)(cid:50)
-(cid:49)(cid:49) (cid:57)(cid:55)(cid:52)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:52)(cid:48) (cid:49)(cid:57)(cid:46)(cid:55)(cid:56) (cid:57)(cid:55)(cid:51)(cid:46)(cid:57)(cid:53) (cid:51)(cid:46)(cid:57)(cid:51) (cid:45)(cid:56)(cid:46)(cid:49)(cid:52) (cid:51)(cid:46)(cid:57)(cid:51) (cid:45)(cid:49)(cid:46)(cid:49)(cid:48) (cid:45)(cid:49)(cid:52)(cid:57)(cid:46)(cid:50)(cid:51) (cid:49)(cid:46)(cid:56)(cid:56)
-(cid:49)(cid:50) (cid:49)(cid:48)(cid:54)(cid:54)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:50)(cid:50) (cid:49)(cid:48)(cid:49)(cid:46)(cid:56)(cid:55) (cid:49)(cid:48)(cid:54)(cid:53)(cid:46)(cid:57)(cid:52) (cid:52)(cid:46)(cid:50)(cid:49) (cid:45)(cid:55)(cid:46)(cid:56)(cid:56) (cid:52)(cid:46)(cid:50)(cid:49) (cid:45)(cid:48)(cid:46)(cid:50)(cid:48) (cid:56)(cid:57)(cid:46)(cid:50)(cid:51) (cid:48)(cid:46)(cid:52)(cid:55)
-(cid:49)(cid:51) (cid:49)(cid:49)(cid:53)(cid:56)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:50)(cid:50) (cid:49)(cid:55)(cid:55)(cid:46)(cid:50)(cid:56) (cid:49)(cid:49)(cid:53)(cid:55)(cid:46)(cid:57)(cid:52) (cid:52)(cid:46)(cid:52)(cid:48) (cid:45)(cid:56)(cid:46)(cid:48)(cid:57) (cid:52)(cid:46)(cid:52)(cid:48) (cid:48)(cid:46)(cid:48)(cid:48) (cid:56)(cid:49)(cid:46)(cid:57)(cid:55) (cid:48)(cid:46)(cid:50)(cid:57)
-(cid:49)(cid:52) (cid:49)(cid:50)(cid:53)(cid:48)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:52)(cid:52) (cid:51)(cid:50)(cid:53)(cid:46)(cid:50)(cid:57) (cid:49)(cid:50)(cid:52)(cid:57)(cid:46)(cid:57)(cid:52) (cid:52)(cid:46)(cid:50)(cid:48) (cid:45)(cid:55)(cid:46)(cid:57)(cid:56) (cid:52)(cid:46)(cid:50)(cid:48) (cid:48)(cid:46)(cid:50)(cid:52) (cid:49)(cid:54)(cid:48)(cid:46)(cid:56)(cid:56) (cid:48)(cid:46)(cid:54)(cid:57)
-(cid:49)(cid:53) (cid:49)(cid:51)(cid:52)(cid:50)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:56)(cid:56) (cid:51)(cid:53)(cid:49)(cid:46)(cid:54)(cid:54) (cid:49)(cid:51)(cid:52)(cid:49)(cid:46)(cid:57)(cid:52) (cid:51)(cid:46)(cid:57)(cid:48) (cid:45)(cid:54)(cid:46)(cid:57)(cid:57) (cid:51)(cid:46)(cid:57)(cid:48) (cid:48)(cid:46)(cid:52)(cid:56) (cid:50)(cid:56)(cid:46)(cid:54)(cid:54) (cid:48)(cid:46)(cid:53)(cid:55)
-(cid:49)(cid:54) (cid:49)(cid:52)(cid:51)(cid:51)(cid:46)(cid:48)(cid:48) (cid:57)(cid:49)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:57)(cid:50) (cid:52)(cid:46)(cid:49)(cid:52) (cid:49)(cid:52)(cid:51)(cid:50)(cid:46)(cid:57)(cid:51) (cid:51)(cid:46)(cid:56)(cid:53) (cid:45)(cid:53)(cid:46)(cid:53)(cid:55) (cid:51)(cid:46)(cid:56)(cid:53) (cid:48)(cid:46)(cid:48)(cid:52) (cid:49)(cid:51)(cid:46)(cid:55)(cid:49) (cid:48)(cid:46)(cid:50)(cid:50)
-(cid:49)(cid:55) (cid:49)(cid:53)(cid:50)(cid:56)(cid:46)(cid:48)(cid:48) (cid:57)(cid:53)(cid:46)(cid:48)(cid:48) (cid:49)(cid:46)(cid:49)(cid:48) (cid:51)(cid:51)(cid:55)(cid:46)(cid:54)(cid:48) (cid:49)(cid:53)(cid:50)(cid:55)(cid:46)(cid:57)(cid:49) (cid:51)(cid:46)(cid:53)(cid:54) (cid:45)(cid:51)(cid:46)(cid:57)(cid:54) (cid:51)(cid:46)(cid:53)(cid:54) (cid:48)(cid:46)(cid:49)(cid:57) (cid:45)(cid:50)(cid:55)(cid:46)(cid:57)(cid:52) (cid:48)(cid:46)(cid:53)(cid:50)
-(cid:49)(cid:56) (cid:49)(cid:54)(cid:50)(cid:51)(cid:46)(cid:48)(cid:48) (cid:57)(cid:53)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:56)(cid:52) (cid:51)(cid:53)(cid:52)(cid:46)(cid:55)(cid:51) (cid:49)(cid:54)(cid:50)(cid:50)(cid:46)(cid:57)(cid:48) (cid:51)(cid:46)(cid:49)(cid:53) (cid:45)(cid:50)(cid:46)(cid:52)(cid:51) (cid:51)(cid:46)(cid:49)(cid:53) (cid:45)(cid:48)(cid:46)(cid:50)(cid:55) (cid:49)(cid:56)(cid:46)(cid:48)(cid:51) (cid:48)(cid:46)(cid:52)(cid:49)
-(cid:49)(cid:57) (cid:49)(cid:55)(cid:49)(cid:57)(cid:46)(cid:48)(cid:48) (cid:57)(cid:54)(cid:46)(cid:48)(cid:48) (cid:49)(cid:46)(cid:49)(cid:48) (cid:51)(cid:52)(cid:54)(cid:46)(cid:55)(cid:52) (cid:49)(cid:55)(cid:49)(cid:56)(cid:46)(cid:56)(cid:56) (cid:50)(cid:46)(cid:56)(cid:55) (cid:45)(cid:48)(cid:46)(cid:56)(cid:51) (cid:50)(cid:46)(cid:56)(cid:55) (cid:48)(cid:46)(cid:50)(cid:55) (cid:45)(cid:56)(cid:46)(cid:51)(cid:50) (cid:48)(cid:46)(cid:51)(cid:48)
-(cid:50)(cid:48) (cid:49)(cid:56)(cid:49)(cid:51)(cid:46)(cid:48)(cid:48) (cid:57)(cid:52)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:56)(cid:52) (cid:51)(cid:53)(cid:52)(cid:46)(cid:53)(cid:54) (cid:49)(cid:56)(cid:49)(cid:50)(cid:46)(cid:56)(cid:55) (cid:50)(cid:46)(cid:54)(cid:48) (cid:48)(cid:46)(cid:55)(cid:52) (cid:50)(cid:46)(cid:54)(cid:48) (cid:45)(cid:48)(cid:46)(cid:50)(cid:56) (cid:56)(cid:46)(cid:51)(cid:50) (cid:48)(cid:46)(cid:51)(cid:49)
-(cid:50)(cid:49) (cid:49)(cid:57)(cid:48)(cid:56)(cid:46)(cid:48)(cid:48) (cid:57)(cid:53)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:54)(cid:51) (cid:50)(cid:52)(cid:53)(cid:46)(cid:52)(cid:51) (cid:49)(cid:57)(cid:48)(cid:55)(cid:46)(cid:56)(cid:55) (cid:50)(cid:46)(cid:48)(cid:54) (cid:49)(cid:46)(cid:50)(cid:49) (cid:50)(cid:46)(cid:48)(cid:54) (cid:45)(cid:48)(cid:46)(cid:50)(cid:50) (cid:45)(cid:49)(cid:49)(cid:52)(cid:46)(cid:56)(cid:55) (cid:49)(cid:46)(cid:50)(cid:55)
-(cid:50)(cid:50) (cid:50)(cid:48)(cid:48)(cid:51)(cid:46)(cid:48)(cid:48) (cid:57)(cid:53)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:55)(cid:56) (cid:50)(cid:54)(cid:55)(cid:46)(cid:53)(cid:56) (cid:50)(cid:48)(cid:48)(cid:50)(cid:46)(cid:56)(cid:54) (cid:48)(cid:46)(cid:57)(cid:52) (cid:48)(cid:46)(cid:57)(cid:55) (cid:48)(cid:46)(cid:57)(cid:52) (cid:48)(cid:46)(cid:49)(cid:54) (cid:50)(cid:51)(cid:46)(cid:51)(cid:50) (cid:48)(cid:46)(cid:51)(cid:50)
-(cid:50)(cid:51) (cid:50)(cid:48)(cid:57)(cid:55)(cid:46)(cid:48)(cid:48) (cid:57)(cid:52)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:55)(cid:53) (cid:50)(cid:56)(cid:51)(cid:46)(cid:50)(cid:55) (cid:50)(cid:48)(cid:57)(cid:54)(cid:46)(cid:56)(cid:53) (cid:45)(cid:48)(cid:46)(cid:51)(cid:48) (cid:49)(cid:46)(cid:48)(cid:56) (cid:45)(cid:48)(cid:46)(cid:51)(cid:48) (cid:45)(cid:48)(cid:46)(cid:48)(cid:51) (cid:49)(cid:54)(cid:46)(cid:54)(cid:57) (cid:48)(cid:46)(cid:50)(cid:50)
-(cid:50)(cid:52) (cid:50)(cid:49)(cid:56)(cid:57)(cid:46)(cid:48)(cid:48) (cid:57)(cid:50)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:56)(cid:56) (cid:51)(cid:53)(cid:56)(cid:46)(cid:52)(cid:51) (cid:50)(cid:49)(cid:56)(cid:56)(cid:46)(cid:56)(cid:52) (cid:45)(cid:48)(cid:46)(cid:57)(cid:49) (cid:49)(cid:46)(cid:57)(cid:51) (cid:45)(cid:48)(cid:46)(cid:57)(cid:49) (cid:48)(cid:46)(cid:49)(cid:52) (cid:56)(cid:49)(cid:46)(cid:55)(cid:48) (cid:49)(cid:46)(cid:48)(cid:57)
-(cid:50)(cid:53) (cid:50)(cid:50)(cid:56)(cid:52)(cid:46)(cid:48)(cid:48) (cid:57)(cid:53)(cid:46)(cid:48)(cid:48) (cid:49)(cid:46)(cid:48)(cid:49) (cid:51)(cid:51)(cid:56)(cid:46)(cid:56)(cid:51) (cid:50)(cid:50)(cid:56)(cid:51)(cid:46)(cid:56)(cid:51) (cid:45)(cid:49)(cid:46)(cid:50)(cid:51) (cid:51)(cid:46)(cid:52)(cid:52) (cid:45)(cid:49)(cid:46)(cid:50)(cid:51) (cid:48)(cid:46)(cid:49)(cid:52) (cid:45)(cid:50)(cid:48)(cid:46)(cid:54)(cid:51) (cid:48)(cid:46)(cid:51)(cid:54)
-(cid:50)(cid:54) (cid:50)(cid:51)(cid:55)(cid:56)(cid:46)(cid:48)(cid:48) (cid:57)(cid:52)(cid:46)(cid:48)(cid:48) (cid:48)(cid:46)(cid:57)(cid:50) (cid:49)(cid:48)(cid:49)(cid:46)(cid:56)(cid:55) (cid:50)(cid:51)(cid:55)(cid:55)(cid:46)(cid:56)(cid:50) (cid:45)(cid:48)(cid:46)(cid:55)(cid:57) (cid:52)(cid:46)(cid:48)(cid:53) (cid:45)(cid:48)(cid:46)(cid:55)(cid:57) (cid:45)(cid:48)(cid:46)(cid:49)(cid:48) (cid:45)(cid:50)(cid:53)(cid:50)(cid:46)(cid:48)(cid:57) (cid:49)(cid:46)(cid:56)(cid:49)
-(cid:50)(cid:55) (cid:50)(cid:52)(cid:55)(cid:49)(cid:46)(cid:48)(cid:48) (cid:57)(cid:51)(cid:46)(cid:48)(cid:48) (cid:49)(cid:46)(cid:48)(cid:49) (cid:49)(cid:48)(cid:55)(cid:46)(cid:52)(cid:49) (cid:50)(cid:52)(cid:55)(cid:48)(cid:46)(cid:56)(cid:49) (cid:48)(cid:46)(cid:55)(cid:50) (cid:51)(cid:46)(cid:54)(cid:53) (cid:48)(cid:46)(cid:55)(cid:50) (cid:48)(cid:46)(cid:49)(cid:48) (cid:53)(cid:46)(cid:57)(cid:54) (cid:48)(cid:46)(cid:49)(cid:52)
-(cid:50)(cid:56) (cid:50)(cid:53)(cid:54)(cid:54)(cid:46)(cid:48)(cid:48) (cid:57)(cid:53)(cid:46)(cid:48)(cid:48) (cid:49)(cid:46)(cid:48)(cid:53) (cid:49)(cid:48)(cid:54)(cid:46)(cid:54)(cid:50) (cid:50)(cid:53)(cid:54)(cid:53)(cid:46)(cid:56)(cid:48) (cid:50)(cid:46)(cid:51)(cid:54) (cid:51)(cid:46)(cid:49)(cid:54) (cid:50)(cid:46)(cid:51)(cid:54) (cid:48)(cid:46)(cid:48)(cid:52) (cid:45)(cid:48)(cid:46)(cid:56)(cid:51) (cid:48)(cid:46)(cid:48)(cid:52)
+        
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
 gyrodata
 Gyrodata Incorporated
 301 Thelma Dr. #413
@@ -568,6 +568,19 @@ Kin Dowk MWD Coordinator Gyrodata, Inc.
 Signature Title Company
 *All measurements recorded with a manned MWD Survey Tool.
 Serving the Worldwide Energy Industry with Precision Survey Instrumentation
+A Gyrodata Directional Survey
+FINAL DEFINITIVE COPY
+for
+OASIS PETROLEUM
+Lease: Kline Federal Well: 5300 41-18 12TX, 8 3/4" Case, 6" Hole
+Location: Nabors #486, McKenzie County, North Dakota
+Job Number: RD0814M180 Proposed Well Direction: 90.000 deg
+Run Date: 03 Mar 2015 Depth Reference: Rotary Table
+Surveyor: Richard Bradbury Air Gap (RKB to Ground / RKB to MSL): 25.00
+Calculation Method: MINIMUM CURVATURE Ground Elevation (Ground to MSL / MSL to Mudline): 2057.00
+Survey Latitude: 48.068791 deg. N Longitude: 103.602346 deg. W Vertical Section Calculated from Well Head Location
+Magnetic Declination: 8.2700 deg Closure Calculated from Well Head Location
+Total Correction: 8.2700 deg Horizontal Coordinates Calculated from Well Head Location
 SUNDRY NOTICES AND REPORTS ON WELLS - F
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
 OIL AND GAS DIVISION jw;ill File No.
@@ -660,6 +673,100 @@ Tite = Date
 Regulatory Assistant July 28, 2014 T'Hetroleum Resource Specialist
 Email Address
 hmccowan@oasispetroleum.com
+QAsis Ryan Directional Services
+QpseRYaAnNe eee TIONA!*
+Planning Report
+‘ANABORS COMPANY
+Database: EDM 5000.1 Single User Db
+‘Company: Oasis Petroleum Local Co-ordinate Reference: Well Kline Federal 5300 41-18 12TX
+Project: Indian Hills WELL @ 2082.0usft (Original Well Elev)
+Site: 153N-100W-17/18 WELL @ 2082.0usft (Original Well Elev)
+True
+Wel Kline Federal 5300 41-18 12TX Survey Calculation Method: Minimum Curvature
+Wellbore: Kline Federal 5300 41-18 12TX
+Design: Design #2
+Project Indian Hills
+Map System: US State Plane 1983 ‘System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northem Zane
+Site 153N-100W-17/18
+Site Position: Northing: 408,962.44usft Latitude: 48° 4' 45.380 N
+From: Lat/Long Easting: 1,210,229.18 usft Longitude: 103° 36' 10,38W0_
+Position Uncertainty: O.0usft Slot Radius: 13-316" Grid Convergence: -2.31°
+Well Kline Federal 5300 41-18 12TX
+Well Position +NIS -3,833.2usft Northing: 405,136.63 usft —Latitude: 48° 4'7.550N
++E/W 106.6 usft Easting: 1,209,968.21 usft —_—_Longitude: 103° 36' 11.950
+Position Uncertainty 20usft Wellhead Elevation: Ground Level: 2,087.0 usft
+Wellbore Kline Federal 5300 41-18 12TX
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+° “ (nT)
+IGRF2010 5/23/2014 8.27 72.99 56,437
+Design Design #2
+Audit Notes:
+Version: Pha PROTOTYPE Tle On Depth: 0.0
+Vertical Section: Depth From (TVD) +NIS +E Direction
+(usft) (usft) (usft) iy)
+0.0 0.0 0.0 80.00
+Plan Sections
+Measured Vertical Dogleg Build Turn
+Depth — Inclination Azimuth Depth +NS +EcW Rate Rate FO
+(usft) i) a) (ustt) (ustt) (ust) —(*Modusft) —("/400ustt) ("100usft) ° Target
+0.0 0.00 0.00 0.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,200.0 0.00 0.00 2,200.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,216.7 0.50 90.00 2,216.7 0.0 O41 3.00 3.00 0.00 90.00
+7,926.7 0.50 90.00 7,926.4 0.0 49.9 0.00 0.00 0.00 0.00
+7,943.3 0.00 0.00 7,943.1 0.0 50.0 3.00 -3.00 0.00 180.00
+10,3548 0.00 0.00 © 10,354.6 0.0 50.0 0.00 0.00 0.00 0.00
+11,104.0 89,90 140,00 10,632.0 -163.0 497.9 12,00 12.00 0.00 110.00
+11,680.4 89.90 89.82 10,833.1 -261.7 1,062.8 3.50 0.00 -3.50 -90.02
+20,687.7 89,90 89.82 — 10,848.7 -234.0 0,050.0 0.00 0.00 0.00 0.00 5300 41-18 12TX Pat
+6/17/2014 1.21:22PM Page 2 COMPASS 5000.1 Build 72
+Ryan Directional Services
+ay RsYaAuN eee:CTIONAL
+Planning Report
+RNABORS COMPANY
+Database: EDM 5000.1 Single User Db Local Co-ordinate Reference: Well Kline Federal 5300 41-18 12TX
+‘Company: Oasis Petroleum TVD Reference: WEL@L 2082.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WEL@L 2082. 0usft (Original Well Elev)
+Site: 153N-100W-17/18, North Referenct True
+Well: Kline Federal 5300 41-18 12TX Survey Calculation Method: Minimum Curvature
+Wallbore: Kline Federal 5300 41-18 12TX
+Design: Design #2
+Planned Survey
+Measured Vertical Vertical Dogleg Bulls Tum
+Depth Inclination Azimuth Depth +NIS +ELW Section Rate Rato Rate
+(usft) ty) ") (usft) (usft) (usft) (usft) (*MOOusft) —_(*/400usft) (100usft)
+19,100.0 29.90 89.82 10,846.0 238.8 8482.3 8,482.3 0.00 0.00 0.00
+19,200.0 88.90 89,82 10,846.1 -238.5 85823 8,582.3 0.00 0.00 0.00
+19,300.0 89,90 89.82 10,846.3 -238.2 8982.3 8,682.3 0.00 0.00 0.00
+19,400,0 89,90 89.82 10,848.5 -237.8 8,782.3 8,782.3 0.00 0.00 0.00
+18,500.0 89.90 89.82 10,848.7 237.6 88823 8,882.3 0.00 0.00 0.00
+19,6000 89,90 89.82 10,846.8 237.3 89823 6,982.3 0.00 0.00 0.00
+19,700.0 89.90 89.82 10,847.0 -237.0 9,082.3 9,082.3 0.00 0.00 0.00
+19,800.0 89,90 89.82 10,847.2 -236.7 9,182.3 9,182.3 0.00 0.00 0.00
+19,900.0 89.90 89.82 10,847.4 -238.4 9,282.3 9,282.3 0.00 0.00 0.00
+20,000.0 89.90 80.82 10,847.5 -236.1 9,382.3 9,382.3 0.00 0.00 0,00
+20,100.0 89,90 69.82 10,847.7 -235.8 94823 9,482.3 0.00 0.00 0.00
+20,200.0 89.90 89,82 10,847.9 -235.4 95823 9,582.3 0.00 0.00 0.00
+20,300.0 89.90 89.82 10,848.1 -235.1 9,682.3 9,882.3 0.00 0.00 0.00
+20,400.0 89.90 89.82 10,848.2 234.8 9,782.3 9,782.9 0.00 0.00 0.00
+20,500.0 89,90 89.62 10,8484 234.5 9,882.3 9,882.9 0.00 0.00 0.00
+20,600.0 89,90 89.62 10,848.6 234.2 9,982.3 9,982.3 0.00 0.00 0.00
+20,687 7 89,90 89,82 10,848.7 234.0 10,050.0 10,050.90 0.00 0,00 0.00
+5300 41-18 12TX PBHL
+Design Targets
+Target Name
+-hitimiss target -DipAngle DipDir. + TVD +NI-S +E Northing Easting
++ Shape ° i) (ust) (usft) (usft) (usft) (ueft) Latitude Longitude
+5300 41-18 12TX PBHL 0.00 0.00 10,848.7 -234.0 — 10,050.0 404,497.87 1,220,000.62 48°4'5.214N 103° 33° 43,972 W
+- plan hits target center
+=Point
+Casing Points
+Measured Vertical Casing Hole
+Depth Depth Diameter Diameter
+(usft) {usft) Name “" 1)
+11,189.0 10,832.27" 7 8-3/4
+6/17/2014 1:21:22PM Page 8 COMPASS 5000.1 Build 72
 Oasis Petroleum
 Well Summary
 Kline Federal 5300 41-18 12TX
@@ -850,7 +957,7 @@ Tittle = 7 Date =
 [Regulatory Assistant May 29, 2014 “e Stephen Fried
 Email Address \____Geolog—i_s_t
 hmccowan@oasispetroleum.com
-(cid:36)(cid:51)(cid:51)(cid:47)(cid:44)(cid:38)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:41)(cid:50)(cid:53)(cid:3)(cid:51)(cid:40)(cid:53)(cid:48)(cid:44)(cid:55)(cid:3)(cid:55)(cid:50)(cid:3)(cid:39)(cid:53)(cid:44)(cid:47)(cid:47)(cid:3)(cid:43)(cid:50)(cid:53)(cid:44)(cid:61)(cid:50)(cid:49)(cid:55)(cid:36)(cid:47)(cid:3)(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:16)(cid:3)(cid:41)(cid:50)(cid:53)(cid:48)(cid:3)(cid:20)(cid:43)
+
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
 OIL AND GAS DIVISION
 600 EAST BOULEVARD DEPT 405
@@ -867,33 +974,33 @@ Address City State Zip Code
 Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
 ✔ ✔
 permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
-(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:11)(cid:44)(cid:73)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:82)(cid:81)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:82)(cid:86)(cid:72)(cid:71)(cid:15)(cid:3)enter data for additional laterals on page 2)
+enter data for additional laterals on page 2)
 Well Name Well Number
 KLINEFEDERAL 530041-1812TX
 Surface Footages Qtr-Qtr Section Township Range County
-434 F S L 237 F W L LOT4 18 153 (cid:49) 100 (cid:58) McKenzie
+434 F S L 237 F W L LOT4 18 153  100  McKenzie
 Longstring Casing Point Footages Qtr-Qtr Section Township Range County
-244 F S L 816 F W L LOT4 18 153 (cid:49) 100 (cid:58) McKenzie
+244 F S L 816 F W L LOT4 18 153  100  McKenzie
 Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
-190 S From WH 579 E From WH 105.6 (cid:158) 11189 Feet MD 10832 Feet TVD
+190 S From WH 579 E From WH 105.6  11189 Feet MD 10832 Feet TVD
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-200 F S L 202 F E L LOT4 17 153 (cid:49) 100 (cid:58) McKenzie
+200 F S L 202 F E L LOT4 17 153  100  McKenzie
 Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
-234 S From WH 10050 E From WH 10355 Feet MD 90 (cid:158) 20668 Feet MD 10849 Feet TVD
+234 S From WH 10050 E From WH 10355 Feet MD 90  20668 Feet MD 10849 Feet TVD
 Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
-48 (cid:131) 04 (cid:10) 7.55(cid:5) -103 (cid:131) 36 (cid:10) 11.95 (cid:5) NAD83 SpacingUnit: Sec17,18,19,&20T153N-R100W
+48  04  7.55 -103  36  11.95  NAD83 SpacingUnit: Sec17,18,19,&20T153N-R100W
 Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
 2056 Feet Above S.L. 2560 0 FeetN/S 200 FeetFEe/eWt 23752
 North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
 10544 Feet 9306 Feet 10527 Feet 10520 Feet
 Objective Horizons Pierre Shale Top
 ThreeForksB1 1972
-Proposed Size Weight Depth Cement Volume (cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:54)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:75)(cid:82)(cid:79)(cid:72)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:72)(cid:71)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:73)(cid:85)(cid:72)(cid:86)(cid:75)(cid:3)(cid:90)(cid:68)(cid:87)(cid:72)(cid:85)
-Surface Casing 9 (cid:16) 5/8 (cid:5) 36 Lb./Ft. 2072 Feet 749 Sacks (cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:87)(cid:82)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:17)
+Proposed Size Weight Depth Cement Volume 
+Surface Casing 9  5/8  36 Lb./Ft. 2072 Feet 749 Sacks 
 Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
-Longstring Casing 7 (cid:16) (cid:5) 29/32 Lb./Ft. 11189Feet MD 10832 Feet TVD 760 Sacks 3971 Feet 5471 Feet
+Longstring Casing 7   29/32 Lb./Ft. 11189Feet MD 10832 Feet TVD 760 Sacks 3971 Feet 5471 Feet
 BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:69)(cid:82)(cid:89)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:39)(cid:68)(cid:78)(cid:82)(cid:87)(cid:68)(cid:3)(cid:42)(cid:85)(cid:82)(cid:88)(cid:83)(cid:3)(cid:54)(cid:68)(cid:81)(cid:71)(cid:17)
+
 9238 Feet
 Proposed Logs
 TripleCombo:KOPtoKibbyGR/RestoBSCGRtosurfCNDthroughtheDakota
@@ -901,57 +1008,57 @@ Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Late
 Invert SaltWaterGel
 Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
 MWD Every 100 Feet 30 Feet 90 Feet Ryan
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:36)(cid:3)(cid:42)(cid:68)(cid:80)(cid:80)(cid:68)(cid:3)(cid:53)(cid:68)(cid:92)(cid:3)(cid:79)(cid:82)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:87)(cid:82)(cid:3)(cid:74)(cid:85)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:68)(cid:3)(cid:38)(cid:37)(cid:47)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:82)(cid:81)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:76)(cid:73)(cid:3)(cid:86)(cid:72)(cid:87)(cid:17)
-(cid:54)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:79)(cid:72)(cid:68)(cid:86)(cid:87)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:22)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:69)(cid:88)(cid:76)(cid:79)(cid:71)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:28)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:17)(cid:3)(cid:3)(cid:48)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)
-(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:3)(cid:90)(cid:75)(cid:72)(cid:81)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:76)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:76)(cid:81)(cid:74)(cid:18)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:76)(cid:81)(cid:74)(cid:3)(cid:88)(cid:81)(cid:76)(cid:87)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:86)(cid:72)(cid:87)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
-(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:70)(cid:72)(cid:81)(cid:68)(cid:85)(cid:76)(cid:82)(cid:86)(cid:29)(cid:3)(cid:3)(cid:20)(cid:12)(cid:3)(cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:81)(cid:74)(cid:79)(cid:72)(cid:3)(cid:69)(cid:72)(cid:87)(cid:90)(cid:72)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:83)(cid:72)(cid:70)(cid:87)(cid:76)(cid:89)(cid:72)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:20)(cid:19)(cid:3)(cid:71)(cid:72)(cid:74)(cid:85)(cid:72)(cid:72)(cid:86)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:72)(cid:86)(cid:86)(cid:30)(cid:3)(cid:82)(cid:85)(cid:3)(cid:21)(cid:12)(cid:3)(cid:44)(cid:73)(cid:3)(cid:44)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:92)(cid:3)(cid:86)(cid:87)(cid:68)(cid:81)(cid:71)(cid:68)(cid:85)(cid:71)
-(cid:80)(cid:72)(cid:87)(cid:75)(cid:82)(cid:71)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:84)(cid:88)(cid:76)(cid:83)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:88)(cid:87)(cid:76)(cid:79)(cid:76)(cid:93)(cid:72)(cid:71)(cid:17)(cid:3)(cid:3)(cid:38)(cid:82)(cid:81)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:70)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:73)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:82)(cid:85)(cid:71)(cid:72)(cid:85)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:17)
-(cid:3)
-(cid:44)(cid:73)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:15)(cid:3)(cid:68)(cid:3)(cid:21)(cid:131)(cid:3)(cid:48)(cid:58)(cid:39)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:69)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)
-(cid:69)(cid:82)(cid:85)(cid:72)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:76)(cid:86)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:46)(cid:50)(cid:51)(cid:3)(cid:87)(cid:82)(cid:3)(cid:55)(cid:39)(cid:17)
-(cid:53)(cid:40)(cid:52)(cid:56)(cid:44)(cid:53)(cid:40)(cid:39)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:29)(cid:3)(cid:3)(cid:38)(cid:72)(cid:85)(cid:87)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:82)(cid:85)(cid:10)(cid:86)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:74)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)(cid:87)(cid:82)(cid:83)(cid:86)(cid:15)(cid:3)proposed mud/cementing plan,
+
+
+
+
+
+
+
+
+proposed mud/cementing plan,
 directionalplot/plan,$100fee.
-(cid:54)(cid:72)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:21)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:69)(cid:79)(cid:82)(cid:70)(cid:78)(cid:17)
+
 Page 2
 SFN 54269 (08-2005)
-(cid:38)(cid:50)(cid:48)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:15)(cid:3)(cid:36)(cid:39)(cid:39)(cid:44)(cid:55)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:15)(cid:3)(cid:36)(cid:49)(cid:39)(cid:18)(cid:50)(cid:53)(cid:3)(cid:47)(cid:44)(cid:54)(cid:55)(cid:3)(cid:50)(cid:41)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)
+
 Documentsforwardedbyemail:Drillplanwithdrillingfluids,WellSummarywithcasing/cementplans,DirectionalPlan&Plot,Plats
 Lateral 2
 KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 3
 KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 4
 KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 5
 KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Date
 I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
 5 / 29 / 2014
@@ -959,9 +1066,9 @@ Signature Printed Name Title
 ePermit
 HeatherMcCowan RegulatoryAssistant
 Email Address(es)
-(cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60) (cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60)
+ 
 Permit and File Number API Number Date Approved
-28658 (cid:22)(cid:22) (cid:16) 053 (cid:16) 06030 6 / 17 / 2014
+28658   053  06030 6 / 17 / 2014
 Field By
 BAKER NathanielErbele
 Pool Permit Type Title

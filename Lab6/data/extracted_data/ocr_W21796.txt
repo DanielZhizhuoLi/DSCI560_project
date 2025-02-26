@@ -768,6 +768,67 @@ Tithe Date ~
 ER me ag ilu Al da dt ro esr sy & Safety Assistant April 11, 2012 Title f
 LF
 rgriggs@sm-energy.com
+Ryan Energy Technologies
+COMPLETION REPORT
+Company: SM Energy Company Date: 4/10/2012 Time: 09:17:54 Page: 1
+Field: McKenzie Co., ND Co-ordinate(NE) Reference: Site: Dahl Federal 2-15H, True North
+Site: Dahl Federal 2-15H Vertical (TVD) Reference: SITE 2072.0
+Well: 2-15H Section (VS) Reference: Well (0.00N,0.00E,356.86Azi)
+Wellpath: OH Survey Calculation Method: Minimum Curvature Db: Sybase
+Field: McKenzie Co., ND
+Map System: U S State Plane Coordinate System 1983 Map Zone: North Dakota, Northern Zone
+Geo Datum: G RS 1980 Coordinate System: Site Centre
+Sys Datum: Mean Sea Level Geomagnetic Model: IGRF2010
+Site: Dahl Federal 2-15H
+Sec. 15-T153N-R101W
+700' FNL & 2026' FEL
+Site Position: Northing: 409878.61 ft Latitude: 48 4 49.250 N
+From: Geographic Easting: 1197372.78 ft Longitude: 103 39 20.150W
+Position Uncertainty: 0.00 ft North Reference: True
+Ground Level: 2052.00 ft Grid Convergence: -2.35 deg
+Well: 2-15H Slot Name:
+Well Position: +N/-S 0.00 ft Northing: 409878.61 ft Latitude: 48 4 49.250 N
++E/-W 0.00 ft Easting : 1197372.78 ft Longitude: 103 39 20.150W
+Position Uncertainty: 0.00 ft
+Wellpath: OH Drilled From: Surface
+Tie-on Depth: 0.00 ft
+Current Datum: SITE Height 2072.00 ft Above System Datum: Mean Sea Level
+Magnetic Data: 2/14/2012 Declination: 8.67 deg
+Field Strength: 56697 nT Mag Dip Angle: 73.10 deg
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+ft ft ft deg
+0.00 0.00 0.00 356.86
+Survey Program for Definitive Wellpath
+Date: 4/6/2012 Validated: No Version: 0
+Actual From To Survey Toolcode Tool Name
+ft ft
+2080.00 20924.00 Survey #1 (2080.00-20924.00) Ryan MWD
+Survey
+MD Incl TVD VS Azim N/S E/W Clsr Dist. Clsr Azi. Dog Leg Tool
+ft deg ft ft deg ft ft ft deg deg/100ft
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 TIE LINE
+2080.00 0.00 2080.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 Ryan MWD
+2184.00 0.60 2184.00 0.31 301.90 0.29 -0.46 0.54 301.90 0.58 Ryan MWD
+2280.00 1.80 2279.98 2.00 335.30 1.92 -1.52 2.45 321.70 1.40 Ryan MWD
+2373.00 3.30 2372.88 5.90 338.60 5.74 -3.11 6.53 331.59 1.62 Ryan MWD
+2468.00 4.10 2467.68 11.84 346.50 11.59 -4.90 12.58 337.10 1.00 Ryan MWD
+2563.00 4.10 2562.44 18.57 351.90 18.26 -6.17 19.27 341.33 0.41 Ryan MWD
+2658.00 4.00 2657.20 25.26 358.10 24.93 -6.76 25.83 344.84 0.47 Ryan MWD
+2753.00 4.10 2751.97 31.97 359.90 31.64 -6.87 32.37 347.74 0.17 Ryan MWD
+2848.00 4.00 2846.73 38.62 7.20 38.32 -6.46 38.86 350.43 0.55 Ryan MWD
+2943.00 3.90 2941.50 45.02 10.00 44.79 -5.49 45.12 353.02 0.23 Ryan MWD
+3038.00 4.00 3036.28 51.41 8.70 51.25 -4.42 51.44 355.07 0.14 Ryan MWD
+3133.00 3.90 3131.05 57.80 9.90 57.70 -3.37 57.80 356.66 0.14 Ryan MWD
+3228.00 3.70 3225.84 63.92 11.00 63.90 -2.23 63.93 358.00 0.22 Ryan MWD
+3323.00 3.50 3320.66 69.73 9.40 69.77 -1.17 69.78 359.04 0.24 Ryan MWD
+3418.00 4.00 3415.45 75.85 3.00 75.94 -0.52 75.94 359.61 0.69 Ryan MWD
+3513.00 3.80 3510.23 82.29 0.70 82.39 -0.31 82.39 359.78 0.27 Ryan MWD
+3608.00 3.40 3605.05 88.20 7.10 88.34 0.08 88.34 0.05 0.60 Ryan MWD
+3703.00 3.80 3699.86 94.09 348.50 94.22 -0.20 94.22 359.88 1.29 Ryan MWD
+3798.00 3.70 3794.66 100.22 346.80 100.29 -1.53 100.30 359.13 0.16 Ryan MWD
+3893.00 3.30 3889.48 105.94 347.60 105.94 -2.82 105.98 358.48 0.42 Ryan MWD
+3988.00 3.80 3984.30 111.66 340.90 111.59 -4.43 111.67 357.72 0.68 Ryan MWD
+4084.00 3.00 4080.13 117.17 344.30 117.01 -6.16 117.17 356.99 0.86 Ryan MWD
 @ %
 SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
@@ -1089,7 +1150,7 @@ BILLINGS MT mor’ gatos) | 04 7-40 //
 ee ——— RANDY CARLSON " LELLE EO
 DRILLING MANAGER October 18, 2011 m Richard A. Suggs
 Geologist
-(cid:9)99=(cid:6)(cid:11)(cid:9)(cid:10)(cid:6)8(cid:14)(cid:8)?8(cid:2)(cid:8)9(cid:3)(cid:2)(cid:13)(cid:6)(cid:10)(cid:8)(cid:10)8(cid:8)(cid:7)(cid:2)(cid:6)==(cid:8)(cid:12)8(cid:2)(cid:6)A8(cid:14)(cid:10)(cid:9)=(cid:8)3(cid:3)==(cid:8)B(cid:8)?8(cid:2)(cid:13)(cid:8)1(cid:12)
+99=8?898==8A8=3==B?81
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
 OIL AND GAS DIVISION
 600 EAST BOULEVARD DEPT 405
@@ -1106,33 +1167,33 @@ P.O.Box7168 Billings MT 59103-7168
 Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
 ✔ ✔
 permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
-3(cid:3)==(cid:8)(cid:6)(cid:14)?8(cid:2)(cid:13)(cid:9)(cid:10)(cid:6)8(cid:14)(cid:8)@(cid:6)(cid:21)(cid:8)%(cid:27)(cid:18)(cid:17)(cid:8)(cid:19)!(cid:31)#(cid:8)(cid:27)#(cid:17)(cid:8)(cid:30)(cid:31)(cid:19)(cid:17)(cid:18)(cid:31)(cid:30)(cid:8)(cid:29)(cid:18)(cid:27)(cid:29)(cid:27)(cid:23)(cid:17)(cid:22) (cid:8)enter data for additional laterals on page 2)
+3==?88@%!## enter data for additional laterals on page 2)
 Well Name Well Number
 DAHLFEDERAL 2-15H
 Surface Footages Qtr-Qtr Section Township Range County
-700 F N L 2026 F E L NWNE 15 153 (cid:14) 101 3 McKenzie
+700 F N L 2026 F E L NWNE 15 153  101 3 McKenzie
 Longstring Casing Point Footages Qtr-Qtr Section Township Range County
-219 F S L 2186 F E L SWSE 10 153 (cid:14) 101 3 McKenzie
+219 F S L 2186 F E L SWSE 10 153  101 3 McKenzie
 Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
 919 N From WH 160 WFrom WH 340 > 11008 Feet MD 10697 Feet TVD
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-211 F N L 2417 F E L NWNE 3 153 (cid:14) 101 3 McKenzie
+211 F N L 2417 F E L NWNE 3 153  101 3 McKenzie
 Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
 10891 N From WH 391 WFrom WH 10305 Feet MD 360 > 21015 Feet MD 10697 Feet TVD
 Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
-48 6 04 (cid:28) 49.25: -103 6 39 (cid:28) 20.15 : NAD83 SPACINGUNIT:SEC3&10,T153N-R101W
+48 6 04  49.25: -103 6 39  20.15 : NAD83 SPACINGUNIT:SEC3&10,T153N-R101W
 Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
 2052 Feet Above S.L. 1280 200 FeetN/S 1220 FeetFEe/eWt 18012
 North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
 5281 Feet 5295 Feet 10402 Feet 10411 Feet
 Objective Horizons Pierre Shale Top
 BAKKEN 1950
-Proposed Size Weight Depth Cement Volume (cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:15)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)!(cid:27)(cid:30)(cid:17)(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:22)(cid:18)(cid:20)(cid:30)(cid:30)(cid:17)(cid:22)(cid:8),(cid:20)(cid:19)!(cid:8)(cid:21)(cid:18)(cid:17)(cid:23)!(cid:8),(cid:31)(cid:19)(cid:17)(cid:18)
-Surface Casing 9 B 5/8 : 36 Lb./Ft. 2050 Feet 703 Sacks (cid:31)#(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)$(cid:17)%(cid:17)#(cid:19)(cid:17)(cid:22)(cid:8)*(cid:31)$/(cid:8)(cid:19)(cid:27)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)-
+Proposed Size Weight Depth Cement Volume 8$!%*,!!,
+Surface Casing 9 B 5/8 : 36 Lb./Ft. 2050 Feet 703 Sacks #$$#&%*$%#*$/$-
 Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
 Longstring Casing 7 B 0 : 29-32 Lb./Ft. 11008Feet MD 10697 Feet TVD 773 Sacks 4900 Feet 5444 Feet
 BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
-(cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:6)#(cid:19)(cid:17)(cid:18)%(cid:17)(cid:22)(cid:20)(cid:31)(cid:19)(cid:17)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:27)#&(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)$(cid:17)%(cid:17)#(cid:19)(cid:17)(cid:22)(cid:8)(cid:31)*(cid:27)(cid:25)(cid:17)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:19)(cid:27)(cid:29)(cid:8)(cid:7)(cid:31)/(cid:27)(cid:19)(cid:31)(cid:8);(cid:18)(cid:27)(cid:24)(cid:29)(cid:8)(cid:15)(cid:31)#(cid:22)-
+8#%#&#&$#&#&%*$%#*!/;#-
 9183 Feet
 Proposed Logs
 MUDLOG{CBL&GRONCOMPLETION} SEEATTACHMENT
@@ -1140,20 +1201,20 @@ Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Late
 Invert Brine
 Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
 MWD Every 100 Feet 30 Feet 90 Feet RYANENERGY
-(cid:14)8(cid:10)(cid:3)(cid:16)(cid:8)(cid:9)(cid:8);(cid:31)%%(cid:31)(cid:8)(cid:2)(cid:31)(cid:26)(cid:8)(cid:30)(cid:27)&(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:18)(cid:24)#(cid:8)(cid:19)(cid:27)(cid:8)&(cid:18)(cid:27)(cid:24)#(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:21)(cid:31)$(cid:17)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:31)(cid:8)(cid:11)<=(cid:8)%(cid:24)(cid:23)(cid:19)(cid:8)*(cid:17)(cid:8)(cid:18)(cid:24)#(cid:8)(cid:27)#(cid:8)(cid:20)#(cid:19)(cid:17)(cid:18)%(cid:17)(cid:22)(cid:20)(cid:31)(cid:19)(cid:17)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:27)#&(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)$(cid:31)(cid:23)(cid:20)#&(cid:8)(cid:23)(cid:19)(cid:18)(cid:20)#&(cid:8)(cid:20)(cid:21)(cid:8)(cid:23)(cid:17)(cid:19)-
-(cid:15)(cid:24)(cid:18)(cid:25)(cid:17)(cid:26)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)(cid:18)(cid:17)'(cid:24)(cid:20)(cid:18)(cid:17)(cid:22)(cid:8)(cid:31)(cid:19)(cid:8)(cid:30)(cid:17)(cid:31)(cid:23)(cid:19)(cid:8)(cid:17)(cid:25)(cid:17)(cid:18)(cid:26)(cid:8)()(cid:8)(cid:21)(cid:17)(cid:17)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)*(cid:24)(cid:20)(cid:30)(cid:22)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:31)#(cid:22)(cid:8)(cid:17)(cid:25)(cid:17)(cid:18)(cid:26)(cid:8)+)(cid:8)(cid:21)(cid:17)(cid:17)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)(cid:30)(cid:31)(cid:19)(cid:17)(cid:18)(cid:31)(cid:30)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:27)(cid:21)(cid:8)(cid:31)(cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8),(cid:17)(cid:30)(cid:30)-(cid:8)(cid:8)(cid:13)(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)
-(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:20)(cid:17)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)#(cid:27)(cid:19)(cid:8)$(cid:27)#(cid:23)(cid:20)(cid:22)(cid:17)(cid:18)(cid:17)(cid:22)(cid:8),!(cid:17)#(cid:8)(cid:22)(cid:17)(cid:19)(cid:17)(cid:18)%(cid:20)#(cid:20)#&(cid:8)$(cid:27)%(cid:29)(cid:30)(cid:20)(cid:31)#$(cid:17)(cid:8),(cid:20)(cid:19)!(cid:8)(cid:19)!(cid:17)(cid:8)(cid:23)(cid:29)(cid:31)$(cid:20)#&.(cid:22)(cid:18)(cid:20)(cid:30)(cid:30)(cid:20)#&(cid:8)(cid:24)#(cid:20)(cid:19)(cid:8)*(cid:27)(cid:24)#(cid:22)(cid:31)(cid:18)(cid:26)(cid:8)(cid:23)(cid:17)(cid:19)*(cid:31)$/(cid:8)(cid:18)(cid:17)'(cid:24)(cid:20)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:17)0$(cid:17)(cid:29)(cid:19)(cid:8)(cid:20)#(cid:8)(cid:19)!(cid:17)(cid:8)
-(cid:21)(cid:27)(cid:30)(cid:30)(cid:27),(cid:20)#&(cid:8)(cid:23)$(cid:17)#(cid:31)(cid:18)(cid:20)(cid:27)(cid:23)(cid:16)(cid:8)(cid:8)12(cid:8)3!(cid:17)#(cid:8)(cid:19)!(cid:17)(cid:8)(cid:31)#&(cid:30)(cid:17)(cid:8)*(cid:17)(cid:19),(cid:17)(cid:17)#(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)*(cid:27)(cid:18)(cid:17)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:18)(cid:17)(cid:23)(cid:29)(cid:17)$(cid:19)(cid:20)(cid:25)(cid:17)(cid:8)*(cid:27)(cid:24)#(cid:22)(cid:31)(cid:18)(cid:26)(cid:8)(cid:20)(cid:23)(cid:8)1)(cid:8)(cid:22)(cid:17)&(cid:18)(cid:17)(cid:17)(cid:23)(cid:8)(cid:27)(cid:18)(cid:8)(cid:30)(cid:17)(cid:23)(cid:23)4(cid:8)(cid:27)(cid:18)(cid:8)52(cid:8)(cid:6)(cid:21)(cid:8)(cid:6)#(cid:22)(cid:24)(cid:23)(cid:19)(cid:18)(cid:26)(cid:8)(cid:23)(cid:19)(cid:31)#(cid:22)(cid:31)(cid:18)(cid:22)
-%(cid:17)(cid:19)!(cid:27)(cid:22)(cid:23)(cid:8)(cid:31)#(cid:22)(cid:8)(cid:17)'(cid:24)(cid:20)(cid:29)%(cid:17)#(cid:19)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)#(cid:27)(cid:19)(cid:8)(cid:24)(cid:19)(cid:20)(cid:30)(cid:20)"(cid:17)(cid:22)-(cid:8)(cid:8)(cid:11)(cid:27)#(cid:23)(cid:24)(cid:30)(cid:19)(cid:8)(cid:19)!(cid:17)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)$(cid:31)*(cid:30)(cid:17)(cid:8)(cid:21)(cid:20)(cid:17)(cid:30)(cid:22)(cid:8)(cid:27)(cid:18)(cid:22)(cid:17)(cid:18)(cid:8)(cid:21)(cid:27)(cid:18)(cid:8)(cid:17)0$(cid:17)(cid:29)(cid:19)(cid:20)(cid:27)#(cid:23)-
-(cid:8)
-(cid:6)(cid:21)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:20)(cid:17)(cid:23)(cid:8)(cid:31)(cid:18)(cid:17)(cid:8)(cid:18)(cid:17)'(cid:24)(cid:20)(cid:18)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)*(cid:17)(cid:8)$(cid:27)#(cid:23)(cid:20)(cid:22)(cid:17)(cid:18)(cid:17)(cid:22) (cid:8)(cid:31)(cid:8)56(cid:8)(cid:13)3(cid:7)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:26)(cid:8),(cid:20)(cid:30)(cid:30)(cid:8)*(cid:17)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)(cid:19)!(cid:17)(cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8)(cid:29)(cid:27)(cid:18)(cid:19)(cid:20)(cid:27)#(cid:8)(cid:27)(cid:21)(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)
-*(cid:27)(cid:18)(cid:17)-(cid:8)(cid:8)(cid:10)!(cid:20)(cid:23)(cid:8)%(cid:17)(cid:31)(cid:23)(cid:24)(cid:18)(cid:17)%(cid:17)#(cid:19)(cid:8)(cid:20)#(cid:31)$$(cid:24)(cid:18)(cid:31)$(cid:26)(cid:8)(cid:20)(cid:23)(cid:8)(cid:31)(cid:29)(cid:29)(cid:30)(cid:20)(cid:17)(cid:22)(cid:8)(cid:19)(cid:27)(cid:8)(cid:19)!(cid:17)(cid:8),(cid:17)(cid:30)(cid:30)(cid:8)*(cid:27)(cid:18)(cid:17)(cid:8)(cid:21)(cid:18)(cid:27)%(cid:8)789(cid:8)(cid:19)(cid:27)(cid:8)(cid:10)(cid:7)-
-(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:2)(cid:3)(cid:7)(cid:8)(cid:9)(cid:10)(cid:10)(cid:9)(cid:11)(cid:12)(cid:13)(cid:3)(cid:14)(cid:10)(cid:15)(cid:16)(cid:8)(cid:8)(cid:11)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:20)(cid:17)(cid:22)(cid:8)(cid:23)(cid:24)(cid:18)(cid:25)(cid:17)(cid:26)(cid:27)(cid:18)(cid:28)(cid:23)(cid:8)(cid:29)(cid:30)(cid:31)(cid:19) (cid:8)!(cid:27)(cid:18)(cid:20)"(cid:27)#(cid:19)(cid:31)(cid:30)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:29)(cid:30)(cid:31)(cid:19) (cid:8)(cid:17)(cid:23)(cid:19)(cid:20)%(cid:31)(cid:19)(cid:17)(cid:22)(cid:8)&(cid:17)(cid:27)(cid:30)(cid:27)&(cid:20)$(cid:31)(cid:30)(cid:8)(cid:19)(cid:27)(cid:29)(cid:23) (cid:8)proposed mud/cementing plan,
+8;%%&%*#&#$#<=%*###%#&#&$#&#&-
+'()#!*$##+)#!$#!"#,-%#
+#$$$#$#,!#%##&$%#$,!!$#&.#&#*#*$/'%#0$#!
+,#&$#123!#!#&*,#!,*#!$*#1)&452##
+%!#'%##"-#!$*0$#-
+
+%%##$$$'*$# 563%%##$$$,*!!"##!,
+*-!%%##$$$!,*%789-
+ !"#$# %&&$ proposed mud/cementing plan,
 directionalplot/plan,$100fee.
-(cid:15)(cid:17)(cid:17)(cid:8)9(cid:31)&(cid:17)(cid:8)5(cid:8)(cid:21)(cid:27)(cid:18)(cid:8)(cid:11)(cid:27)%%(cid:17)#(cid:19)(cid:23)(cid:8)(cid:23)(cid:17)$(cid:19)(cid:20)(cid:27)#(cid:8)(cid:31)#(cid:22)(cid:8)(cid:23)(cid:20)&#(cid:31)(cid:19)(cid:24)(cid:18)(cid:17)(cid:8)*(cid:30)(cid:27)$/-
+9&5%%#$##&#*$/-
 Page 2
 SFN 54269 (08-2005)
-(cid:11)8(cid:13)(cid:13)(cid:3)(cid:14)(cid:10)(cid:15) (cid:8)(cid:9)(cid:7)(cid:7)(cid:6)(cid:10)(cid:6)8(cid:14)(cid:9)=(cid:8)(cid:6)(cid:14)?8(cid:2)(cid:13)(cid:9)(cid:10)(cid:6)8(cid:14) (cid:8)(cid:9)(cid:14)(cid:7).8(cid:2)(cid:8)=(cid:6)(cid:15)(cid:10)(cid:8)8?(cid:8)(cid:9)(cid:10)(cid:10)(cid:9)(cid:11)(cid:12)(cid:13)(cid:3)(cid:14)(cid:10)(cid:15)
+8 8=?88 .8=8?
 GEOLOGIC TOPS, PLATS, DIRECTIONAL, DRILLING PLAN, LOG WAIVER, OFF-UNIT AFFIDAVIT
 Lateral 2
 KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
@@ -1161,36 +1222,36 @@ Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Lateral 3
 KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
 Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Lateral 4
 KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
 Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Lateral 5
 KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
 Feet MD > Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:14) 3
+F L F L  3
 Date
 I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
 10 / 18 / 2011
@@ -1198,10 +1259,278 @@ Signature Printed Name Title
 ePermit
 RANDYCARLSON DRILLINGMANAGER
 Email Address(es)
-?8(cid:2)(cid:8)(cid:15)(cid:10)(cid:9)(cid:10)(cid:3)(cid:8)(cid:5)(cid:15)(cid:3)(cid:8)8(cid:14)=C ?8(cid:2)(cid:8)(cid:15)(cid:10)(cid:9)(cid:10)(cid:3)(cid:8)(cid:5)(cid:15)(cid:3)(cid:8)8(cid:14)=C
+?88=C ?88=C
 Permit and File Number API Number Date Approved
 21796 (( B 053 B 03846 10 / 27 / 2011
 Field By
 BAKER NathanielErbele
 Pool Permit Type Title
 BAKKEN DEVELOPMENT PetroleumResourceSpecialist
+WELL LOCATION PLAT
+P.O. BoSxM 7E1n6e8rg yB itiCiongms.p amnid 59103
+Dahl Federal 2-15H
+700 feet from the north line and 2026 feet from the east line (surface location)
+Section 15, T. 153 N., R. 101 W., Sth P.M.
+McKenzie County, North Dakota
+Surface owner @ well site — Sharon D Eilers ETAL
+Latitude 48°04’49.25” North; Longitude 103°39’20.15” West (surface location)
+[Derived from OPUS Solution NAD—83(CORS96)]
+co 089'51'25" _~ 5295,.40' (Calc. Stone
+ekn@— — — SS ee -- ats
+Well Site i)
+Elevation id a
+4 gy 2052" MSL q [8
+| ) q 3 =
+‘ 5 I. N
+2026" R
+t 3
+m
+6 te Wa4 NEW/4 ©
+Be
+4 A
+g8l IiB)
+| FS
+3 5
+5
+"Ns Wt tne 45 eOrig einal Stone
+2
+a >
+wao 18o
+y¢
+gl I:=
+oy a
+i
+1/18 Line SWiy/4 SH 74 nom
+V)
+| 6;
+| So
+1
+8
+Origiinarl Stone, ePe e
+ep Found 089°53'22" ~ 5286.58" (Meas.) Found
+Confidentiality Notice: The information contained on this plot Scale 1*=41000' |, Donald Leischner, Professional Land Surveyor, N.D. No. 7103, do
+is legally privileged and confidential information intended only hereby certify that the survey plot shown hereon was mode by me, or
+for the use of recipients. If you are not the intended under my direction, from notes made in the field, and.the some is true
+recipients, you are hereby notified that ony use, dissemination, ‘and correct to the best of my knowledge and belief. °
+distribution or copying of this information is strictly prohibited,
+NOTE: All land comers are assumed unless otherwise noted.
+The well location shown hereon is not an as-built location.
+Andrew Minton 11/20/2010
+Surveyed By Date
+Andrew Staloch 1/21/2011 ¢
+Surveyed By Date
+Vertical Control Datum Used z : z =
+trakraresstae rel gt Professional Consulting Engineers
+Bosed on elevation derived from OPUS Solution on Regalred in
+GPS KL 14-53-101 Locoted a distonce of North Dakota South, Dakota
+5260.56" on an ozimuth of 0B9°33'47" from the NE | Montona, Wyoming & Minnesoto
+corner of Section 15 T.153N., RAOIW., 5th P.M. TolerFox Non761-873-3019
+being at 2110.46" Elevation MSL. Bus. Phong, No. 701-572-6352
+Project No, 8710826 itiston, North Dakota 58801-2976) Revised
+Book 0=82/0-88 Pa, 61-64/73-74 Ceteate of Atotiotion 46-081 7/15/2011
+Jul 15, 2011 ~ 3:51pm — C:\OOCUME~1\DEREXFTM1\LOCALS~1\.T7e64m\pB7\ 1A0c82P6ubab3l01i.s<nhg © KadLeerk jodason s201
+HORIZONTAL SECTION PLAT
+SM Energy Compan:
+P.O. Box 7168 Billings, MT 59103
+Dahl Federal 2-15H
+700 feet from the north line_and 2026 feet from the east line (surface location)
+Section 15, T. 153 N., R. 101 W., Sth P.M.
+McKenzie County, North Dakota
+a Surface owner @ well site — Sharon D Eilers ETAL
+Latitude 48°04'49.25” North; Longitude 103°39’20.15” West (surface location)
+[Derived from OPUS Solution NAD-83(CORS96)]
+Carver 089'51'25” 089°51'25" 089'51'25" 089'51'25" Orginal Stone
+Colculated 132H3.a85l" 13S2a3s .8G5'e "]_ 7S3a23r.e8e5)s a1l32e3e.8 5 et 1S Cop Found
+z Fa = Surface Location x
+B P. Y ay-s 2 7Si0 020"26 "F NFLE L& eloB- 1a1e08
+gle Bie Be oO [Be Be ‘
+oDi l a Qlr -m e Oa l eToy “ iQ or eo gQ lI e
+089'51'20" nwiy4089'51'20" 08951'20" ey 089'51'20" !
+1323.30" 1323.30" 1322.56" 1322.56" |
+io nip ‘ole iP ae
+Be Aig Bais lB alg
+$3 Bis nls Bie Bie
+al Aba aie Ble Be
+m » el nm bel
+0895 1/15" 089'51'15" 089'51'15” O89'S1"15" _ gh opie sow
+1322.78" 1322.75" 1321.28" 1321.28" ap Found
+toe ‘ut SI. 5h. al
+218 ES 18 SG 1S
+2 Bis Palps ik ge
+olin OI}i9 dlis Olio Qi
+oag'52i19" y4—089'52'19" 089°52'19" .-4), _089°52"19"
+1322.20" 1322.20" 1321.46" 1321.46
+lae SPiag #to1l.8 Rohi.s batlhy
+ze Ble ial ial Sy
+a Bln alin alin lis
+Orginal Stone 089'53'22" 089'53'22" 089'53'22" 089'53'22"
+Gap Found 1321.65 1321.65° 1321.65" 1321.65" © fount
+Scale 1"=1000' fi i
+Confidentiality Notice: The Information contained én this plat |, Donald Leischner, Professional Land Surveyor, N.D. No. 7103, do
+F5 oe ae ‘ or eens eateee otornation: ened ony: uhnerdeebry mcyer tdiifrye ctthiootn , thfer osmu rnvoetye sp lmata dseh oiwnn thheer efioenld ,w aasn: dm athdee sboym em ei,s otrrue
+recipients, you are hereby notified that ony use, dissemination, and correct to thebestof my: knowledge and’ belief.
+distribution or copying of this information is strictly prohibited.
+All corners shown on this plat were found in the
+field during SM Energy, Dahl Federal 2~15H oil
+well survey on November 20, 2010. Distances to
+all others are calculoted. All azimuths are based
+‘on the south line of Section 15, being on an
+azimuth of 089'53'22",
+- Kadrmas
+Surveyed By Field Book Lee&
+AM. — AS. O—82 ,ee
+[Comp& uDratwne Byd [Project No. Revised ackson
+M.B. — DAF. 8710826 7/19/2011 See
+dul 15, 2011 ~ 3:51pm — C:\DOCUMETM1\DEREKF~i\LOCALS~ 1\Temp\AcPubliah_764\8710826bas01.dwq © KedLaaen acaksosn 2,11
+HORIZONTAL SECTION PLAT
+SM Energy. Compan)
+P.O. Box 7168 Billings, MT 59103
+Dahl Federal 2-15H
+700 feet from the north line and 2026 feet from the east line (surface location)
+Section 15, T. 153 N., R. 101 W., 5th P.M.
+McKenzie County, North Dakota
+F Surface owner @ well site — Sharon D Eilers ETAL
+Latitude 48°04’49.25” North; Longitude 103°39’20.15” West (surface location)
+[Derived from OPUS Solution NAD-—83(CORS96)]
+ea Pa 089°42'37" 089°42'37" 089°42'37" 989'42'57"
+Fond OT 379.64" 1319.64 "1" 1319.64" 1319.64" cleuTaa
+8s £318 aie 3,18 Be
+Blo Sel 3 Selas Blo
+S 98 Sy] O3| ole
+o5 a5 alin asi an
+alm 8 |r 8 |r 8 | al- N
+089Aoy yy-4 —089°44'49" 089'44'49" |), 089°44"49"
+1320.69" "" / "1320.69" 1320.69" "1320.69"
+8B =|3 Sip pals far
+So ips 85 8|o BS
+dgla? aalrm d3i°s dal”n zaiS
+jp 089,47"01" 089°47'01” 089°47'01" 089°47'01" {
+p 1821.75° 1321.75" 1321.75" 1321.75" i
+BB = Sig cary Big
+g)8 S| S\2 sie ig
+oly 9 ols iy ola
+s)\- r= 8|- riba ch
+eh aden74 089°49"14" 089'49'14" 089'49"14" |
+1322.80" 1322.80" 1322.80° ~"'/" 1322.80"
+Ble zg Bes Ein Ble
+s|e sr 3]8 slo BIS
+on 9 Shia Olin a
+s|- 3|~ ihe s|- cals
+SeGj — SBS 2S 089_'ssd5inn1 _0'89°251'525""_| __—089°51'25" oboeWik
+i 1323.85" 1323.85' 1323.85" 1323.85" iS Cop Found
+act P a , " |, Donald Leischner, Professional Lond Surveyor, N.D. No. 7103, do
+Confidentiality Notice: The information contained on this plot Seale 1°=100Qreraby certify thot th tat. shi
+Tagen epee an conten folonnelion. hispid only Under my diecllon, from notes modien the fieolnd dth,e: some i. irve
+recipients, you ore hereby notified thot any use, dissemin ‘ond correct to the shest:of my knowledge and belief,
+distribution or copying of this information is strictly prohibited,
+All corners shown on this plot_were found in the
+field during SM Energy, Dahl Federal 2—15Hoil
+well survey on November 20, 2010, Distances to
+oll others ore calculated. All azimuths are based
+‘on the south fine of Section 15, being on an
+‘azimuth of 089°53'22".
+Surveyed By Field Book
+AM. — AS. 0-82
+[Comp& uDrtawen dBy [Project No. Revised
+M.B. —_D.F. 8710826 J 7/18/20
+dul 15, 2011 — 3:Sipm — C:\DOCU1 \LMOCAELS~~1\ T1amp\\AcPDubliEsh_R764\E87 K1082F6b<Ta01 dMng (© Keadexi & nackaaasn 2,017
+HORIZONTAL SECTION PLAT
+SM Eneroy Compan
+P.O. Box 7168 Billings, M 59103
+Dahl Federal 2-15H
+700 feet from the north IIne and 2026 feet from the east line (surface location)
+Section 15, T. 153.N., R. 101 W., 5th P.M.
+McKenzie County, North Dakota
+; Surface owner @ well site — Sharon D Eilers ETAL
+Latitude 48°04'49.25” North; Longitude 103°39’20.15” West (surface location)
+[Derived from OPUS Solution NAD-B3(CORS96)]
+Sits @ = = Ee = uh
+5280.56 :
+o
+le
+ity
+8
+a+l1g3 Mi. ssouri=) Ripe ver 9| N
+3
+9
+tole
+3g- e+ee oyru ). ‘ aale
+218 ki ae tee] taba Br
+"Ba l' o es L ‘o it t e1 a6 f = —389°4* 14 ,1 1" 81be " 8" ob 5 |__ |3 -5 -9 53° 7t 5 .r 7 86'y "1 4"4m 4
+089°40'34" ~ 089°40'34” 089°40'34"
+H Tsi96o" F318.60° 1319.89"
+* B S © 8 =F le Bol e X8o1!5
+g B' Is S 2 & = a| iS s aS i1 s5 a+ 85
+Yo ray | mT »
+089'43.35" _oy4 24 089°41'35" 089'41'35" 4 ,4 089°41'35"
+1319.77" 1319.77" 1319.77) 17" 1319.77"
+Br ‘ol. |, bk oe
+ols oa cas Lae ol
+a2 l5 s BSse axql e B3y5e aSalrss
+mM Yn bel Ce) pe)
+“font @ 089°42'37"
+7319.64 Desens
+Coiculated
+fR oe rn ti Gndi aens lti ai o sn ty o fN oti Ace N: NT he hi‘ nf oor ma oti eo n econ etai ned eon ethi; s epl eat Seale 1°=100Qe ur ne deb{ r,y D mco yenr at dli ifd ry e cLt teh iia ost nc ,h tneh fre r, o s mPu rr nov ofe tey es ssp ilo mant aa l ds ehL oa iwn nn d th hSe eu rrev fieo eyn lo d r ,w ,a as‘ nN . dDm .a thdN eeo , s b a7y m1 e0m3 e, i, s do tor rue
+r de ic si tp ri ie bn ut ts i, o n y oo ru ca or pe y ih ne gr e ob fy tn ho ist if ii ne fd o rt mh ao tt i oa nn y i s u ss te r, i ctd li ys s pe rm oi hn ia bt ii teo dn ,, and correct to the best of my knowledge and belief.
+Ze
+All corners shown on this plat were found in the
+field during SM Energy, Dahl Federal 2—15H
+oi! well survey on November 20, 2010.
+Distances to all others are calculated. All
+azimuths are bosed on the south line of Section
+15, being on an azimuth of 0B9°53'22".
+Kadrmas
+Surveyed By Field Book ~ Lee&
+AM. — AS. 0-82
+ee
+Computed & Drawn By |Project No. Revised Jackson
+M.B. — DAF. 8710826 7/19/20 moon sera
+Jul 15, 2014 — 3:51pm — C\DOCUME~1\DEREKF=1\LOCALS~1\Temp\AcPublish_764\8710826bd0w00g
+(© KadrUmne aJacsks,on 2011
+BOTTOM HOLE LOCATION PLAT
+P.O. BoSxM 7E1n6e8rg y BilCloinmgpsa vid 59103
+Dahl Federal 2-15H.
+700 feet from the north line and 2026 feet from the cast Hine (surface location)
+Section 15, T. 153 .N., R. 101 W., 5
+McKenzie County, North Dakota
+Latitude 48°04'49. 2"r faNcoe rtohw;n erL o@n gwieltlu dsiet e 1—0 3S°h3ar9o'n2 0D. 1E5il”er s WEeTsAtL (surface location)
+[Derived from OPUS Solution NAD—83(CORS96)]
+ale 939'57'147 ~ 528056 (Cole) t one
+1
+Missouri River !
+a5(1sC4b2o~0.rl849eo"')39" BGSa1e2tA0e4rF)
+&
+mre
++
+‘i =
+089'42°37" 5278.57" (Cole.)
+(Cale)7 CBseosele=rasee)"
+5267~.97,
+Scale 1"=2100'
+naan
+o9g'59'25"+} 5205407 (Cale) mea
+i
+Tepe
+ane
+Oo
+Confidentiality Notice: [
+The information contained
+on this plat is legally |[
+privileged and confidentiol
+Information intended only T(2MEeSeT2sF)
+for the use of recipients.
+If you are not the
+intended recipients, you
+ore here!
+any use,
+distribution
+prohibited. 39507"
+a --—hs
+Te ase Greeny
+Kadrmas
+Computed & Drawn By [Surveyed By Approved By Scare Bate Leet
+M.B. — DF. | AM. — AS. | D. Leischner 1"=2100' 12/16/2010 a
+Field Book Waterar Revised Project No. Drawing No. Jackson_
+0-82 B.H. Layout 7/15/2011 8710826 Pisesec
+Jul 15, 2011 — 3:53pm — :\DOCUME~1 \DEREKF1\LOCALS~1\Temp\AzPublish_764\8710826ba301.dng © KadeUnme &aacsks,on 2017

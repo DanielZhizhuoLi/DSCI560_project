@@ -477,6 +477,120 @@ Point
 6644.00 0.35 111.56 6642.85 -6.93 34.19 -7.23 0.61 395155.69 1209637.72 N 48 2 28.99W 103 36 10.93
 6739.00 0.35 113.30 6737.85 -6.39 33.97 -6.69 0.01 395155.44 1209638.24 N 48 2 28.99W 103 36 10.92
 Drilling Office 2.8.572.0 ...Wade Federal 5300 41-30 #6B\Original Hole\Wade Federal 5300 41-30 6B OH MWD 0' to 13616' Definitive 6/22/2015 11:37 AM Page 1 of 3
+MD Incl Azim True TVD VSEC NS EW DLS Northing Easting Latitude Longitude
+Comments
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (ft) (ft) (N/S ° ' ") (E/W ° ' ")
+6834.00 0.26 94.46 6832.84 -5.91 33.83 -6.21 0.14 395155.29 1209638.72 N 48 2 28.98W 103 36 10.91
+6929.00 0.70 303.46 6927.84 -6.18 34.14 -6.48 0.99 395155.61 1209638.46 N 48 2 28.99W 103 36 10.92
+7024.00 0.44 16.58 7022.84 -6.55 34.81 -6.86 0.75 395156.29 1209638.11 N 48 2 28.99W 103 36 10.92
+7119.00 0.09 291.55 7117.84 -6.51 35.18 -6.83 0.46 395156.67 1209638.16 N 48 2 29.00W 103 36 10.92
+7214.00 0.35 295.22 7212.84 -6.84 35.33 -7.16 0.27 395156.83 1209637.83 N 48 2 29.00W 103 36 10.93
+7309.00 0.44 322.36 7307.83 -7.33 35.75 -7.64 0.22 395157.26 1209637.37 N 48 2 29.00W 103 36 10.93
+7404.00 0.70 321.10 7402.83 -7.91 36.49 -8.23 0.27 395158.02 1209636.81 N 48 2 29.01W 103 36 10.94
+7500.00 0.09 155.08 7498.83 -8.24 36.88 -8.57 0.82 395158.43 1209636.49 N 48 2 29.01W 103 36 10.95
+7595.00 0.35 153.00 7593.83 -8.08 36.55 -8.41 0.27 395158.09 1209636.64 N 48 2 29.01W 103 36 10.94
+7690.00 0.09 199.30 7688.83 -7.98 36.22 -8.30 0.31 395157.76 1209636.73 N 48 2 29.01W 103 36 10.94
+7785.00 0.53 252.52 7783.82 -8.42 36.02 -8.74 0.51 395157.58 1209636.28 N 48 2 29.01W 103 36 10.95
+7880.00 0.62 273.94 7878.82 -9.35 35.92 -9.67 0.24 395157.52 1209635.35 N 48 2 29.00W 103 36 10.96
+7975.00 0.44 64.56 7973.82 -9.54 36.11 -9.86 1.08 395157.72 1209635.17 N 48 2 29.01W 103 36 10.97
+8070.00 0.18 104.38 8068.82 -9.06 36.23 -9.38 0.34 395157.82 1209635.65 N 48 2 29.01W 103 36 10.96
+8164.00 0.26 329.76 8162.82 -9.02 36.38 -9.35 0.43 395157.96 1209635.69 N 48 2 29.01W 103 36 10.96
+8259.00 0.18 346.62 8257.82 -9.16 36.71 -9.49 0.11 395158.30 1209635.56 N 48 2 29.01W 103 36 10.96
+8354.00 0.53 355.23 8352.81 -9.23 37.30 -9.56 0.37 395158.88 1209635.51 N 48 2 29.02W 103 36 10.96
+8449.00 0.44 6.03 8447.81 -9.22 38.10 -9.56 0.13 395159.68 1209635.55 N 48 2 29.03W 103 36 10.96
+8544.00 0.44 28.97 8542.81 -9.00 38.78 -9.34 0.18 395160.36 1209635.79 N 48 2 29.03W 103 36 10.96
+8639.00 0.79 30.78 8637.80 -8.48 39.66 -8.83 0.37 395161.22 1209636.34 N 48 2 29.04W 103 36 10.95
+8735.00 0.88 40.89 8733.79 -7.65 40.79 -8.01 0.18 395162.31 1209637.20 N 48 2 29.05W 103 36 10.94
+8830.00 1.49 23.32 8828.77 -6.67 42.47 -7.05 0.74 395163.95 1209638.24 N 48 2 29.07W 103 36 10.92
+8924.00 1.14 27.74 8922.75 -5.73 44.42 -6.13 0.39 395165.87 1209639.23 N 48 2 29.09W 103 36 10.91
+9019.00 1.06 32.47 9017.73 -4.80 46.00 -5.21 0.13 395167.41 1209640.21 N 48 2 29.10W 103 36 10.90
+9114.00 0.97 36.95 9112.71 -3.84 47.38 -4.26 0.13 395168.75 1209641.22 N 48 2 29.12W 103 36 10.88
+9209.00 0.79 34.95 9207.70 -2.97 48.56 -3.40 0.19 395169.89 1209642.12 N 48 2 29.13W 103 36 10.87
+9304.00 0.44 47.17 9302.70 -2.32 49.35 -2.76 0.39 395170.65 1209642.80 N 48 2 29.14W 103 36 10.86
+9399.00 0.35 21.37 9397.70 -1.94 49.87 -2.39 0.21 395171.15 1209643.19 N 48 2 29.14W 103 36 10.86
+9494.00 0.26 11.67 9492.69 -1.79 50.35 -2.24 0.11 395171.63 1209643.36 N 48 2 29.15W 103 36 10.85
+9589.00 0.35 1.37 9587.69 -1.73 50.85 -2.19 0.11 395172.13 1209643.43 N 48 2 29.15W 103 36 10.85
+9684.00 0.18 12.38 9682.69 -1.69 51.28 -2.15 0.19 395172.56 1209643.48 N 48 2 29.16W 103 36 10.85
+9779.00 0.26 72.28 9777.69 -1.45 51.49 -1.91 0.24 395172.76 1209643.73 N 48 2 29.16W 103 36 10.85
+9874.00 0.09 49.58 9872.69 -1.19 51.61 -1.65 0.19 395172.87 1209644.00 N 48 2 29.16W 103 36 10.84
+9969.00 0.35 98.47 9967.69 -0.84 51.61 -1.30 0.31 395172.86 1209644.34 N 48 2 29.16W 103 36 10.84
+10062.00 0.09 211.23 10060.69 -0.60 51.51 -1.06 0.42 395172.74 1209644.58 N 48 2 29.16W 103 36 10.84
+10157.00 0.35 252.06 10155.69 -0.92 51.36 -1.37 0.30 395172.60 1209644.26 N 48 2 29.16W 103 36 10.84
+10189.00 1.49 96.74 10187.69 -0.60 51.28 -1.05 5.67 395172.51 1209644.58 N 48 2 29.16W 103 36 10.84
+10221.00 5.63 93.20 10219.62 1.38 51.14 0.93 12.95 395172.30 1209646.55 N 48 2 29.15W 103 36 10.81
+10252.00 8.97 91.34 10250.36 5.32 51.00 4.86 10.80 395172.00 1209650.48 N 48 2 29.15W 103 36 10.75
+10284.00 12.84 89.96 10281.78 11.37 50.94 10.91 12.12 395171.70 1209656.52 N 48 2 29.15W 103 36 10.66
+10316.00 15.39 87.34 10312.81 19.17 51.14 18.71 8.21 395171.58 1209664.32 N 48 2 29.15W 103 36 10.54
+10347.00 17.67 85.73 10342.53 27.97 51.69 27.51 7.50 395171.77 1209673.14 N 48 2 29.16W 103 36 10.42
+10379.00 20.05 85.99 10372.81 38.30 52.43 37.83 7.44 395172.10 1209683.47 N 48 2 29.17W 103 36 10.26
+10411.00 22.77 86.47 10402.59 49.96 53.20 49.49 8.52 395172.39 1209695.15 N 48 2 29.17W 103 36 10.09
+10442.00 24.01 87.67 10431.05 62.25 53.82 61.78 4.28 395172.52 1209707.45 N 48 2 29.18W 103 36 9.91
+10474.00 26.64 90.41 10459.97 75.94 54.03 75.46 9.00 395172.18 1209721.13 N 48 2 29.18W 103 36 9.71
+10506.00 28.49 93.21 10488.34 90.73 53.56 90.25 7.06 395171.11 1209735.90 N 48 2 29.18W 103 36 9.49
+10537.00 30.78 94.88 10515.28 106.00 52.47 105.54 7.85 395169.41 1209751.13 N 48 2 29.17W 103 36 9.27
+10569.00 35.44 94.92 10542.08 123.40 50.97 122.95 14.56 395167.21 1209768.46 N 48 2 29.15W 103 36 9.01
+10601.00 40.89 95.42 10567.23 143.07 49.19 142.64 17.06 395164.64 1209788.06 N 48 2 29.14W 103 36 8.72
+10632.00 45.46 95.98 10589.83 164.15 47.08 163.74 14.79 395161.68 1209809.05 N 48 2 29.11W 103 36 8.41
+10664.00 50.56 93.58 10611.23 187.82 45.12 187.43 16.88 395158.76 1209832.65 N 48 2 29.10W 103 36 8.06
+10696.00 53.82 90.06 10630.85 213.08 44.33 212.69 13.39 395156.96 1209857.85 N 48 2 29.09W 103 36 7.69
+10727.00 55.05 86.71 10648.88 238.28 45.05 237.89 9.64 395156.66 1209883.06 N 48 2 29.09W 103 36 7.32
+10759.00 59.88 84.74 10666.09 265.19 47.07 264.78 15.96 395157.60 1209910.01 N 48 2 29.11W 103 36 6.92
+10791.00 63.49 84.38 10681.27 293.25 49.74 292.82 11.32 395159.14 1209938.13 N 48 2 29.14W 103 36 6.51
+10823.00 67.27 85.78 10694.60 322.25 52.23 321.80 12.46 395160.46 1209967.18 N 48 2 29.17W 103 36 6.08
+10854.00 72.19 89.01 10705.33 351.30 53.54 350.84 18.64 395160.59 1209996.25 N 48 2 29.18W 103 36 5.66
+10886.00 76.59 89.52 10713.94 382.11 53.93 381.65 13.84 395159.75 1210027.05 N 48 2 29.18W 103 36 5.20
+10918.00 81.07 91.75 10720.14 413.49 53.58 413.03 15.58 395158.13 1210058.39 N 48 2 29.18W 103 36 4.74
+10950.00 85.30 91.77 10723.94 445.23 52.60 444.78 13.22 395155.88 1210090.07 N 48 2 29.17W 103 36 4.27
+10965.00 88.20 91.73 10724.79 460.19 52.15 459.75 19.34 395154.82 1210105.01 N 48 2 29.16W 103 36 4.05
+7" Casing Point 10981.00 88.93 91.31 10725.19 476.18 51.72 475.74 5.28 395153.75 1210120.97 N 48 2 29.16 W 103 36 3.82
+11055.00 92.33 89.38 10724.37 550.15 51.27 549.72 5.28 395150.32 1210194.86 N 48 2 29.16W 103 36 2.73
+11147.00 90.31 90.00 10722.25 642.12 51.77 641.68 2.30 395147.11 1210286.77 N 48 2 29.16W 103 36 1.38
+11239.00 90.13 89.41 10721.90 734.12 52.25 733.68 0.67 395143.88 1210378.71 N 48 2 29.17W 103 36 0.02
+11331.00 90.57 89.59 10721.34 826.12 53.05 825.68 0.52 395140.98 1210470.65 N 48 2 29.17W 103 35 58.67
+11422.00 91.63 88.65 10719.59 917.10 54.45 916.65 1.56 395138.71 1210561.60 N 48 2 29.19W 103 35 57.33
+11514.00 89.87 88.79 10718.39 1009.08 56.50 1008.61 1.92 395137.05 1210653.57 N 48 2 29.21W 103 35 55.98
+11606.00 88.02 90.05 10720.08 1101.05 57.43 1100.59 2.43 395134.28 1210745.50 N 48 2 29.22W 103 35 54.62
+11698.00 90.40 89.02 10721.35 1193.04 58.18 1192.57 2.82 395131.32 1210837.43 N 48 2 29.22W 103 35 53.27
+11790.00 89.52 88.56 10721.41 1285.03 60.12 1284.54 1.08 395129.56 1210929.41 N 48 2 29.24W 103 35 51.92
+11885.00 88.55 88.35 10723.01 1380.00 62.68 1379.50 1.04 395128.29 1211024.38 N 48 2 29.27W 103 35 50.52
+11981.00 91.19 89.22 10723.23 1475.98 64.72 1475.46 2.90 395126.46 1211120.34 N 48 2 29.29W 103 35 49.11
+12076.00 91.71 89.95 10720.83 1570.95 65.41 1570.43 0.94 395123.32 1211215.25 N 48 2 29.29W 103 35 47.71
+12171.00 90.75 89.32 10718.79 1665.93 66.01 1665.41 1.21 395120.10 1211310.17 N 48 2 29.30W 103 35 46.31
+12267.00 89.34 88.82 10718.71 1761.92 67.57 1761.39 1.56 395117.79 1211406.13 N 48 2 29.32W 103 35 44.90
+12362.00 89.96 88.79 10719.29 1856.91 69.55 1856.37 0.65 395115.94 1211501.11 N 48 2 29.34W 103 35 43.50
+12457.00 90.13 88.13 10719.22 1951.90 72.10 1951.33 0.72 395114.66 1211596.09 N 48 2 29.36W 103 35 42.10
+12553.00 90.13 87.65 10719.00 2047.86 75.64 2047.27 0.50 395114.33 1211692.08 N 48 2 29.40W 103 35 40.69
+12648.00 88.29 88.07 10720.31 2142.81 79.18 2142.19 1.99 395114.05 1211787.06 N 48 2 29.43W 103 35 39.30
+12743.00 88.72 86.94 10722.79 2237.72 83.32 2237.06 1.27 395114.36 1211882.02 N 48 2 29.47W 103 35 37.90
+12839.00 89.34 87.94 10724.41 2333.64 87.61 2332.95 1.23 395114.78 1211978.00 N 48 2 29.51W 103 35 36.49
+12934.00 89.87 89.57 10725.07 2428.63 89.67 2427.92 1.80 395113.01 1212072.97 N 48 2 29.53W 103 35 35.09
+13029.00 90.48 89.56 10724.78 2523.62 90.39 2522.92 0.64 395109.91 1212167.91 N 48 2 29.54W 103 35 33.69
+13124.00 90.92 89.03 10723.62 2618.62 91.56 2617.90 0.73 395107.25 1212262.86 N 48 2 29.55W 103 35 32.30
+13219.00 90.66 89.87 10722.31 2713.61 92.47 2712.89 0.93 395104.33 1212357.80 N 48 2 29.56W 103 35 30.90
+13315.00 90.31 89.80 10721.49 2809.60 92.75 2808.89 0.37 395100.74 1212453.73 N 48 2 29.56W 103 35 29.49
+13410.00 89.25 89.74 10721.86 2904.60 93.13 2903.88 1.12 395097.30 1212548.66 N 48 2 29.57W 103 35 28.09
+Last MWD
+13505.00 90.22 90.15 10722.30 2999.59 93.22 2998.88 1.11 395093.56 1212643.57 N 48 2 29.57W 103 35 26.69
+Survey
+Projection to Bit 13616.00 90.22 90.15 10721.87 3110.58 92.93 3109.88 0.00 395088.80 1212754.46 N 48 2 29.56W 103 35 25.06
+Survey Type: Def Survey
+Survey Error Model: ISCWSA Rev 0 *** 3-D 95.000% Confidence 2.7955 sigma
+Survey Program:
+Description Part MD From MD To EOU Freq Hole SizeCasing Diameter Survey Tool Type Borehole / Survey
+(ft) (ft) (ft) (in) (in)
+Original Hole / Wade Federal
+1 0.000 32.000 1/98.425 30.000 30.000 SLB_MWD-STD-Depth Only 5300 41-30 6B OH MWD 0' to
+Original Hole / Wade Federal
+1 32.000 32.000 Act Stns 30.000 30.000 SLB_MWD-STD-Depth Only 5300 41-30 6B OH MWD 0' to
+Drilling Office 2.8.572.0 ...Wade Federal 5300 41-30 #6B\Original Hole\Wade Federal 5300 41-30 6B OH MWD 0' to 13616' Definitive 6/22/2015 11:37 AM Page 2 of 3
+MD Incl Azim True TVD VSEC NS EW DLS Northing Easting Latitude Longitude
+Comments
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (ft) (ft) (N/S ° ' ") (E/W ° ' ")
+Original Hole / Wade Federal
+1 32.000 13505.000 Act Stns 30.000 30.000 SLB_MWD-STD 5300 41-30 6B OH MWD 0' to
+Original Hole / Wade Federal
+1 13505.000 13616.000 Act Stns 30.000 30.000 SLB_BLIND+TREND 5300 41-30 6B OH MWD 0' to
+Drilling Office 2.8.572.0 ...Wade Federal 5300 41-30 #6B\Original Hole\Wade Federal 5300 41-30 6B OH MWD 0' to 13616' Definitive 6/22/2015 11:37 AM Page 3 of 3
 9251 E 104th Ave.
 Commerce City, CO 80640
 (303) 439-5500
@@ -584,7 +698,7 @@ Drilling Office 2.8.572.0 ...Wade Federal 5300 41-30 #6B\ST1\Wade Federal 5300 4
 9251 E 104th Ave.
 Commerce City, CO 80640
 (303) 439-5500
-(cid:1)(cid:1)(cid:1)(cid:1)(cid:2)(cid:2)(cid:2)(cid:2)(cid:3)(cid:3)(cid:3)(cid:3)(cid:4)(cid:4)(cid:4)(cid:4)(cid:5)(cid:5)(cid:5)(cid:5)(cid:6)(cid:6)(cid:6)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:7)(cid:7)(cid:7)(cid:8)(cid:8)(cid:8)(cid:8)(cid:9)(cid:9)(cid:9)(cid:9)(cid:10)(cid:10)(cid:10)(cid:10)(cid:11)(cid:11)(cid:11)(cid:11)(cid:12)(cid:12)(cid:12)(cid:12)(cid:13)(cid:13)(cid:13)(cid:13)(cid:3)(cid:3)(cid:3)(cid:3)(cid:14)(cid:14)(cid:14)(cid:14)(cid:4)(cid:4)(cid:4)(cid:4)(cid:15)(cid:15)(cid:15)(cid:15)(cid:11)(cid:11)(cid:11)(cid:11)(cid:16)(cid:16)(cid:16)(cid:16)(cid:4)(cid:4)(cid:4)(cid:4)(cid:3)(cid:3)(cid:3)(cid:3)(cid:6)(cid:6)(cid:6)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:17)(cid:17)(cid:17)(cid:17)(cid:2)(cid:2)(cid:2)(cid:2)(cid:5)(cid:5)(cid:5)(cid:5)(cid:9)(cid:9)(cid:9)(cid:9)(cid:6)(cid:6)(cid:6)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:7)(cid:7)(cid:7)(cid:8)(cid:8)(cid:8)(cid:8)(cid:11)(cid:11)(cid:11)(cid:11)(cid:18)(cid:18)(cid:18)(cid:18)(cid:7)(cid:7)(cid:7)(cid:7)(cid:3)(cid:3)(cid:3)(cid:3)(cid:19)(cid:19)(cid:19)(cid:19)
+
 Oasis Petroleum Wade Federal 5300 41-30 #6B ST2 21-Nov-2014
 Company Well Name Final report Date
 14CCO0579 ND, McKenzie County (NAD 83 NZ) Oasis 33-053-05954
@@ -609,7 +723,7 @@ Directional Driller 2 MWD Surveyor 2
 The data submitted in this report conforms to the standards and procedures as set
 forth by Schlumberger. This report represents a true and correct directional wellbore
 survey based on original survey data obtained at the well site.
-(cid:1)(cid:2)(cid:3)(cid:3)(cid:4)(cid:5)(cid:2)(cid:6)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:2)(cid:2)(cid:13) 11/21/2014 15:31
+ 11/21/2014 15:31
 Matt VanderSchaaf Date
 PathFinder Well Planner II
 Wade Federal 5300 41-30 6B ST2 14930' to 20450' Definintive Survey
@@ -719,6 +833,43 @@ Survey
 19101.00 88.99 89.65 10795.90 8592.76 85.64 8592.33 0.37 394860.64 1218231.82 N 48 2 29.48W 103 34 4.38
 19195.00 88.99 89.58 10797.56 8686.74 86.27 8686.32 0.07 394857.48 1218325.75 N 48 2 29.48W 103 34 3.00
 Drilling Office 2.8.572.0 ...Wade Federal 5300 41-30 #6B\ST2\Wade Federal 5300 41-30 6B ST2 14930' to 20450' Definintive 11/21/2014 3:29 PM Page 1 of 2
+MD Incl Azim True TVD VSEC NS EW DLS Northing Easting Latitude Longitude
+Comments
+(ft) (°) (°) (ft) (ft) (ft) (ft) (°/100ft) (ft) (ft) (N/S ° ' ") (E/W ° ' ")
+19290.00 89.69 89.09 10798.65 8781.73 87.37 8781.30 0.90 394854.76 1218420.70 N 48 2 29.49W 103 34 1.60
+19385.00 89.78 88.87 10799.09 8876.73 89.06 8876.29 0.25 394852.62 1218515.66 N 48 2 29.51W 103 34 0.20
+19479.00 89.87 88.67 10799.38 8970.72 91.08 8970.26 0.23 394850.85 1218609.64 N 48 2 29.53W 103 33 58.82
+19573.00 89.87 88.14 10799.59 9064.70 93.70 9064.23 0.56 394849.68 1218703.63 N 48 2 29.55W 103 33 57.43
+19668.00 88.81 88.38 10800.69 9159.67 96.58 9159.18 1.14 394848.74 1218798.61 N 48 2 29.58W 103 33 56.04
+19762.00 88.64 88.15 10802.78 9253.63 99.43 9253.11 0.30 394847.80 1218892.58 N 48 2 29.61W 103 33 54.65
+19856.00 90.13 88.44 10803.79 9347.60 102.22 9347.06 1.61 394846.81 1218986.56 N 48 2 29.64W 103 33 53.27
+19950.00 90.04 88.02 10803.65 9441.58 105.13 9441.01 0.46 394845.92 1219080.55 N 48 2 29.66W 103 33 51.89
+19981.00 89.34 88.98 10803.82 9472.57 105.94 9472.00 3.83 394845.48 1219111.54 N 48 2 29.67W 103 33 51.43
+20044.00 88.81 89.26 10804.83 9535.56 106.91 9534.99 0.95 394843.91 1219174.51 N 48 2 29.68W 103 33 50.51
+20139.00 87.14 89.73 10808.19 9630.50 107.74 9629.92 1.83 394840.92 1219269.39 N 48 2 29.69W 103 33 49.11
+20234.00 89.08 88.06 10811.32 9725.43 109.57 9724.84 2.69 394838.93 1219364.30 N 48 2 29.71W 103 33 47.71
+20328.00 90.31 89.23 10811.82 9819.42 111.80 9818.81 1.81 394837.37 1219458.28 N 48 2 29.73W 103 33 46.33
+Last ST2 Survey 20377.00 89.96 88.86 10811.71 9868.42 112.61 9867.81 1.04 394836.21 1219507.26 N 48 2 29.74W 103 33 45.61
+Projection to Bit 20450.00 89.96 88.86 10811.76 9941.41 114.07 9940.79 0.00 394834.72 1219580.24 N 48 2 29.75W 103 33 44.53
+Survey Type: Def Survey
+Survey Error Model: ISCWSA Rev 0 *** 3-D 95.000% Confidence 2.7955 sigma
+Survey Program:
+MD From MD To EOU Freq Hole SizeCasing Diameter
+Description Part Survey Tool Type Borehole / Survey
+(ft) (ft) (ft) (in) (in)
+Original Hole / Wade Federal
+1 0.000 32.000 1/98.425 30.000 30.000 SLB_MWD-STD-Depth Only 5300 41-30 6B OH MWD 0' to
+Original Hole / Wade Federal
+1 32.000 32.000 Act Stns 30.000 30.000 SLB_MWD-STD-Depth Only 5300 41-30 6B OH MWD 0' to
+Original Hole / Wade Federal
+1 32.000 13315.000 Act Stns 30.000 30.000 SLB_MWD-STD 5300 41-30 6B OH MWD 0' to
+ST1 / Wade Federal 5300 41-30
+1 13315.000 14930.000 Act Stns 30.000 30.000 SLB_MWD-STD 6B ST1 13315' to 15099'
+ST2 / Wade Federal 5300 41-30
+1 14930.000 20377.000 Act Stns 30.000 30.000 SLB_MWD-STD 6B ST2 14930' to 20450'
+ST2 / Wade Federal 5300 41-30
+1 20377.000 20450.000 Act Stns 30.000 30.000 SLB_BLIND+TREND 6B ST2 14930' to 20450'
+Drilling Office 2.8.572.0 ...Wade Federal 5300 41-30 #6B\ST2\Wade Federal 5300 41-30 6B ST2 14930' to 20450' Definintive 11/21/2014 3:29 PM Page 2 of 2
 Industrial Commission of North Dakota
 Well or Facility No
 Oil and Gas Division 28425
@@ -1277,6 +1428,138 @@ fracture operations.
 68476-30-2 (Primary Name: Fuel oil No. 2)
 68476-31-3 (Primary Name: Fuel oil, No. 4)
 8008-20-6 (Primary Name: Kerosene)
+T M Azimuths to True North SITE DETAILS: 153N-100W-29/30
+Magnetic North: 8.18°
+Site Centre Latitude: 48° 2' 28.650 N
+Magnetic Field Longitude: 103° 36' 10.82 W
+Strength: 56488.6snT
+Positional Uncertainity: 0.0
+Dip Angle: 72.95°
+Project: Indian Hills Convergence : -2.31
+Date: 1/28/2014
+Site: 153N-1 OOW-29/30 Local North: True
+Model: IGRF200510
+Well: Wade Federal 5300 41-30 pB
+Wellbore : Wade Federal 530041-3013B
+Setbacks Design: Design #1
+500' N/S
+200' E/W 1125
+c:
+'23750 750
+0
+I{)
+0 !:::-
+0
++
+2500 375
+'E
++ ® 0 t::
+?! SHL BHL 0
+t:: 910'FSL 1000' FSL
+1250 280' FWL 210' FWL £ 0 Wade Federal 5300 41-30 68
+;::._
+£' : 0::: J
+(/)
+::::J
+0 -375
+-1250
+-1125 -750 -375 0 375 750
+-2500 -1250 0 1250 2500 3750 5000 6250 7500 8750 10000 11250 12500
+West(-)/East(+) (750 fUin)
+West(-)/East(+) (2500 fUin)
+J- ·
+CASING DETAILS CC:f"T.. l f'\". I. DETAILS
+1' 1! j TVD MD Si. z e I l ! MD Inc Azi TVD +N/-S +E/-W Oleg l j
+1 . It I 2 10 05 70 01.0 . 0 102 90 95 00 .. 30 71 "3 3/8" _. J _ H1 -. 2050 0.0 .0 00 .. 00 00 0 o :0 o0 o 200 5 00 .0 0 0. .0 0 0o .. 0o o 0. .o 0o 0 H.
+. as:: _:. 9450- 1 I ;I I I I 'I l l I I l I I I ·! I I ' I > 1· I 772 770 876 990 ... 770 0 00.. .55 000 0 0 00 . .. 0 00 0 00 7 72 7 70 7 86 9 90. . .0 4 4 550 00. ..0 00 00 0.. .00 0 505 .. . 000 000 • I
+c3 t II I I I 1 . I I + I 1 10000.2 0.00 0.00 10000.0 50.0 0.0 0.00
+- 9900 i . +- -+- 10223.6 0.00 0 00 10223.4 50.0 0.0 0.00 ---+
+r>a; '"-:_ _I III · l1 \S Stt aa ir.
+r
+r tt
+B
+2 Ju2 1 i3 ld.4 i1
+1
+,h .o 1 2l
+.
+:0.d 0a ir Kt 1 IOr0 P0 r 0 0 iI .2 MD 1L. .
+f
+I1 II
+,
+· iI1 .+
+.
+iI 1f •. IiI .,. 1• J ': +
+t
+I
+Ij
+j
+[ . 1 1 110 0 19 9 87 9 40 0 .. . 77 3 88 89 9 9. .. .66 655 5.
+I
+8 8 96 6
+0
+. . 0.1 1 01 1 1 110 0017 700 010 2. . .9 0
+2
+98 8 02 3 .. .2 5
+1
+644 87 93 73 ... 25 o 1 o2 2.. .o0 0o0
+0 i
+I 1 90!°1 10159 1 90 11 : . 10028.0 '. 0.00
+t . t l l I I 1 I l I J. I • I J l ' - H I
+10800-l .I J r I I I at.11,184.I ; I j II l ' . I I I l i - tj I II lI • 1 ·1 I jI - l I l - j I I .
+I ' ' I I I I
+I I
+0 600 1200 1800 2400 3000 3600 4200 4800 5400 6000 6600 7200 7800 8400 9000 9600 10200
+Vertical Section at 89.49°
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass -EDM Prod Local CCM>l'dlnateR eference: Well Wade Federal 5300 41-30 66
+Company: Oasis TVD Reference: WELL@ 2070.0fl (Original Well Elev)
+Project: Indian Hills MD Reference: WELL@ 2070.0fl (Original Well Elev)
+Site: 153N-1O OW-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 66 Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 66
+Design: Design #1
+Project Indian Hills
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Sita 153N-1O OW-29/30
+Site Position: Northing: 395,521.43 fl Latitude: 48' 2' 32.580 N
+w
+From: LaULong Easting: 1,209,621.64 fl Longitude: 103' 36' 11.410
+Position Uncertainty : 0.0 fl Slot Radius: 13.200 in Grid Convergence: -2.31 °
+Wall Wade Federal 5300 41-30 66
+Well Position +N/-S -398.2 fl Northing: 395,121.92 fl Latitude: 48' 2' 28.650 N
+w
++E/-W 40.1 fl Easting: 1,209,645.66 fl Longitude: 103' 36' 10.820
+Position Uncertainty 0.0 fl Wellhead Elevation: Ground Level: 2,045.0 fl
+Well bore Wade Federal 5300 41-30 68
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(') (°) (nT)
+IGRF200510 1/28/2014 8.18 72.95 56,489
+Design Design #1
+Audit Notes:
+Version: Phase: PROTOTYPE Tie On Depth: 0.0
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(ft) (ft) (ft) (')
+0.0 0.0 0.0 89.49
+c•
+Plan Sections
+Measured Vertical Dogleg Build Tum
+Depth lncllnatlon Azimuth Depth +N/-S +E/-W Rate Rate Rate TFO
+(ft) (') (') (ft) (ft) (ft) ('/100ft) ('/100ft) ('/100ft) (') Target
+0.0 0.00 0.00 0.0 a.a a.o a.oo a.ao a.oa o.ao
+2,a5o.a 0.00 o.oa 2,050.0 a.o 0.0 o.ao a.ao o.oa 0.00
+2,a60.a 0.50 o.ao 2,06a.o a.o 0.0 5.00 5.00 0.00 0.00
+7,779.7 0.50 0.00 7,779.4 50.0 0.0 0.00 0.00 0.00 0.00
+7,789.7 0.00 0.00 7,789.4 50.0 0.0 5.00 -5.00 0.00 180.00
+10,000.2 0.00 0.00 10,000.0 50.0 0.0 0.00 0.00 0.00 0.00
+10,223.6 0.00 0.00 10,223.4 50.0 0.0 0.00 0.00 a.oa a.ao
+1a,970.7 89.65 86.11 1a,700.9 82.2 473.5 12.00 12.00 a.oo 86.11
+1a,990.3 89.65 86.11 10,701.0 83.5 493.a a.oa a.aa 0.00 0.00
+11,184.7 89.65 9a.aa 1a.1a2.2 90.1 687.2 2.00 a.oo 2.00 90.00
+20,525.6 89.65 9a.aa 1a,759.1 9a.1 10,028.0 0.00 0.00 0.00 0.00
+511912014 4:27:23PM Page2 COMPASS 5000. 1 Build 65
 Lynn D. Helms -Director Bruce E. Hicks -Assistant Director
 Department of Mineral Resources
 Lynn D. Helms -Director
@@ -1320,7 +1603,7 @@ $12 .500 for each offense, and each day's violation is a separate offense.
 Sincerely
 Geologist
 600 E Boulevard Ave -Dept 405, Bismarck, North Dakota 58505-0840 Phone (70 I )328-8020 Fax (70 l )328-8022
-(cid:36)(cid:51)(cid:51)(cid:47)(cid:44)(cid:38)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:41)(cid:50)(cid:53)(cid:3)(cid:51)(cid:40)(cid:53)(cid:48)(cid:44)(cid:55)(cid:3)(cid:55)(cid:50)(cid:3)(cid:39)(cid:53)(cid:44)(cid:47)(cid:47)(cid:3)(cid:43)(cid:50)(cid:53)(cid:44)(cid:61)(cid:50)(cid:49)(cid:55)(cid:36)(cid:47)(cid:3)(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:16)(cid:3)(cid:41)(cid:50)(cid:53)(cid:48)(cid:3)(cid:20)(cid:43)
+
 INDUSTRIAL COMMISSION OF NORTH DAKOTA
 OIL AND GAS DIVISION
 600 EAST BOULEVARD DEPT 405
@@ -1337,33 +1620,33 @@ Address City State Zip Code
 Noticehasbeenprovidedtotheownerofany Thiswellisnotlocatedwithinfivehundred
 ✔ ✔
 permanentlyoccupieddwellingwithin1,320feet. feetofanoccupieddwelling.
-(cid:58)(cid:40)(cid:47)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:3)(cid:11)(cid:44)(cid:73)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:82)(cid:81)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:83)(cid:82)(cid:86)(cid:72)(cid:71)(cid:15)(cid:3)enter data for additional laterals on page 2)
+enter data for additional laterals on page 2)
 Well Name Well Number
 WADEFEDERAL 530041-306B
 Surface Footages Qtr-Qtr Section Township Range County
-910 F S L 280 F W L LOT4 30 153 (cid:49) 100 (cid:58) McKenzie
+910 F S L 280 F W L LOT4 30 153  100  McKenzie
 Longstring Casing Point Footages Qtr-Qtr Section Township Range County
-994 F S L 773 F W L LOT4 30 153 (cid:49) 100 (cid:58) McKenzie
+994 F S L 773 F W L LOT4 30 153  100  McKenzie
 Longstring Casing Point Coordinates From Well Head Azimuth Longstring Total Depth
-84 N From WH 493 E From WH 86.1 (cid:158) 10990 Feet MD 10701 Feet TVD
+84 N From WH 493 E From WH 86.1  10990 Feet MD 10701 Feet TVD
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-1000 F S L 214 F E L LOT6 29 153 (cid:49) 100 (cid:58) Williams
+1000 F S L 214 F E L LOT6 29 153  100  Williams
 Bottom Hole Coordinates From Well Head KOP Lateral 1 Azimuth Lateral 1 Estimated Total Depth Lateral 1
-90 N From WH 10028 E From WH 10224 Feet MD 90.0 (cid:158) 20526 Feet MD 10759 Feet TVD
+90 N From WH 10028 E From WH 10224 Feet MD 90.0  20526 Feet MD 10759 Feet TVD
 Latitude of Well Head Longitude of Well Head NAD Reference Description of (Subject to NDIC Approval)
-48 (cid:131) 02 (cid:10) 28.65(cid:5) -103 (cid:131) 36 (cid:10) 10.82 (cid:5) NAD83 SpacingUnit: Sections29&30T153NR100W
+48  02  28.65 -103  36  10.82  NAD83 SpacingUnit: Sections29&30T153NR100W
 Ground Elevation Acres in Spacing/Drilling Unit Spacing/Drilling Unit Setback Requirement Industrial Commission Order
 2074 Feet Above S.L. 1280 500 FeetN/S 200 FeetFEe/eWt 23752
 North Line of Spacing/Drilling Unit South Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit West Line of Spacing/Drilling Unit
 10513 Feet 10522 Feet 5082 Feet 5236 Feet
 Objective Horizons Pierre Shale Top
 Bakken 1920
-Proposed Size Weight Depth Cement Volume (cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:54)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:75)(cid:82)(cid:79)(cid:72)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:72)(cid:71)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:73)(cid:85)(cid:72)(cid:86)(cid:75)(cid:3)(cid:90)(cid:68)(cid:87)(cid:72)(cid:85)
-Surface Casing 9 (cid:16) 5/8 (cid:5) 36 Lb./Ft. 2050 Feet 598 Sacks (cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:87)(cid:82)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:17)
+Proposed Size Weight Depth Cement Volume 
+Surface Casing 9  5/8  36 Lb./Ft. 2050 Feet 598 Sacks 
 Proposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand
-Longstring Casing 7 (cid:16) (cid:5) 29/32 Lb./Ft. 10990Feet MD 10701 Feet TVD 786 Sacks 3891 Feet 5391 Feet
+Longstring Casing 7   29/32 Lb./Ft. 10990Feet MD 10701 Feet TVD 786 Sacks 3891 Feet 5391 Feet
 BBaassee oLfa LsatsCt hSaarllet s(IfS Aapltp(lIifcAabplpel)icable)
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:68)(cid:69)(cid:82)(cid:89)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:39)(cid:68)(cid:78)(cid:82)(cid:87)(cid:68)(cid:3)(cid:42)(cid:85)(cid:82)(cid:88)(cid:83)(cid:3)(cid:54)(cid:68)(cid:81)(cid:71)(cid:17)
+
 9163 Feet
 Proposed Logs
 TripleCombo:KOP-KibbyGR/RestoBSCGR-ToSurfCNDthruDakota
@@ -1371,58 +1654,58 @@ Drilling Mud Type (Vertical Hole - Below Surface Casing) Drilling Mud Type (Late
 Invert SaltWaterGel
 Survey Type in Vertical Portion of Well Survey Frequency: Build Section Survey Frequency: Lateral Survey Contractor
 MWD Every 100 Feet 30 Feet 90 Feet Ryan
-(cid:49)(cid:50)(cid:55)(cid:40)(cid:29)(cid:3)(cid:36)(cid:3)(cid:42)(cid:68)(cid:80)(cid:80)(cid:68)(cid:3)(cid:53)(cid:68)(cid:92)(cid:3)(cid:79)(cid:82)(cid:74)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:87)(cid:82)(cid:3)(cid:74)(cid:85)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:73)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:68)(cid:3)(cid:38)(cid:37)(cid:47)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:85)(cid:88)(cid:81)(cid:3)(cid:82)(cid:81)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:80)(cid:72)(cid:71)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:82)(cid:81)(cid:74)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:68)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:87)(cid:85)(cid:76)(cid:81)(cid:74)(cid:3)(cid:76)(cid:73)(cid:3)(cid:86)(cid:72)(cid:87)(cid:17)
-(cid:54)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:79)(cid:72)(cid:68)(cid:86)(cid:87)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:22)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:69)(cid:88)(cid:76)(cid:79)(cid:71)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:28)(cid:19)(cid:3)(cid:73)(cid:72)(cid:72)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:79)(cid:68)(cid:87)(cid:72)(cid:85)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:17)(cid:3)(cid:3)(cid:48)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)
-(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:3)(cid:90)(cid:75)(cid:72)(cid:81)(cid:3)(cid:71)(cid:72)(cid:87)(cid:72)(cid:85)(cid:80)(cid:76)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:76)(cid:68)(cid:81)(cid:70)(cid:72)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:76)(cid:81)(cid:74)(cid:18)(cid:71)(cid:85)(cid:76)(cid:79)(cid:79)(cid:76)(cid:81)(cid:74)(cid:3)(cid:88)(cid:81)(cid:76)(cid:87)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:86)(cid:72)(cid:87)(cid:69)(cid:68)(cid:70)(cid:78)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
-(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:76)(cid:81)(cid:74)(cid:3)(cid:86)(cid:70)(cid:72)(cid:81)(cid:68)(cid:85)(cid:76)(cid:82)(cid:86)(cid:29)(cid:3)(cid:3)(cid:20)(cid:12)(cid:3)(cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:81)(cid:74)(cid:79)(cid:72)(cid:3)(cid:69)(cid:72)(cid:87)(cid:90)(cid:72)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:83)(cid:72)(cid:70)(cid:87)(cid:76)(cid:89)(cid:72)(cid:3)(cid:69)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:85)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:20)(cid:19)(cid:3)(cid:71)(cid:72)(cid:74)(cid:85)(cid:72)(cid:72)(cid:86)(cid:3)(cid:82)(cid:85)(cid:3)(cid:79)(cid:72)(cid:86)(cid:86)(cid:30)(cid:3)(cid:82)(cid:85)(cid:3)(cid:21)(cid:12)(cid:3)(cid:44)(cid:73)(cid:3)(cid:44)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:92)(cid:3)(cid:86)(cid:87)(cid:68)(cid:81)(cid:71)(cid:68)(cid:85)(cid:71)
-(cid:80)(cid:72)(cid:87)(cid:75)(cid:82)(cid:71)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:72)(cid:84)(cid:88)(cid:76)(cid:83)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:88)(cid:87)(cid:76)(cid:79)(cid:76)(cid:93)(cid:72)(cid:71)(cid:17)(cid:3)(cid:3)(cid:38)(cid:82)(cid:81)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:70)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:73)(cid:76)(cid:72)(cid:79)(cid:71)(cid:3)(cid:82)(cid:85)(cid:71)(cid:72)(cid:85)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:72)(cid:91)(cid:70)(cid:72)(cid:83)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:17)
-(cid:3)
-(cid:44)(cid:73)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:76)(cid:72)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:70)(cid:82)(cid:81)(cid:86)(cid:76)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:15)(cid:3)(cid:68)(cid:3)(cid:21)(cid:131)(cid:3)(cid:48)(cid:58)(cid:39)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:69)(cid:72)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:83)(cid:82)(cid:85)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)
-(cid:69)(cid:82)(cid:85)(cid:72)(cid:17)(cid:3)(cid:3)(cid:55)(cid:75)(cid:76)(cid:86)(cid:3)(cid:80)(cid:72)(cid:68)(cid:86)(cid:88)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:76)(cid:81)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:70)(cid:92)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:72)(cid:79)(cid:79)(cid:3)(cid:69)(cid:82)(cid:85)(cid:72)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:46)(cid:50)(cid:51)(cid:3)(cid:87)(cid:82)(cid:3)(cid:55)(cid:39)(cid:17)
-(cid:53)(cid:40)(cid:52)(cid:56)(cid:44)(cid:53)(cid:40)(cid:39)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:29)(cid:3)(cid:3)(cid:38)(cid:72)(cid:85)(cid:87)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:86)(cid:88)(cid:85)(cid:89)(cid:72)(cid:92)(cid:82)(cid:85)(cid:10)(cid:86)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:75)(cid:82)(cid:85)(cid:76)(cid:93)(cid:82)(cid:81)(cid:87)(cid:68)(cid:79)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:83)(cid:79)(cid:68)(cid:87)(cid:15)(cid:3)(cid:72)(cid:86)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:74)(cid:72)(cid:82)(cid:79)(cid:82)(cid:74)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)(cid:87)(cid:82)(cid:83)(cid:86)(cid:15)(cid:3)proposed mud/cementing plan,
+
+
+
+
+
+
+
+
+proposed mud/cementing plan,
 directionalplot/plan,$100fee.
-(cid:54)(cid:72)(cid:72)(cid:3)(cid:51)(cid:68)(cid:74)(cid:72)(cid:3)(cid:21)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:86)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:86)(cid:76)(cid:74)(cid:81)(cid:68)(cid:87)(cid:88)(cid:85)(cid:72)(cid:3)(cid:69)(cid:79)(cid:82)(cid:70)(cid:78)(cid:17)
+
 Page 2
 SFN 54269 (08-2005)
-(cid:38)(cid:50)(cid:48)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)(cid:15)(cid:3)(cid:36)(cid:39)(cid:39)(cid:44)(cid:55)(cid:44)(cid:50)(cid:49)(cid:36)(cid:47)(cid:3)(cid:44)(cid:49)(cid:41)(cid:50)(cid:53)(cid:48)(cid:36)(cid:55)(cid:44)(cid:50)(cid:49)(cid:15)(cid:3)(cid:36)(cid:49)(cid:39)(cid:18)(cid:50)(cid:53)(cid:3)(cid:47)(cid:44)(cid:54)(cid:55)(cid:3)(cid:50)(cid:41)(cid:3)(cid:36)(cid:55)(cid:55)(cid:36)(cid:38)(cid:43)(cid:48)(cid:40)(cid:49)(cid:55)(cid:54)
+
 Documentsforwardedbyemail:Drillplanwithdrillingfluids,WellSummarywithcasing/cementplans,DirectionalPlan&Plot,Plats.
 Cuttingswillbehauledtoanapproveddisposalfacility.
 Lateral 2
 KOP Lateral 2 Azimuth Lateral 2 Estimated Total Depth Lateral 2 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 3
 KOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 4
 KOP Lateral 4 Azimuth Lateral 4 Estimated Total Depth Lateral 4 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Lateral 5
 KOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head
-Feet MD (cid:158) Feet MD Feet TVD From WH From WH
+Feet MD  Feet MD Feet TVD From WH From WH
 Formation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head
 From WH From WH From WH From WH
 KOP Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Bottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County
-F L F L (cid:49) (cid:58)
+F L F L  
 Date
 I hereby swear or affirm the information provided is true, complete and correct as determined from all available records.
 03 / 31 / 2014
@@ -1430,9 +1713,9 @@ Signature Printed Name Title
 ePermit
 BrandiTerry RegulatorySpecialist
 Email Address(es)
-(cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60) (cid:41)(cid:50)(cid:53)(cid:3)(cid:54)(cid:55)(cid:36)(cid:55)(cid:40)(cid:3)(cid:56)(cid:54)(cid:40)(cid:3)(cid:50)(cid:49)(cid:47)(cid:60)
+ 
 Permit and File Number API Number Date Approved
-28425 (cid:22)(cid:22) (cid:16) 053 (cid:16) 05954 5 / 21 / 2014
+28425   053  05954 5 / 21 / 2014
 Field By
 BAKER AliceWebber
 Pool Permit Type Title
@@ -1595,3 +1878,117 @@ b) Burst pressure based on 9000 psi treating pressure with 10.2 ppg internal flu
 gradient and 9 ppg external fluid gradient @ 10759' TVD.
 c) Based on string weight in 9.5 ppg fluid (Buoyed weight: 103k lbs.) plus 100k lbs
 overpull.
+3750
+2500
+1250
+0
+-1250
+)ni/tf
+0052(
+)+(htroN/)-(htuoS
+Wade Federal 5300 41-30 6B
+-2500 -1250 0 1250 2500 3750 5000 6250 7500 8750 10000 11250 12500
+West(-)/East(+) (2500 ft/in)
+9000
+9450
+9900
+10350
+10800
+htpeD
+lacitreV
+eurT
+T M Azimuths to True North SITE DETAILS: 153N-100W-29/30
+Magnetic North: 8.18°
+Site Centre Latitude: 48° 2' 28.650 N
+Magnetic Field Longitude: 103° 36' 10.82 W
+Strength: 56488.6snT
+Positional Uncertainity: 0.0
+Dip Angle: 72.95°
+Project: Indian Hills Convergence: -2.31
+Date: 1/28/2014
+Site: 153N-100W-29/30 Local North: True
+Model: IGRF200510
+Well: Wade Federal 5300 41-30 6B
+Wellbore: Wade Federal 5300 41-30 6B
+Setbacks Design: Design #1
+500' N/S
+200' E/W 1125
+750
+375
+SHL 30 29 BHL
+910' FSL 1000' FSL
+280' FWL 210' FWL 0
+-375
+CASING DETAILS
+SECTION DETAILS
+TVD MD Size
+MD Inc Azi TVD +N/-S +E/-W Dleg
+2050.0 2050.0 9.625
+10701.0 10990.3 7.000 2050 0.0 .0 00 .. 00 00 00 .. 00 00 200 5. 00 .0 0 0. .0 0 00 .. 00 0 0. .0 00 0
+2060.0 0.50 0.00 2060.0 0.0 0.0 5.00
+7779.7 0.50 0.00 7779.4 50.0 0.0 0.00
+7789.7 0.00 0.00 7789.4 50.0 0.0 5.00
+10000.2 0.00 0.00 10000.0 50.0 0.0 0.00
+10223.6 0.00 0.00 10223.4 50.0 0.0 0.00
+Start 223.4 hold at 10000.2 MD 10970.7 89.65 86.11 10700.9 82.2 473.5 12.00
+10990.3 89.65 86.11 10701.0 83.5 493.0 0.00
+Start Build 12.00 KOP
+11184.7 89.65 90.00 10702.2 90.1 687.2 2.00
+20525.6 89.65 90.00 10759.1 90.1 10028.0 0.00
+7"
+Start 9341.0 hold at 11184.7 MD
+0 600 1200 1800 2400 3000 3600 4200 4800 5400 6000 6600 7200 7800 8400 9000 9600 10200
+Vertical Section at 89.49°
+)ni/tf
+057(
+)+(htroN/)-(htuoS
+Wade Federal 5300 41-30 6B
+-1125 -750 -375 0 375 750
+West(-)/East(+) (750 ft/in)
+Oasis Petroleum
+Planning Report
+Database: OpenWellsCompass - EDM Prod Local Co-ordinate Reference: Well Wade Federal 5300 41-30 6B
+Company: Oasis TVD Reference: WELL @ 2070.0ft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2070.0ft (Original Well Elev)
+Site: 153N-100W-29/30 North Reference: True
+Well: Wade Federal 5300 41-30 6B Survey Calculation Method: Minimum Curvature
+Wellbore: Wade Federal 5300 41-30 6B
+Design: Design #1
+Project Indian Hills
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site 153N-100W-29/30
+Site Position: Northing: 395,521.43 ft Latitude: 48° 2' 32.580 N
+From: Lat/Long Easting: 1,209,621.64 ft Longitude: 103° 36' 11.410 W
+Position Uncertainty: 0.0 ft Slot Radius: 13.200 in Grid Convergence: -2.31 °
+Well Wade Federal 5300 41-30 6B
+Well Position +N/-S -398.2 ft Northing: 395,121.92 ft Latitude: 48° 2' 28.650 N
++E/-W 40.1 ft Easting: 1,209,645.66 ft Longitude: 103° 36' 10.820 W
+Position Uncertainty 0.0 ft Wellhead Elevation: Ground Level: 2,045.0 ft
+Wellbore Wade Federal 5300 41-30 6B
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(°) (°) (nT)
+IGRF200510 1/28/2014 8.18 72.95 56,489
+Design Design #1
+Audit Notes:
+Version: Phase: PROTOTYPE Tie On Depth: 0.0
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(ft) (ft) (ft) (°)
+0.0 0.0 0.0 89.49
+Plan Sections
+Measured Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Rate Rate Rate TFO
+(ft) (°) (°) (ft) (ft) (ft) (°/100ft) (°/100ft) (°/100ft) (°) Target
+0.0 0.00 0.00 0.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,050.0 0.00 0.00 2,050.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,060.0 0.50 0.00 2,060.0 0.0 0.0 5.00 5.00 0.00 0.00
+7,779.7 0.50 0.00 7,779.4 50.0 0.0 0.00 0.00 0.00 0.00
+7,789.7 0.00 0.00 7,789.4 50.0 0.0 5.00 -5.00 0.00 180.00
+10,000.2 0.00 0.00 10,000.0 50.0 0.0 0.00 0.00 0.00 0.00
+10,223.6 0.00 0.00 10,223.4 50.0 0.0 0.00 0.00 0.00 0.00
+10,970.7 89.65 86.11 10,700.9 82.2 473.5 12.00 12.00 0.00 86.11
+10,990.3 89.65 86.11 10,701.0 83.5 493.0 0.00 0.00 0.00 0.00
+11,184.7 89.65 90.00 10,702.2 90.1 687.2 2.00 0.00 2.00 90.00
+20,525.6 89.65 90.00 10,759.1 90.1 10,028.0 0.00 0.00 0.00 0.00
+5/19/2014 4:27:23PM Page 2 COMPASS 5000.1 Build 65

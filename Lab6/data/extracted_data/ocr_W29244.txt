@@ -1073,6 +1073,79 @@ a) Based on full casing evacuation with 9.5 ppg fluid on backside @ 10862' TVD.
 b) Burst pressure based on 9000 psi treating pressure with 10.2 ppg internal fluid gradient
 and 9 ppg external fluid gradient @ 10862' TVD.
 c) Based on string weight in 9.5 ppg fluid (Buoyed weight: 123k lbs.) plus 100k lbs overpull.
+Planning Report
+Database: Open\NellsCompass - EDM Prod Local Co-ordinateR efarenc:e: \Nell Kline Federal 5300 11-18 3T
+Company: Oasis lVD Referance: RKB @ 2078.0usft
+Project Indian Hills MD Reference: RKB @ 2078.0usft
+Site: 153N-100W-17 /18 North Reference: True
+Well: Kline Federal 5300 11-18 3T Survey Calculation Method: Minimum Curvature
+Wellb ore: Kline Federal 5300 11-18 3T
+Design: Design #5
+Project Indian Hills
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site 153N-100W-17/18
+Site Position: Northing: 408,962.44 usft Latitude: 48' 4' 45.380 N
+From: Lat/Long Easting: 1,210,229.18 usft Longitude: 103' 36' 10.380 w
+Position Uncertainty: 0.0 usft Slot Radius: 13.200 in Grid Convergence: -2.31 °
+Well Kline Federal 5300 11-18 3T
+Well Position +N/-S -29.4 usft Northing: 408,933.65 usft Latitude: 48' 4' 45.090 N
++E/-W -14.3 usft Easting: 1,210,213.75 usft Longitude: 103' 36' 10.590 w
+Position Uncertainty 2.0 usft Wellhead Elevation: Ground Level: 2,053.0 usft
+Wellb ore Kline Federal 5300 11-18 3T
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(') (°) (nll
+IGRF2010 4/22/2014 8.28 73.00 56,450
+Design Design #5
+Audit Notes:
+neon
+Version: Phase: PROTOTYPE Depth: 0.0
+Vertical Section: Depth From (lVD) +N/-S +E/-W Direction
+(usft) (usft) (usft) (°)
+0.0 0.0 0.0 94.89
+Plan Sections I
+Measured Vertical Dogleg Bullet Tum
+Depth Inclination Azimuth Depth +N/-S +E/-W Rat& Rat& Rat& TFO
+(usft) (') (0) (usft) (usft) (usft) (0/100ft) ('/100ft) ('/100ft) (') Target
+0.0 0.00 0.00 0.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,500.0 0.00 0.00 2,500.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,516.7 0.50 270.00 2,516.7 0.0 -0.1 3.00 3.00 0.00 270.00
+8,226.7 0.50 270.00 8,226.4 0.0 -49.9 0.00 0.00 0.00 0.00
+8,243.3 0.00 0.00 8,243.1 0.0 -50.0 3.00 -3.00 0.00 180.00
+10,332.7 0.00 0.00 10,332.5 0.0 -50.0 0.00 0.00 0.00 0.00
+11,080.2 89.70 133.60 10,810.0 -327.5 294.0 12.00 12.00 0.00 133.60
+12,533.4 89.70 90.00 10,818.0 -854.3 1,610.9 3.00 0.00 -3.00 -90.12
+20,923.6 89.70 90.00 10,862.0 -855.0 10,001.0 0.00 0.00 0.00 0.00 Kline Federal 5300 11
+112712015 1:49:27PM Page2 COMPASS 5000.1 Build 65
+Planning Report
+Databae: Open\NellsCompass -EDM Prod Local Co-ordinate Reference: \Nell Kline Federal 5300 11-18 3T
+Company: Oasis TVD Rafarence: RKB@ 2078.0usft
+Project: Indian Hills MD Reference: RKB@ 2078.0usft
+Sita: 153N-1 OOW-17 /18 North Reference: True
+Well: Kline Federal 5300 11-18 3T Survey catculatlon Method: Minimum Curvature
+Wellbore: Kline Federal 5300 11-18 3T
+Design: Design #5
+Planned Survey
+Measured Vertical Vertical Build Tum
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate Rate
+(usft) r1 r1 (usft) (usft) (usft) (usft) r1100ft) r1100ft)
+Design Targets I I
+Target Name
+-hltlmisst arget Dip ,A.,n gle Dip Dir. TVD +N/-S +E/-W Northing Easting
+-Shape (°) (usft) (usft) (usft) (usft) (usft) Latitude Longitude
+Kline Federal 5300 11-11 0.00 0.00 10,862.0 -855.0 10,001.0 407,676.42 1,220, 172.19 48' 4' 36.626 N 103° 33' 43.308 w
+-plan hi1s target center
+-Point
+- ·-1
+Casing Points I
+Measunid Vertical Casing Hole
+Depth Depth Dlametllr Diametar
+(usft) (usft) Name (In) (in)
+2,068.0 2,068.0 13 3/8" 13.375 17.500
+6,447.0 6,446.9 9 5/8" 9.625 12.250
+11,080.2 10,810.0 7" 7.000 8.750
+112712015 1: 49:27PM Pagel COMPASS 5000. 1 Build 65
 Oasis Petroleum
 Well Summary
 Kline Federal 5300 11-18 3T
@@ -1502,3 +1575,166 @@ our hydraulic fracture operations.
 68476-30-2 (Primary Name: Fuel oil No. 2)
 68476-31-3 (Primary Name: Fuel oil, No. 4)
 8008-20-6 (Primary Name: Kerosene)
+7800
+8400
+9000
+9600
+10200
+10800
+)ni/tfsu
+0021(
+htpeD
+lacitreV
+eurT
+7200
+6000
+4800
+3600
+2400
+1200
+0
+-1200
+-2400
+-3600
+Start DLS 3.00 TFO -90.13
+Start Build 12.00
+Start 8382.8 hold at 12655.6 MD
+7" Casing
+Kline Federal 5300 11-18 3T/Design #6
+TD at 21038.5
+Start 15.0 hold at 11084.1 MD PBHL Kline Federal 5300 11-18 3T
+0 600 1200 1800 2400 3000 3600 4200 4800 5400 6000 6600 7200 7800 8400 9000 9600 10200 10800 11400
+Vertical Section at 95.74° (1200 usft/in)
+)ni/tfsu
+0042(
+)+(htroN/)-(htuoS
+Company: Oasis Petroleum
+Field: Indian Hills
+Location: 153N-100W-17/18
+Well: Kline Federal 5300 11-18 3T
+Wellbore #1
+Plan: Design #6 (Kline Federal 5300 11-18 3T/Wellbore #1)
+SECTION DETAILS
+SHL: 1020' FNL & 290' FWL Sec MD Inc Azi TVD +N/-S +E/-W Dleg TFace VSect Target (Sec.18-T153N-R100W)
+1 0.0 0.00 0.00 0.0 0.0 0.0 0.00 0.00 0.0 175
+2 2500.0 0.00 0.00 2500.0 0.0 0.0 0.00 0.00 0.0 PBHL: 2030' FNL & 205' FEL
+3 2650.0 3.00 270.00 2649.9 0.0 -3.9 2.00 270.00 -3.9 (Sec.17-T153N-R100W)
+4 3501.2 3.00 270.00 3500.0 0.0 -48.5 0.00 0.00 -48.2
+5 3651.2 0.00 0.00 3649.9 0.0 -52.4 2.00 180.00 -52.1 Notice: Section Lines and
+6 10336.6 0.00 0.00 10335.3 0.0 -52.4 0.00 0.00 -52.1 Hardlines are estimates only
+7 11084.1 89.70 137.00 10812.8 -347.4 271.5 12.00 137.00 304.9 0 and are subject to customer 8 11099.1 89.70 137.00 10812.8 -358.3 281.8 0.00 0.00 316.2 approval
+9 12655.6 89.70 90.30 10821.5 -965.6 1668.4 3.00 -90.13 1756.6 PBHL Kline Federal 5300 11-18 3T
+1021038.5 89.70 90.30 10865.4 -1010.0 10051.0 0.00 0.00 10101.6 PBHL Kline Federal 5300 11-18 3T
+T M Azimuths to True North
+Magnetic North: 8.14°
+WELL DETAILS:Kline Federal 5300 11-18 3T -175
+Magnetic Field
+Ground Level: 2053.0 Strength: 56479.0snT +N/-S +E/-W Northing Easting Latittude Longitude Slot Dip Angle: 72.97°
+0.0 0.0 408933.65 1210213.75 48° 4' 45.090 N 103° 36' 10.590 W Date: 04/22/2014
+Model: IGRF200510
+WELLBORE TARGET DETAILS -350
+Name TVD +N/-S +E/-W Latitude Longitude Shape
+PBHL Kline Federal 5300 11-18 3T10865.0 -1010.0 10051.0 48° 4' 35.096 N 103° 33' 42.573 W Point
+ANNOTATIONS CASING DETAILS -525
+TVD MD Annotation TVD MD Name Size
+2500.0 2500.0 Start Build 2.00 2068.0 2068.0 13 3/8" Casing 13-3/8 Ash Federal 5300 11-18T/Wellbore #1
+2649.9 2650.0 Start 851.2 hold at 2650.0 MD 10812.8 11085.0 7" Casing 7
+3500.0 3501.2 Start DLS 2.00 TFO 180.00 6100.0 6101.3 9 5/8" Casing 9-5/8 Kline Federal 5300 11-18 2T2/Design #6 3649.9 3651.2 Start 6685.4 hold at 3651.2 MD
+10335.3 10336.6 Start Build 12.00
+10812.8 11084.1 Start 15.0 hold at 11084.1 MD Plan: Design #6 (Kline Federal 5300 11-18 3T/Wellbore #1) Kline Federal 5300 11-18H/Wellbore #1
+10812.8 11099.1 Start DLS 3.00 TFO -90.13
+10821.5 12655.6 Start 8382.8 hold at 12655.6 MD Created By:M. Loucks Date: 15:28, June 30 2014
+10865.4 21038.5 TD at 21038.5
+PBHL Kline Federal 5300 11-18 3T
+Kline Federal 5300 11-18 3T/Design #6
+Kline Federal 5300 21-18 5B/Design #6 Kline Federal 5300 21-18 4T2/Design #6
+0 1200 2400 3600 4800 6000 7200 8400 9600 10800
+West(-)/East(+) (2400 usft/in)
+)ni/tfsu
+053(
+)+(htroN/)-(htuoS
+Ash Federal 5300 11-18T
+Kline Federal 5300 11-18 2T2
+Kline Federal 5300 11-18H
+Kline Federal 5300 11-18 3T
+Kline Federal 5300 21-18 4T2
+Kline Federal 5300 21-18 5B
+0 175 350 525
+West(-)/East(+) (350 usft/in)
+Gyrodata, Inc.
+Planning Report
+Database: EDM 5000.1 Single User Db Local Co-ordinate Reference: Well Kline Federal 5300 11-18 3T
+Company: Oasis Petroleum TVD Reference: WELL @ 2078.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2078.0usft (Original Well Elev)
+Site: 153N-100W-17/18 North Reference: True
+Well: Kline Federal 5300 11-18 3T Survey Calculation Method: Minimum Curvature
+Wellbore: Wellbore #1
+Design: Design #6
+Project Indian Hills
+Map System: US State Plane 1983 System Datum: Mean Sea Level
+Geo Datum: North American Datum 1983
+Map Zone: North Dakota Northern Zone
+Site 153N-100W-17/18
+Site Position: Northing: 408,992.30 usft Latitude: 48° 4' 45.680 N
+From: Lat/Long Easting: 1,210,243.30 usft Longitude: 103° 36' 10.190 W
+Position Uncertainty: 0.0 usft Slot Radius: 13-3/16 " Grid Convergence: -2.31 °
+Well Kline Federal 5300 11-18 3T
+Well Position +N/-S -59.8 usft Northing: 408,933.65 usft Latitude: 48° 4' 45.090 N
++E/-W -27.2 usft Easting: 1,210,213.75 usft Longitude: 103° 36' 10.590 W
+Position Uncertainty 0.0 usft Wellhead Elevation: Ground Level: 2,053.0 usft
+Wellbore Wellbore #1
+Magnetics Model Name Sample Date Declination Dip Angle Field Strength
+(°) (°) (nT)
+IGRF200510 04/22/14 8.14 72.97 56,479
+Design Design #6
+Audit Notes:
+Version: Phase: PLAN Tie On Depth: 0.0
+Vertical Section: Depth From (TVD) +N/-S +E/-W Direction
+(usft) (usft) (usft) (°)
+0.0 0.0 0.0 95.74
+Plan Sections
+Measured Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Rate Rate Rate TFO
+(usft) (°) (°) (usft) (usft) (usft) (°/100usft) (°/100usft) (°/100usft) (°) Target
+0.0 0.00 0.00 0.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,500.0 0.00 0.00 2,500.0 0.0 0.0 0.00 0.00 0.00 0.00
+2,650.0 3.00 270.00 2,649.9 0.0 -3.9 2.00 2.00 0.00 270.00
+3,501.2 3.00 270.00 3,500.0 0.0 -48.5 0.00 0.00 0.00 0.00
+3,651.2 0.00 0.00 3,649.9 0.0 -52.4 2.00 -2.00 60.00 180.00
+10,336.6 0.00 0.00 10,335.3 0.0 -52.4 0.00 0.00 0.00 0.00
+11,084.1 89.70 137.00 10,812.8 -347.4 271.5 12.00 12.00 0.00 137.00
+11,099.1 89.70 137.00 10,812.8 -358.3 281.8 0.00 0.00 0.00 0.00
+12,655.6 89.70 90.30 10,821.5 -965.6 1,668.4 3.00 0.00 -3.00 -90.13 PBHL Kline Federal 5300 11-18 3T
+21,038.5 89.70 90.30 10,865.4 -1,010.0 10,051.0 0.00 0.00 0.00 0.00 PBHL Kline Federal 5300 11-18 3T
+06/30/14 3:05:10PM Page 2 COMPASS 5000.1 Build 72
+Gyrodata, Inc.
+Planning Report
+Database: EDM 5000.1 Single User Db Local Co-ordinate Reference: Well Kline Federal 5300 11-18 3T
+Company: Oasis Petroleum TVD Reference: WELL @ 2078.0usft (Original Well Elev)
+Project: Indian Hills MD Reference: WELL @ 2078.0usft (Original Well Elev)
+Site: 153N-100W-17/18 North Reference: True
+Well: Kline Federal 5300 11-18 3T Survey Calculation Method: Minimum Curvature
+Wellbore: Wellbore #1
+Design: Design #6
+Planned Survey
+Measured Vertical Vertical Dogleg Build Turn
+Depth Inclination Azimuth Depth +N/-S +E/-W Section Rate Rate Rate
+(usft) (°) (°) (usft) (usft) (usft) (usft) (°/100usft) (°/100usft) (°/100usft)
+21,000.0 89.70 90.30 10,865.2 -1,009.8 10,012.5 10,063.3 0.00 0.00 0.00
+21,038.5 89.70 90.30 10,865.4 -1,010.0 10,051.0 10,101.6 0.00 0.00 0.00
+TD at 21038.5
+Design Targets
+Target Name
+- hit/miss target Dip Angle Dip Dir. TVD +N/-S +E/-W Northing Easting
+- Shape (°) (°) (usft) (usft) (usft) (usft) (usft) Latitude Longitude
+PBHL Kline Federal 5300 11-18 30T.00 0.00 10,865.0 -1,010.0 10,051.0 407,519.52 1,220,215.90 48° 4' 35.096 N 103° 33' 42.573 W
+- plan misses target center by 0.4usft at 21038.5usft MD (10865.4 TVD, -1010.0 N, 10051.0 E)
+- Point
+Casing Points
+Measured Vertical Casing Hole
+Depth Depth Diameter Diameter
+(usft) (usft) Name (") (")
+2,068.0 2,068.0 13 3/8" Casing 13-3/8 17-1/2
+6,101.3 6,100.0 9 5/8" Casing 9-5/8 12-1/4
+11,085.0 10,812.8 7" Casing 7 8-3/4
+06/30/14 3:05:10PM Page 9 COMPASS 5000.1 Build 72
