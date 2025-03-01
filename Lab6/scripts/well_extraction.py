@@ -11,23 +11,52 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import json
+import csv
 
+
+def dms_to_decimal(dms):
+	if dms is None:
+		print("Input is None")
+		return None
+	match = re.match(r"(\d+)°\s*(\d+)'?\s*([\d.]+)\"?\s*([NSEW])", dms)
+	if match is None:
+		print(f"Invalid DMS format: {dms}")
+		return None
+	degree, minutes, seconds, direction = match.groups()
+	decimal = float(degree) + float(minutes) /60 + float(seconds) / 3600 
+
+	if direction in ["S", "W"]:
+		decimal *= -1
+	return decimal 
 
 
 def extract_well_info(txt):
-	api_pattern = re.compile(r'\b\d{2}-\d{3}-\d{5}\b')
 	well_name_pattern = re.compile(r"Well Name and Number[^\n]*\n([A-Za-z0-9\s&-]+)")
+	well_match = well_name_pattern.findall(txt)
+
+	api_pattern = re.compile(r'\b\d{2}-\d{3}-\d{5}\b')
 	api_match = api_pattern.findall(txt)
 	api_count = Counter(api_match)
 	api = api_count.most_common(1)[0][0] if api_count else "Not Found"
 
-	well_match = well_name_pattern.findall(txt)
+	long_pattern = re.compile(r"(\d{3}(?:°|˚)\s*\d{1,2}'\s*\d{1,2}(?:\.\d+)?\"?\s*[EW])")
+	lat_pattern = re.compile(r"(\d{2}(?:°|˚)\s*\d{1,2}'\s*\d{1,2}(?:\.\d+)?\"?\s*[NS])")
+	long_match = long_pattern.findall(txt)
+	lat_match = lat_pattern.findall(txt)
+	longitude = long_match[0] if long_match else None
+	latitude = lat_match[0] if lat_match else None
+	longitude_decimal = dms_to_decimal(longitude)
+	latitude_decimal = dms_to_decimal(latitude)
+
+
 	if well_match:
 		well_name = find_most_common_substring(well_match)
 	else:
 		well_name = 'Not Found'
 	cleaned_name = re.split(r"\s*Before\s*", well_name, maxsplit=1)[0]
-	return cleaned_name, api
+
+	return cleaned_name, api, longitude_decimal, latitude_decimal
+
 
 def find_most_common_substring(well_names):
 	all_substrings = []
@@ -136,26 +165,30 @@ def insert_data(data):
         id INT AUTO_INCREMENT PRIMARY KEY,
         name VARCHAR(30),
 	API CHAR(12),
+	latitude DECIMAL(10, 6),
+	longitude DECIMAL(10,6),
 	block_stats JSON,
 	well_status VARCHAR(10),
 	well_type VARCHAR(20),
 	closest_city VARCHAR(30),
-	filename VARCHAR(6) 
+	filename VARCHAR(10) 
 	);
 	''')
 
 	for record in data:
 		well_name = record.get("well_name")
 		api = record.get("api")
+		latitude = record.get("latitude")
+		longitude = record.get("longitude")
 		block_stats = json.dumps(record.get("block_stats"))
 		well_status = record.get("well_status")
 		well_type = record.get("well_type")
 		closest_city = record.get("closest_city")
 		filename = record.get("filename")
 		if not check_duplicates(cursor, well_name, api):
-			sql = """INSERT INTO well (name, API, block_stats, well_status, well_type, closest_city, filename)
-				VALUE(%s, %s, %s, %s, %s, %s, %s)"""
-			values = (well_name, api, block_stats, well_status, well_type, closest_city, filename)
+			sql = """INSERT INTO well (name, API, latitude, longitude, block_stats, well_status, well_type, closest_city, filename)
+				VALUE(%s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+			values = (well_name, api, latitude, longitude, block_stats, well_status, well_type, closest_city, filename)
 			cursor.execute(sql, values)
 			print(f"insert record")
 		else:
@@ -172,17 +205,42 @@ for filename in os.listdir(input_folder):
 	with open(input_path, 'r', encoding='utf-8') as f:
 		text = f.read()
 
-		well_name, api = extract_well_info(text)
+		well_name, api, longitude, latitude = extract_well_info(text)
 		print(well_name)
 		print(api)
+		print(latitude)
+		print(longitude)
 
 		scraped_data = scrape_well_data(well_name, api)
-		output_filename = os.path.split(filename)[0]
+		output_filename = os.path.splitext(filename)[0].split("_")[-1] 
 		record = {
 			"well_name": well_name,
 			"api": api,
+			"latitude": latitude,
+			"longitude": longitude,
 			"filename": output_filename,
 			**scraped_data}
 		data.append(record)
+with open("../data/extracted_data/extracted_data.csv", mode='w', newline="", encoding="utf-8") as file:
+	writer = csv.DictWriter(file, fieldnames = data[0].keys())
+	writer.writeheader()
+	writer.writerows(data)
+
+#with open("../data/extracted_data.csv", mode='r', encoding='utf-8') as file:
+#	reader = csv.DictReader(file)
+#	for row in reader:
+#		record = {
+#		"well_name": row["well_name"],
+#		"api": row["api"],
+#		"longitude": row["longitude"],
+#		"latitude": row["latitude"],
+#		"block_stats": json.loads(row["block_stats"].replace("'", "\"")),
+#		"well_status": row["well_status"],
+#		"well_type": row["well_type"],
+#		"closest_city": row["closest_city"],
+#		"filename": row["filename"]
+#		}
+#		data.append(record)
+
 
 insert_data(data)
