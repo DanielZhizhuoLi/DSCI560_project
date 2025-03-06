@@ -76,11 +76,11 @@ def insert_data(data):
     );
     ''')
 	for index, row in data.items():
-	    if not check_duplicates(cursor, index):
-		    sql = """INSERT INTO posts (id, content)
-			    VALUE(%s, %s)"""
-		    values = (index, row)
-		    cursor.execute(sql, values)
+		if not check_duplicates(cursor, index):
+			sql = """INSERT INTO posts (id, content) 
+					VALUE(%s, %s)"""
+			values = (index, row)
+			cursor.execute(sql, values)
 	conn.commit()
 	cursor.close()
 	conn.close()
