@@ -4,7 +4,7 @@
 
 ### Installation
 
-```pip install pandas, numpy, python-dotenv, praw, pymql, matplotlib, nltk, gensim, json, scikit-learn, time, schedule```
+```pip install pandas numpy python-dotenv praw pymysql matplotlib nltk gensim json scikit-learn time schedule```
 
 ### Create Mysql Database in mysql
 
