@@ -1,3 +1,4 @@
+import os
 import gensim
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 import pandas as pd
@@ -6,9 +7,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import MiniBatchKMeans
 from sklearn.decomposition import PCA
+from sklearn.metrics import silhouette_score
+
+
+output_dir = "results"
+os.makedirs(output_dir, exist_ok=True)
 
 # Load dataset
-df = pd.read_csv("posts.csv")  # Replace with your actual data file
+df = pd.read_csv("posts.csv")  
 
 # Prepare data for Doc2Vec
 tagged_data = [TaggedDocument(words=row.split(), tags=[df['id'][idx]]) for idx, row in enumerate(df['content'])]
@@ -20,20 +26,19 @@ configurations = [
     {"vector_size": 200, "min_count": 2, "epochs": 40},
 ]
 
-# Store trained models and embeddings
 models = {}
 embeddings_dict = {}
 
-# Train Doc2Vec models with different configurations
 for i, config in enumerate(configurations):
     model = Doc2Vec(tagged_data, **config)
     models[f"Config_{i+1}"] = model
-    model.save(f"doc2vec_{i+1}.bin")  # Save the trained model
+    model.save(f"{output_dir}/doc2vec_{i+1}.bin")
     embeddings = np.array([model.dv[tag] for tag in df['id']])
     embeddings_dict[f"Config_{i+1}"] = embeddings
 
 # Store graph paths
 graph_paths = []
+best_bins = {}
 
 # Reduce dataset for efficiency
 if len(df) > 200:
@@ -45,19 +50,29 @@ else:
 
 # Loop through different Doc2Vec configurations
 for config_name, embeddings in sampled_embeddings_dict.items():
-    # Apply PCA to reduce dimensions before clustering
-    pca_dim = 20
+
+    pca_dim = 25
     pca = PCA(n_components=pca_dim)
     reduced_embeddings = pca.fit_transform(embeddings)
 
     # Compute WCSS using MiniBatchKMeans
     wcss = []
-    optimized_K_range = range(2, 15)
+    silhouette_scores = {}
+    optimized_K_range = range(3, 15)  
 
     for k in optimized_K_range:
         kmeans = MiniBatchKMeans(n_clusters=k, random_state=42, batch_size=512, max_iter=100)
-        kmeans.fit(reduced_embeddings)
+        labels = kmeans.fit_predict(reduced_embeddings)
         wcss.append(kmeans.inertia_)
+
+        # Compute Silhouette Score
+        silhouette_avg = silhouette_score(reduced_embeddings, labels)
+        silhouette_scores[k] = silhouette_avg
+
+    # Find the best bin count based on the highest Silhouette Score
+    best_bin = max(silhouette_scores, key=silhouette_scores.get)
+    best_bins[config_name] = best_bin
+    print(f"Best bin for {config_name}: {best_bin} (Silhouette: {silhouette_scores[best_bin]:.4f})")
 
     # Save Elbow Plot
     plt.figure(figsize=(8, 5))
@@ -65,14 +80,13 @@ for config_name, embeddings in sampled_embeddings_dict.items():
     plt.xlabel('Number of Clusters (K)')
     plt.ylabel('WCSS')
     plt.title(f'Elbow Method - {config_name}')
-    elbow_plot_path = f"elbow_{config_name}.png"
+    elbow_plot_path = f"{output_dir}/elbow_{config_name}.png"
     plt.savefig(elbow_plot_path)
     plt.close()
     graph_paths.append(elbow_plot_path)
 
-    # Use optimal K for clustering
-    optimal_k = 4
-    kmeans = MiniBatchKMeans(n_clusters=optimal_k, random_state=42, batch_size=512, max_iter=100)
+    # Perform clustering with the best bin
+    kmeans = MiniBatchKMeans(n_clusters=best_bin, random_state=42, batch_size=512, max_iter=100)
     labels = kmeans.fit_predict(reduced_embeddings)
 
     # Reduce dimensions to 2D for visualization
@@ -83,14 +97,18 @@ for config_name, embeddings in sampled_embeddings_dict.items():
     plt.figure(figsize=(10, 6))
     sns.scatterplot(x=final_embeddings[:, 0], y=final_embeddings[:, 1], hue=labels, palette='viridis', alpha=0.7)
     plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], c='red', marker='X', s=200, label="Centroids")
-    plt.title(f'KMeans Clustering - {config_name}')
+    plt.title(f'KMeans Clustering - {config_name} (Best Bins: {best_bin})')
     plt.xlabel('PCA Component 1')
     plt.ylabel('PCA Component 2')
     plt.legend()
-    cluster_plot_path = f"cluster_{config_name}.png"
+    cluster_plot_path = f"{output_dir}/cluster_{config_name}.png"
     plt.savefig(cluster_plot_path)
     plt.close()
     graph_paths.append(cluster_plot_path)
 
-# Print generated graphs
-print("Graphs saved:", graph_paths)
+# Print results
+print("\nBest bin counts for each configuration based on Silhouette Score:")
+for config, bin_count in best_bins.items():
+    print(f" - {config}: {bin_count} clusters")
+
+print("\nGraphs saved:", graph_paths)
