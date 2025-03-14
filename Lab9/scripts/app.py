@@ -10,6 +10,10 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
 from langchain_community.llms import LlamaCpp
+import os
+from pinecone import Pinecone, ServerlessSpec
+from dotenv import load_dotenv
+
 
 
 def get_pdf_text(pdf_docs):
@@ -39,6 +43,18 @@ def get_vectorstore(text_chunks):
     vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     return vectorstore
 
+def store_vector(vectorstore, index):
+    texts = vectorstore.docstore._dict.values()
+    upsert_data = []
+
+    for i, text in enumerate(texts):
+        vector = vectorstore.index.reconstruct(i)  # Retrieve FAISS vector by index
+
+        text_content = text.page_content if hasattr(text, "page_content") else str(text)
+        upsert_data.append((str(i), vector, {"text": text_content})) 
+
+    # Upsert vectors into Pinecone
+    index.upsert(vectors=upsert_data)
 
 def get_conversation_chain(vectorstore):
     #llm = ChatOpenAI()
@@ -49,16 +65,18 @@ def get_conversation_chain(vectorstore):
     # )
     llm = LlamaCpp(
         model_path="models/llama-2-7b.Q4_K_M.gguf",  n_ctx=1024, n_batch=512)
+    
+    memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True)
 
-    memory = ConversationBufferMemory(
-        memory_key='chat_history', return_messages=True)
+    retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 4})
+
     conversation_chain = ConversationalRetrievalChain.from_llm(
         llm=llm,
-        retriever=vectorstore.as_retriever(
-            search_type="similarity", search_kwargs={"k": 4}),
+        retriever=retriever,
         memory=memory,
     )
     return conversation_chain
+
 
 
 def handle_userinput(user_question):
@@ -76,6 +94,23 @@ def handle_userinput(user_question):
 
 def main():
     load_dotenv()
+
+    # Initialize Pinecone
+    pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
+
+    index_name = "ads-embedding"
+
+    # Check if the index exists, and create it if it doesn't
+    if index_name not in pc.list_indexes().names():
+        pc.create_index(
+            name=index_name,
+            dimension=384,
+            metric="cosine",  
+            spec=ServerlessSpec(cloud="aws", region="us-east-1")  
+        )
+    # Create the index object
+    index = pc.Index(index_name)
+
     st.set_page_config(page_title="Chat with PDFs",
                        page_icon=":robot_face:")
     st.write(css, unsafe_allow_html=True)
@@ -104,7 +139,10 @@ def main():
 
                 # create vector store
                 vectorstore = get_vectorstore(text_chunks)
-                print(vectorstore)
+
+                # store vector into database
+                store_vector(vectorstore, index)
+
                 # create conversation chain
                 st.session_state.conversation = get_conversation_chain(
                     vectorstore)
