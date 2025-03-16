@@ -13,7 +13,7 @@ from langchain_community.llms import LlamaCpp
 import os
 from pinecone import Pinecone, ServerlessSpec
 from dotenv import load_dotenv
-
+from langchain.llms import HuggingFaceEndpoint
 
 
 def get_pdf_text(pdf_docs):
@@ -56,23 +56,42 @@ def store_vector(vectorstore, index):
     # Upsert vectors into Pinecone
     index.upsert(vectors=upsert_data)
 
-def get_conversation_chain(vectorstore):
-    #llm = ChatOpenAI()
-    # llm = HuggingFacePipeline.from_model_id(
-    #     model_id="lmsys/vicuna-7b-v1.3",
-    #     task="text-generation",
-    #     model_kwargs={"temperature": 0.01},
-    # )
-    llm = LlamaCpp(
-        model_path="models/llama-2-7b.Q4_K_M.gguf",  n_ctx=1024, n_batch=512)
+# def get_conversation_chain(vectorstore):
+#     #llm = ChatOpenAI()
+#     # llm = HuggingFacePipeline.from_model_id(
+#     #     model_id="lmsys/vicuna-7b-v1.3",
+#     #     task="text-generation",
+#     #     model_kwargs={"temperature": 0.01},
+#     # )
+#     llm = LlamaCpp(
+#         model_path="models/llama-2-7b.Q4_K_M.gguf",  n_ctx=1024, n_batch=512)
     
-    memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True)
+#     memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True)
 
-    retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 4})
+#     retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 4})
 
+#     conversation_chain = ConversationalRetrievalChain.from_llm(
+#         llm=llm,
+#         retriever=retriever,
+#         memory=memory,
+#     )
+#     return conversation_chain
+
+def get_conversation_chain(vectorstore):
+    # using Mistral 7B
+    llm = HuggingFaceEndpoint(
+        repo_id="mistralai/Mistral-7B-Instruct-v0.2",
+        max_length=1024,
+        temperature=0.1,
+        token=None  # no token needed for inference API with open models
+    )
+
+    memory = ConversationBufferMemory(
+        memory_key='chat_history', return_messages=True)
     conversation_chain = ConversationalRetrievalChain.from_llm(
         llm=llm,
-        retriever=retriever,
+        retriever=vectorstore.as_retriever(
+            search_type="similarity", search_kwargs={"k": 4}),
         memory=memory,
     )
     return conversation_chain
