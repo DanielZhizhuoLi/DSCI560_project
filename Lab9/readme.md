@@ -2,7 +2,7 @@
 This is a Python gui application that demonstrates how to build a custom PDF chatbot using LangChain and GPT 3.5 / Llama 2. 
 
 
-## How it works (GPT 3.5)
+## How it works
 1. The application gui is built using react
 2. The application reads text from PDF files, splits it into chunks
 3. Uses Sbert embedding vectors used to find the most relevant content to a user's question 
