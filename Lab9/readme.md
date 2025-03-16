@@ -1,11 +1,11 @@
-# PDFs Chatbot using Langchain, GPT 3.5 and Llama 2
+# PDFs Chatbox using LangChain and Hugging Face Inference
 This is a Python gui application that demonstrates how to build a custom PDF chatbot using LangChain and GPT 3.5 / Llama 2. 
 
 
 ## How it works (GPT 3.5)
-1. The application gui is built using streamlit
+1. The application gui is built using react
 2. The application reads text from PDF files, splits it into chunks
-3. Uses OpenAI Embedding API to generate embedding vectors used to find the most relevant content to a user's question 
+3. Uses Sbert embedding vectors used to find the most relevant content to a user's question 
 4. Build a conversational retrieval chain using Langchain
 5. Use OpenAI GPT API to generate respond based on content in PDF
 
@@ -37,15 +37,18 @@ The code is structured as follows:
 
 ## How to run
 ```
-streamlit run app.py
+npm start
 ```
 
 
-## Update to use Llama 2 running locally
-1. Install Python bindings for llama.cpp library
+## Run the backend
+1. Install Python bindings
 ```
-pip install llama-cpp-python
+pip install flask flask-cors python-dotenv PyPDF2 langchain langchain-huggingface faiss-cpu huggingface_hub sentence_transformers
+
 ```
-2. Download the llama 2 7B GGML model from https://huggingface.co/TheBloke/LLaMa-7B-GGML/blob/main/llama-7b.ggmlv3.q4_1.bin and place it in the models folder
-3. Switch language model to use Llama 2 loaded by LlamaCpp
-4. Switch embedding model to MiniLM-L6-v2 using HuggingFaceEmbeddings
+2. run
+```
+python app.py
+```
+   
